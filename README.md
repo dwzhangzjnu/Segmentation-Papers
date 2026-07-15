@@ -1,16 +1,16 @@
 # Binary Segmentation Papers
 
-\- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Models#Segmentation-Foundation-Models )
+\- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models )
 
-\- [Unified Segmentation Models](https://github.com/dwzhangzjnu/Segmentation-Models#General/Unified-Segmentation-Models )
+\- [General Segmentation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation-Models )
 
-\- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Models#Salient-Object-Detection )
+\- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Salient-Object-Detection )
 
-\- [Camouflaged Object Detection](https://github.com/dwzhangzjnu/Segmentation-Models#Camouflaged-Object-Detection)
+\- [Camouflaged Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Camouflaged-Object-Detection)
 
-\- [Medical Image Segmentation](https://github.com/dwzhangzjnu/Segmentation-Models#Medical-Image-Segmentation)
+\- [Medical Image Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#Medical-Image-Segmentation)
 
-\- [Others](https://github.com/dwzhangzjnu/Segmentation-Models#Others)
+\- [Others](https://github.com/dwzhangzjnu/Segmentation-Papers#Others)
 
 
 ## Segmentation Foundation Models
