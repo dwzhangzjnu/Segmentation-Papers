@@ -23,8 +23,13 @@
 - **ParaX:** Meng Lou, Stanley Yu, Yizhou Yu.
    "Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing." ICML (2026). [[paper](https://arxiv.org/abs/2602.06862)] [[code](https://github.com/LMMMEng/ParaX)]
   
+- **DA3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.
+   "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2511.10647)] [[code](https://depth-anything-3.github.io/)]
+
 - **SAM 3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, et, al.
-   "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026). [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code]( )]
+   "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026).
+  [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code](https://github.com/facebookresearch/sam3)]
   
 - **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.
    "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
@@ -53,16 +58,42 @@
 
 ### 2025
 
+- **DINOv3:** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, et, al.
+   "DINOv3." TMM (2026). [[paper](https://arxiv.org/abs/2508.10104)] [[code](https://github.com/facebookresearch/dinov3)]
+
 - **DPSAM:** Peng Liu, Jinhong Deng, Lixin Duan, Wen Li, Fengmao Lv.
    "Segmenting Anything in the Dark via Depth Perception." TMM (2026). [[paper](https://ieeexplore.ieee.org/document/10948332)] [[code](https://github.com/liupeng3425/DPSAM)]
   
 - **SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, et, al.
    "Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes." arXiv (2025). [[paper](https://arxiv.org/abs/2412.01240)] [[code](https://github.com/lartpang/SAMs-CDConcepts-Eval)]
 
+### 2024
+
+- **SAM 2:** Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, et, al.
+   "SAM 2: Segment Anything in Images and Videos." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/sam2)]
+
+- **DA2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.
+   "Depth Anything V2." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2406.09414)] [[code](https://depth-anything-v2.github.io/)]
+
+- **DINOv2:** Maxime Oquab, Timothée Darcet, Théo Moutakanni, Huy Vo, et, al.
+   "DINOv2: Learning Robust Visual Features without Supervision." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2304.07193)] [[code](https://github.com/facebookresearch/dinov2)]
+  
 ### 2023
 
+- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.
+   "Segment Anything." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)]
+
+- **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Wang, Lijuan Wang, Jianfeng Gao, Yong Jae Lee.
+   "Segment Everything Everywhere All at Once." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2304.06718)] [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
+  
 - **SAD:** Jun Cen, Yizheng Wu, Kewei Wang, Xingyi Li, Jingkang Yang, Ziwei Liu, Qifeng Chen.
-   "SAD: Segment Any RGBD." arXiv (2023). [[paper](https://arxiv.org/abs/2305.14207)] [[code](https://github.com/Jun-CEN/SegmentAnyRGBD)]
+   "SAD: Segment Any RGBD." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.14207)] [[code](https://github.com/Jun-CEN/SegmentAnyRGBD)]
 
 
 
@@ -106,6 +137,18 @@
 
 - **SAM3-Adapter:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.
    "SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation." TPAMI (2025). [[paper](https://arxiv.org/abs/2511.19425)] [[code](https://tianrun-chen.github.io/SAM-Adaptor/)]
+
+- **SAM2-UNeXT:** Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li.
+   "SAM2-UNeXT: An Improved High-Resolution Baseline for Adapting Foundation Models to Downstream Segmentation Tasks." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.03566)] [[code](https://github.com/WZH0120/SAM2-UNeXT)]
+
+- **DSU-Net:** Yimin Xu, Fan Yang, Bin Xu.
+   "DSU-Net:An Improved U-Net Model Based on DINOv2 and SAM2 with Multi-scale Cross-model Feature Enhancement." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.21187)] [[code](https://github.com/CheneyXuYiMin/SAM2DINO-Seg)]
+  
+- **SAM2-UNet:** Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li.
+   "SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation." VINT (2026).
+  [[paper](https://arxiv.org/abs/2408.08870)] [[code](https://github.com/WZH0120/SAM2-UNet/)]
   
 - **EVP:** Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun.
    "Explicit Visual Prompting for Universal Foreground Segmentations." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/11197268/)] [[code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
@@ -539,6 +582,10 @@
    "Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation ." ArXiv (2026). [[paper](https://arxiv.org/abs/2601.10880)] [[code](https://github.com/AIM-Research-Lab/Medical-SAM3)]
 
 ### 2025
+
+- **MM-DINOv2:** Daniel Scholz, Ayhan Can Erdur, Viktoria Ehm, Anke Meyer-Baese, Jan C. Peeken, Daniel Rueckert, Benedikt Wiestler.
+   "MM-DINOv2: Adapting Foundation Models for Multi-Modal Medical Image Analysis." MICCAI (2025).
+  [[paper](https://arxiv.org/abs/2509.06617)] [[code](https://github.com/daniel-scholz/mm-dinov2)]
 
 - **MCANet:** Hao Shao, Quansheng Zeng, Qibin Hou, Jufeng Yang.
    "MCANet: Medical Image Segmentation with Multi-scale Cross-axis Attention." MIR (2025). [[paper](https://link.springer.com/article/10.1007/s11633-025-1552-6)] [[code](https://github.com/haoshao-nku/medical_seg)]
