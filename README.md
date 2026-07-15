@@ -575,6 +575,14 @@
    "Referring Camouflaged Object Detection." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2306.07532)] [[code](https://github.com/zhangxuying1004/RefCOD)]
 
+- **CAMF:** Cheng Lei, Jie Fan, Xinran Li, Tianzhu Xiang, Ao Li, Ce Zhu, Le Zhang.
+   "Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations." TPAMI (2025).
+  [[paper](https://arxiv.org/abs/2410.16953)] [[code](https://github.com/AVC2-UESTC/ZSCOS-CaMF)]
+
+- **SEE:** Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu.
+   "Segment Concealed Objects with Incomplete Supervision." TPAMI (2025).
+  [[paper](https://arxiv.org/abs/2506.08955)] [[code](https://github.com/ChunmingHe/SEE)]
+  
 - **UAT:** Ranwan Wu; Tian-Zhu Xiang; Guo-Sen Xie; Rongrong Gao; Xiangbo Shu; Fang Zhao.
    "Uncertainty-Aware Transformer for Referring Camouflaged Object Detection." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11080234)] [[code](https://github.com/CVL-hub/UAT)]
@@ -587,9 +595,21 @@
    "Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ICCV (2025).
   [[paper](https://arxiv.org/abs/2503.06042)] [[code]( )]
 
+- **SuCLIP:** Peng Ren, Tian Bai, Jing Sun, Fuming Sun.
+   "Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ren_Seeing_the_Unseen_A_Semantic_Alignment_and_Context-Aware_Prompt_Framework_ICCV_2025_paper.html)] [[code]( )]
+
+- **RISE:** Ji Du, Xin Wang, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li.
+   "Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Du_Beyond_Single_Images_Retrieval_Self-Augmented_Unsupervised_Camouflaged_Object_Detection_ICCV_2025_paper.html)] [[code](https://github.com/xiaohainku/RISE)]
+  
 - **SAM-ARM:** Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu.
    "Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Enhancing_Prompt_Generation_with_Adaptive_Refinement_for_Camouflaged_Object_Detection_ICCV_2025_paper.html)] [[code]( )]
+
+- **EASE:** Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li.
+   "Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection ." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html)] [[code](https://github.com/xiaohainku/EASE)]
 
 - **UCOD-DPL:** Weiqi Yan, Lvhai Chen, Huaijia Ko, Shengchuan Zhang, Yan Zhang, Liujuan Cao.
    "Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning." CVPR (2025).
@@ -601,7 +621,23 @@
 - **MM-CamObj:** Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu.
    "MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios." AAAI (2025).
   [[paper](https://arxiv.org/abs/2409.16084)] [[code](https://github.com/JCruan519/MM-CamObj)]
+
+- **MCOD:** Yang Li, Tingfa Xu, Shuyan Bai, Peifu Liu, Jianan Li.
+   "MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2509.15753)] [[code](https://github.com/yl2900260-bit/MCOD)]
+
+- **ST-SAM:** Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang.
+   "ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2507.23307)] [[code](https://github.com/hu-xh/ST-SAM)]
+
+- **LiP:** Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang.
+   "From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3755212)] [[code]( )]
   
+- **CIRCOD:** Avi Gupta, Koteswar Rao Jerripothula, Tammam Tillo.
+   "CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery." WACV (2025).
+  [[paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)] [[code](https://github.com/avigupta2798/CIRCOD/)]
+   
 - **FGSA-Net:** Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang.
    "Frequency-Guided Spatial Adaptation for Camouflaged Object Detection." TMM (2025). [[paper](https://ieeexplore.ieee.org/document/10844993)] [[code]( )]
 
@@ -689,7 +725,11 @@
 - **MMCPF:** Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li.
    "Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2311.11273)] [[code](https://github.com/luckybird1994/MMCPF)]
-  
+
+- **SSCOD:** Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo.
+   "Semi-supervised Camouflaged Object Detection from Noisy Data." ACM MM (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)] [[code](https://github.com/ForawardStar/COD)]
+
 ### 2023
 
 - **WS-SAM:** Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li. 
@@ -707,6 +747,10 @@
 - **ZSCOD:** Haoran Li; Chun-Mei Feng; Yong Xu; Tao Zhou; Lina Yao; Xiaojun Chang. 
    "Zero-Shot Camouflaged Object Detection." TIP (2023).
   [[paper](https://ieeexplore.ieee.org/document/10234216)] [[code]( )]
+
+- **CamDiff:** Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool. 
+   "CamDiff: Camouflage Image Augmentation via Diffusion Model." CAAI AIR (2023).
+  [[paper](https://arxiv.org/abs/2304.05469)] [[code](https://github.com/drlxj/CamDiff)]
   
 
 
