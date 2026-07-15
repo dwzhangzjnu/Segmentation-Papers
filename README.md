@@ -26,6 +26,10 @@
 - **SAM 3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, et, al.
    "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026). [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code]( )]
   
+- **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.
+   "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.12297)] [[code]( )]
+  
 - **INSID3:** Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Stefan Roth.
    "INSID3: Training-Free In-Context Segmentation with DINOv3." CVPR (2026). [[paper](https://arxiv.org/abs/2603.28480)] [[code](https://github.com/visinf/INSID3)]
   
@@ -43,7 +47,7 @@
 
 - **X-SAM:** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.
    "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026). [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
-  
+
 - **SegRGB-X:** Jiong Liu, Yingjie Xu, Xingcheng Zhou, Rui Song, Walter Zimmer, Alois Knoll, Hu Cao.
    "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026). [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
 
@@ -87,8 +91,13 @@
 - **DiveSeg:** Zhiyang Chen, Chen Zhang, Hao Fang, Runmin Cong.
    "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter." AAAI (2026). [[paper](https://arxiv.org/abs/2511.08334)] [[code](https://github.com/ettof/Diveseg)]
   
+- **UMSS:** Haitian Zhang, Thai Duy Nguyen, Xiangyuan Wang, Mohan Liu, Lin Wang.
+   "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.12372)] [[code]( )]
+
 - **SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.
-   "SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." arXiv (2026). [[paper](https://arxiv.org/abs/2602.06335)] [[code]( )]
+   "SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.06335)] [[code]( )]
   
 - **DFormer++:** Bo-Wen Yin; Jiao-Long Cao; Dan Xu; Ming-Ming Cheng; Qibin Hou.
    "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026). [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
