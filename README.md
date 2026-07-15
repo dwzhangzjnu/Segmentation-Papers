@@ -571,7 +571,7 @@
 
 ### 2025
 
-- **RefCOD:** Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng.
+- **R2C7K/RefCOD:** Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng.
    "Referring Camouflaged Object Detection." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2306.07532)] [[code](https://github.com/zhangxuying1004/RefCOD)]
 
@@ -642,10 +642,18 @@
    "Open-Vocabulary Camouflaged Object Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2311.11241)] [[code](https://github.com/lartpang/OVCamo)]
 
+- **COD-TAX/ACUMEN:** Hong Zhang, Yixuan Lyu, Qian Yu, Hanyang Liu, Huimin Ma, Ding Yuan, Yifan Yang.
+   "Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and Visual Analysis Strategy." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.12086)] [[code](https://github.com/lyu-yx/ACUMEN)]
+  
 - **SAM-COD:** Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao.
    "SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.10760)] [[code]( )]
 
+- **P-COD:** Huafeng Chen, Dian Shao, Guangqian Guo, Shan Gao.
+   "Just a Hint: Point-Supervised Camouflaged Object Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.10777)] [[code]( )]
+  
 - **Noisy-COD:** Jin Zhang, Ruiheng Zhang, Yanjiao Shi, Zhe Cao, Nian Liu, Fahad Shahbaz Khan.
    "Learning Camouflaged Object Detection from Noisy Pseudo Label." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.13157)] [[code](https://github.com/zhangjinCV/Noisy-COD)]
@@ -661,6 +669,10 @@
 - **TSP-SAM:** Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao.
    "Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection." CVPR (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.pdf)] [[code](https://github.com/WenjunHui1/TSP-SAM)]
+
+- **ACOD-12K/RISNet:** Liqiong Wang, Jinyu Yang, Yanfu Zhang, Fangyi Wang, Feng Zheng.
+   "Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf)] [[code](https://github.com/Kki2Eve/RISNet)]
   
 - **SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.
    "SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention." CVPRW (2024).
