@@ -180,9 +180,19 @@
 - **Sigma:** Zifu Wan, Pingping Zhang, Yuhao Wang, Silong Yong, Yaqi Xie.
    "Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation." WACV (2025). [[paper](https://arxiv.org/abs/2404.04256)] [[code](https://github.com/zifuwan/Sigma)]
 
+### 2024
 
+- **SAM2-Adapter:** Tianrun Chen, Ankang Lu, Lanyun Zhu, Chaotao Ding, Chunan Yu, Deyi Ji, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.
+   "SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04579)] [[code](https://tianrun-chen.github.io/SAM-Adaptor/)]
 
+### 2023
 
+- **SAM-Adapter:** Tianrun Chen, Lanyun Zhu, Chaotao Ding, Runlong Cao, Yan Wang, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.
+   "SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.09148)] [[code](https://tianrun-chen.github.io/SAM-Adaptor/)]
+
+  
 
 ## Salient Object Detection
 
@@ -533,7 +543,12 @@
 ### 2025
 
 - **MM-SAM:** Guangyu Ren; Hengyan Liu; Michalis Lazarou; Tania Stathaki.
-   "Multi-Modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025). [[paper](https://ieeexplore.ieee.org/document/11444230)] [[code](https://github.com/ic-qialanqian/Vision-Language-SAM)]
+   "Multi-Modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11444230)] [[code](https://github.com/ic-qialanqian/Vision-Language-SAM)]
+
+- **SAM-COD:** Jiaming Liu, Linghe Kong, Guihai Chen.
+   "Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2503.06042)] [[code]( )]
   
 - **CamSAM2:** Yuli Zhou, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu, Guolei Sun.
    "CamSAM2: Segment Anything Accurately in Camouflaged Videos." NeurIPS (2025). [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/500d8f70bd1f67476f683471354e3da7-Abstract-Conference.html)] [[code](https://github.com/zhoustan/CamSAM2)]
@@ -544,6 +559,15 @@
 - **FMNet:** Ming Deng, Sijin Sun, Zihao Li, Xiaochuan Hu, Xing Wu.
    "FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection." arXiv (2025). [[paper](https://arxiv.org/abs/2503.11030)] [[code](https://github.com/Chranos/FMNet)]
 
+### 2024
+
+- **SAM-COD+:** Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao. 
+   "SAM-COD+: SAM-Guided Unified Framework for Weakly-Supervised Camouflaged Object Detection." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10789225)] [[code]( )]
+
+- **SAM-COD:** Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao.
+   "SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.10760)] [[code]( )]
 
 
 
