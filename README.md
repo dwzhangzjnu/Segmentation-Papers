@@ -1,5 +1,16 @@
 # Binary Segmentation Papers
 
+\- [Segmentation Foundation Models](##Segmentation Foundation Models )
+
+\- [Unified Segmentation Models](##General/Unified Segmentation Models )
+
+\- [Salient Object Detection](##Salient Object Detection )
+
+\- [Camouflaged Object Detection](##Camouflaged Object Detection)
+
+\- [Medical Image Segmentation](##Medical Image Segmentation)
+
+\- [Others](##Others)
 
 
 ## Segmentation Foundation Models
