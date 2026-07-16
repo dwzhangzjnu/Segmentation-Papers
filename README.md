@@ -540,13 +540,20 @@
    "Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation." CVPR (2026). [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Seeing_Both_Sides_Towards_Bidirectional_Semantic_Alignment_for_Open-Vocabulary_Camouflaged_CVPR_2026_paper.html)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
   
 - **DSS:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
-   "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026). [[paper](https://arxiv.org/abs/2602.19944)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
+   "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.19944)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
+
+- **OVCIS:** Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Nhat Chung, Binh-Son Hua, Ivor W. Tsang, Sai-Kit Yeung.
+   "Catch Me If You Can Describe Me: Open-Vocabulary Camouflaged Instance Segmentation with Diffusion." IJCV (2026).
+  [[paper](https://arxiv.org/abs/2312.17505)] [[code]( )]
   
 - **BEI-Net:** Ruiheng Zhang; Kaizheng Chen; Lu Li; Daming Zhou; Yunqiu Xu; Zheng Lin.
-   "Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection." TMM (2026). [[paper](https://ieeexplore.ieee.org/document/11563663)] [[code](https://github.com/RuihengZhang/BEI_Net)]
+   "Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11563663)] [[code](https://github.com/RuihengZhang/BEI_Net)]
   
 - **VIAC/CGFINet:** Cheng Liu, Zheng Wang, Xinyu Yan, Meijun Sun, Qinghua Hu.
-   "Visible-Infrared Camouflaged Object Detection." TCSVT (2026). [[paper](https://ieeexplore.ieee.org/document/11159525)] [[code](https://github.com/tjuliucheng/Multimodal-Visual-Reasoning-Dataset)]
+   "Visible-Infrared Camouflaged Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11159525)] [[code](https://github.com/tjuliucheng/Multimodal-Visual-Reasoning-Dataset)]
   
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
    "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026). [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
@@ -556,7 +563,8 @@
   [[paper](https://ieeexplore.ieee.org/document/11216034)] [[code](https://github.com/ZX123445/SAM-RNet)]
 
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
-   "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026). [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
+   "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
   
 - **MAPL:** Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.
    "Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026). [[paper](https://arxiv.org/abs/2604.12380)] [[code]( )]
@@ -591,6 +599,10 @@
    "Uncertainty-Aware Transformer for Referring Camouflaged Object Detection." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11080234)] [[code](https://github.com/CVL-hub/UAT)]
 
+- **EMIP:** Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao.
+   "Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection." TIP (2025).
+  [[paper](https://arxiv.org/abs/2403.01968)] [[code](https://github.com/zhangxin06/EMIP)]
+  
 - **UpGen:** Ji Du; Jiesheng Wu; Desheng Kong; Weiyun Liang; Fangwei Hao; Jing Xu.
    "UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11131534)] [[code]( )]
@@ -615,6 +627,10 @@
    "Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Enhancing_Prompt_Generation_with_Adaptive_Refinement_for_Camouflaged_Object_Detection_ICCV_2025_paper.html)] [[code]( )]
 
+- **SRR:** Yu'ang Feng, Shuyong Gao, Fuzhen Yan, Yicheng Song, Lingyi Hong, Junjie Hu, Wenqiang Zhang.
+   "Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Feng_Scoring_Remember_and_Reference_Catching_Camouflaged_Objects_in_Videos_ICCV_2025_paper.html)] [[code]( )]
+  
 - **EASE:** Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li.
    "Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection ." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html)] [[code](https://github.com/xiaohainku/EASE)]
@@ -669,8 +685,17 @@
    "Weakly supervised camouflaged object detection based on the SAM model and mask guidance." IVC (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0262885625001593)] [[code]( )]
 
+- **ZS-VCOS:** Wenqi Guo, Mohamed Shehata, Shan Du.
+   "ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.01431)] [[code](https://github.com/weathon/vcos)]
+
+- **MSVCOD:** Shuyong Gao, Yu'ang Feng, Qishan Wang, Lingyi Hong, Xinyu Zhou, Liu Fei, Yan Wang, Wenqiang Zhang.
+   "MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.13859)] [[code](https://github.com/shuyonggao/MSVCOD)]
+  
 - **FMNet:** Ming Deng, Sijin Sun, Zihao Li, Xiaochuan Hu, Xing Wu.
-   "FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection." arXiv (2025). [[paper](https://arxiv.org/abs/2503.11030)] [[code](https://github.com/Chranos/FMNet)]
+   "FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.11030)] [[code](https://github.com/Chranos/FMNet)]
 
 ### 2024
 
@@ -738,6 +763,10 @@
    "Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2407.12339)] [[code](https://github.com/guobaoxiao/DSAM)]
 
+- **TPNet:** Zhentao He, Changqun Xia, Shengye Qiao, Jia Li.
+   "Text-prompt Camouflaged Instance Segmentation with Graduated Camouflage Learning." ACM MM (2024).
+  [[paper](https://dl.acm.org/doi/10.1145/3664647.3681132)] [[code](https://github.com/zertow/TPNet)]
+  
 - **MMCPF:** Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li.
    "Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2311.11273)] [[code](https://github.com/luckybird1994/MMCPF)]
@@ -756,6 +785,10 @@
    "Weakly-Supervised Camouflaged Object Detection with Scribble Annotations." AAAI (2023).
   [[paper](https://arxiv.org/abs/2207.14083)] [[code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)]
 
+- **DCNet:** Naisong Luo, Yuwen Pan, Rui Sun, Tianzhu Zhang, Zhiwei Xiong, Feng Wu. 
+   "Camouflaged Instance Segmentation via Explicit De-camouflaging." CVPR (2023).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Camouflaged_Instance_Segmentation_via_Explicit_De-Camouflaging_CVPR_2023_paper.pdf)] [[code](https://github.com/USTCL/DCNet)]
+  
 - **DaCOD:** ZQingwei Wang, Jinyu Yang, Xiaosheng Yu, Fangyi Wang, Peng Chen, Feng Zheng.
    "Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection." ACM MM (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3581783.3611874)] [[code](https://github.com/qingwei-wang/DaCOD)]
@@ -768,7 +801,17 @@
    "CamDiff: Camouflage Image Augmentation via Diffusion Model." CAAI AIR (2023).
   [[paper](https://arxiv.org/abs/2304.05469)] [[code](https://github.com/drlxj/CamDiff)]
   
+### 2022
 
+- **SLT-Net:** Xuelian Cheng, Huan Xiong, Deng-Ping Fan, Yiran Zhong, Mehrtash Harandi, Tom Drummond, Zongyuan Ge. 
+   "Implicit Motion Handling for Video Camouflaged Object Detection." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2203.07363)] [[code](https://github.com/XuelianCheng/SLT-Net)]
+
+- **OSFormer:** Jialun Pei, Tianyang Cheng, Deng-Ping Fan, He Tang, Chuanbo Chen, Luc Van Gool. 
+   "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2207.02255)] [[code](https://github.com/PJLallen/OSFormer)]
+
+  
 
 ## Medical Image Segmentation
 
