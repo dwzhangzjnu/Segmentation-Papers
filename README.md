@@ -543,6 +543,14 @@
 
 ## Camouflaged Object Detection
 
+[[Awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)]
+
+[[Awesome Concealed Object Segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]
+
+[[Awesome List for Camouflaged Object Detection](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)]
+
+
+
 ### 2026
 
 - **GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
