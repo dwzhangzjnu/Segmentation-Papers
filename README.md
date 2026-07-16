@@ -15,6 +15,10 @@
 
 ## Segmentation Foundation Models
 
+[[Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything)]
+
+[[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)]
+
 ### 2026
 
 - **FLIP:** Manuel Traub, Martin V. Butz.
@@ -87,6 +91,10 @@
    "Segment Anything." arXiv (2023).
   [[paper](https://arxiv.org/abs/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)]
 
+- **SAM-Track:** Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.
+   "Segment and Track Anything." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+  
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Wang, Lijuan Wang, Jianfeng Gao, Yong Jae Lee.
    "Segment Everything Everywhere All at Once." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2304.06718)] [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
