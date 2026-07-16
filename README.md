@@ -1,10 +1,10 @@
 # Binary Segmentation Papers
 
-\- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models )
+\- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models)
 
-\- [General Segmentation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation-Models )
+\- [General Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation)
 
-\- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Salient-Object-Detection )
+\- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Salient-Object-Detection)
 
 \- [Camouflaged Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Camouflaged-Object-Detection)
 
@@ -97,7 +97,7 @@
 
 
 
-## General Segmentation Models
+## General Segmentation
 
 ### 2026
 
@@ -675,8 +675,13 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.pdf)] [[code](https://github.com/Heartfirey/UCOD-DPL)]
   
 - **CamSAM2:** Yuli Zhou, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu, Guolei Sun.
-   "CamSAM2: Segment Anything Accurately in Camouflaged Videos." NeurIPS (2025). [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/500d8f70bd1f67476f683471354e3da7-Abstract-Conference.html)] [[code](https://github.com/zhoustan/CamSAM2)]
+   "CamSAM2: Segment Anything Accurately in Camouflaged Videos." NeurIPS (2025).
+  [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/500d8f70bd1f67476f683471354e3da7-Abstract-Conference.html)] [[code](https://github.com/zhoustan/CamSAM2)]
 
+- **MMCSBench:** Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen.
+   "MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=dJnzFlPUuO)] [[code](https://github.com/zhangjinCV/MMCSBench)]
+  
 - **MM-CamObj:** Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu.
    "MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios." AAAI (2025).
   [[paper](https://arxiv.org/abs/2409.16084)] [[code](https://github.com/JCruan519/MM-CamObj)]
