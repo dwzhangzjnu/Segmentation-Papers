@@ -550,7 +550,11 @@
   
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
    "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026). [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
-  
+
+- **SAM-RNet:** Yanliang Ge; Yuxi Zhong; Qiao Zhang; Hongbo Bi; Tian-Zhu Xiang.
+   "Weakly-Supervised Camouflaged Object Detection via SAM-Guided Resolution Iteration Learning." TBD (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11216034)] [[code](https://github.com/ZX123445/SAM-RNet)]
+
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026). [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
   
@@ -586,6 +590,10 @@
 - **UAT:** Ranwan Wu; Tian-Zhu Xiang; Guo-Sen Xie; Rongrong Gao; Xiangbo Shu; Fang Zhao.
    "Uncertainty-Aware Transformer for Referring Camouflaged Object Detection." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11080234)] [[code](https://github.com/CVL-hub/UAT)]
+
+- **UpGen:** Ji Du; Jiesheng Wu; Desheng Kong; Weiyun Liang; Fangwei Hao; Jing Xu.
+   "UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11131534)] [[code]( )]
   
 - **MM-SAM:** Guangyu Ren; Hengyan Liu; Michalis Lazarou; Tania Stathaki.
    "Multi-Modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025).
@@ -630,10 +638,18 @@
    "ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection." ACM MM (2025).
   [[paper](https://arxiv.org/abs/2507.23307)] [[code](https://github.com/hu-xh/ST-SAM)]
 
+- **PRLNet:** Shuyong Gao, Qianyu Guo, Yu'ang Feng, Chunyuan Chen, Xujun Wei, Yan Wang, Wenqiang Zhang.
+   "Progressive Representation Learning for Weakly-Supervised Camouflaged Object Detection." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754737)] [[code](https://github.com/shuyonggao/PRLNet)]
+  
 - **LiP:** Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang.
    "From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection." ACM MM (2025).
   [[paper](https://dl.acm.org/doi/10.1145/3746027.3755212)] [[code]( )]
-  
+
+- **FCT-SAM-WSCOD:** Zi-Jie Wu, Rongrong Gao, Tian-Zhu Xiang.
+   "Scribble-Based Weakly Supervised Camouflaged Object Detection via SAM-Guided Feature Correlation Transformer." ECAI (2025).
+  [[paper](https://ebooks.iospress.nl/volumearticle/75733)] [[code](https://github.com/farewellIamLoser/FCT-SAM-WSCOD)]
+
 - **CIRCOD:** Avi Gupta, Koteswar Rao Jerripothula, Tammam Tillo.
    "CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery." WACV (2025).
   [[paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)] [[code](https://github.com/avigupta2798/CIRCOD/)]
