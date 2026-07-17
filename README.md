@@ -1,6 +1,6 @@
 # Binary Segmentation Papers
 
-A collection of advanced binary segmentation methods, codes, and datasets. It involves Segmentation Foundation Models, General Segmentation, Salient Object Detection, Camouflaged Object Detection, Medical Image Segmentation.
+A collection of advanced binary segmentation methods, codes, and datasets. It involves Segmentation Foundation Models, Salient Object Detection, Camouflaged Object Detection, Medical Image Segmentation.
 
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
