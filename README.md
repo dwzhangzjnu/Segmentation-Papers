@@ -76,7 +76,7 @@
 - **SAM 2:** Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, et, al.
    "SAM 2: Segment Anything in Images and Videos." arXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/sam2)]
-
+  
 - **DA2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.
    "Depth Anything V2." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2406.09414)] [[code](https://depth-anything-v2.github.io/)]
@@ -84,6 +84,14 @@
 - **DINOv2:** Maxime Oquab, Timothée Darcet, Théo Moutakanni, Huy Vo, et, al.
    "DINOv2: Learning Robust Visual Features without Supervision." arXiv (2024).
   [[paper](https://arxiv.org/abs/2304.07193)] [[code](https://github.com/facebookresearch/dinov2)]
+
+- **Grounded SAM 2:** Tianhe Ren, Shuo Shen.
+   "Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-SAM-2)]
+
+- **Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, et, al.
+   "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
   
 ### 2023
 
