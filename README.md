@@ -983,6 +983,8 @@
 
 [[Awesome-Diffusion-Model-in-Medical](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging)]
 
+[[Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset)]
+
 [[Awesome-U-Net](https://github.com/NITR098/Awesome-U-Net)]
 
 ### 2026
@@ -1021,6 +1023,10 @@
 - **EP-SAM:** Wenhao Li, Fangyi Liu, Bo Du.
    "An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation." ICME (2026).
   [[paper](https://arxiv.org/abs/2607.07240)] [[code]( )]
+
+- **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
+   "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11455620)] [[code](https://github.com/uni-medical/MedSegAgent)]
   
 - **FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.
    "Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
@@ -1052,10 +1058,18 @@
    "Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation." ACM MM (2025).
   [[paper](https://arxiv.org/abs/2508.01064)] [[code](https://github.com/FengheTan9/Mobile-U-ViT)]
   
+- **Medical SAM Adapter:** Junde Wu, Wei Ji, Yuanpei Liu, Huazhu Fu, Min Xu, Yanwu Xu, Yueming Jin.
+   "Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation." MedIA (2025).
+  [[arxiv](https://arxiv.org/abs/2304.12620)] [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525000945)] [[code](https://github.com/ImprintLab/Medical-SAM-Adapter)]
+
 - **SemiSAM+:** Yichi Zhang, Bohao Lv, Le Xue, Wenbo Zhang, Yuchen Liu, Yu Fu, Yuan Cheng, Yuan Qi.
    "SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models." MedIA (2025).
   [[paper](https://arxiv.org/abs/2502.20749)] [[SemiSAM](https://arxiv.org/abs/2312.06316)] [[code](https://github.com/YichiZhang98/SemiSAM)]
 
+- **finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.
+   "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model." MELBA (2025).
+  [[paper](https://arxiv.org/abs/2404.09957)] [[code](https://github.com/mazurowski-lab/finetune-SAM)]
+  
 - **MedDINOv3:** Yuheng Li, Yizhou Wu, Yuxiang Lai, Mingzhe Hu, Xiaofeng Yang.
    "MedDINOv3: How to adapt vision foundation models for medical image segmentation?." arXiv (2025).
   [[paper](https://arxiv.org/abs/2509.02379)] [[code](https://github.com/ricklisz/MedDINOv3)]
@@ -1086,10 +1100,18 @@
    "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation." MedIA (2024).
   [[paper](https://arxiv.org/abs/2102.04306)] [[code](https://github.com/Beckschen/TransUNet)]
 
+- **MedLSAM:** Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li, Shaoting Zhang.
+   "MedLSAM: Localize and Segment Anything Model for 3D CT Images." MedIA (2024).
+  [[paper](https://arxiv.org/abs/2306.14752)] [[code](https://github.com/openmedlab/MedLSAM)]
+  
 - **VM-UNet:** Jiacheng Ruan, Jincheng Li, Suncheng Xiang.
    "VM-UNet: Vision Mamba UNet for Medical Image Segmentation." ACM TOMM (2024).
   [[paper](https://arxiv.org/abs/2402.02491)] [[code](https://github.com/JCruan519/VM-UNet)]
   
+- **One-Prompt:** Junde Wu, Jiayuan Zhu, Yueming Jin, Min Xu.
+   "One-Prompt to Segment All Medical Images." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2305.10300)] [[code](https://github.com/ImprintLab/one-prompt)]
+
 - **UMIS:** Yunhe Gao, Zhuowei Li, Di Liu, Mu Zhou, Shaoting Zhang, Dimitris N. Metaxas.
    "Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2306.02416)] [[code](https://github.com/yhygao/universal-medical-image-segmentation)]
