@@ -977,6 +977,10 @@
 - **Dino U-Net:** Haoyue Li, Yifan Gao, Feng Yuan, Xiaosong Wang, Xin Gao.
    "Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2508.20909)] [[code](https://github.com/yifangao112/DinoUNet)]
+
+- **ViPSAM:** San Lee, Nalee Kim, Jeong Il Yu, Hee Chul Park, Boah Kim.
+   "ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model." MICCAI (2026).
+  [[paper](https://arxiv.org/abs/2607.14328)] [[code](https://github.com/torchViPSAM/ViPSAM)]
   
 - **SegMoTE:** Yujie Lu, Jingwen Li, Sibo Ju, Yanzhou Su, he yao, Yisong Liu, Min Zhu, Junlong Cheng.
    "SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation." CVPR (2026).
