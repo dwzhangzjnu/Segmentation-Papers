@@ -4,8 +4,6 @@ A collection of advanced binary segmentation methods, codes, and datasets. It in
 
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
-## Contents
-
 \- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models)
 
 \- [General Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation)
@@ -153,25 +151,36 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ### 2026
 
 - **DifferSeg:** Qiangqiang Zhou; Jiawei Xu; Yong Chen; Dandan Zhu; Yugen Yi; Xiaoqi Zhao.
-   "DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance." TCSVT (2026). [[paper](https://ieeexplore.ieee.org/document/11552874)] [[code](https://github.com/jiaweiXu1029/DifferSeg)]
+   "DifferSeg: Towards Diverse Multimodal Binary Segmentation via Differential Perception and Frequency Guidance." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11552874)] [[code](https://github.com/jiaweiXu1029/DifferSeg)]
 
 - **HVPNet:** Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu.
-   "HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection." NN (2026). [[paper](https://arxiv.org/abs/2606.31496)] [[code](https://github.com/jiaweiXu1029/HVPNet)]
+   "HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection." NN (2026).
+  [[paper](https://arxiv.org/abs/2606.31496)] [[code](https://github.com/jiaweiXu1029/HVPNet)]
 
 - **LFNet:** Ke Chen, Ling Zhou, Guangqi Jiang, Gengshen Wu, Yi Liu, Shoukun Xu.
-   "Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection." ECCV (2026). [[paper](https://arxiv.org/abs/2606.26849)] [[code](https://github.com/cke520/LFNet)]
+   "Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.26849)] [[code](https://github.com/cke520/LFNet)]
+
+- **H2Net:** Jinyu Han, Changguang Wu, Fuming Sun, Mengyin Wang, Jinhui Tang.
+   "H²Net: Homo- and Heterogeneous Networks for Unified Segmentation." IJCAI (2026).
+  [[paper](https://h2net-ijcai26.github.io/)] [[code](https://github.com/hjy0518/H2Net)]
   
 - **CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.
-   "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." arXiv (2026). [[paper](https://arxiv.org/abs/2605.24807)] [[code]( )]
+   "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.24807)] [[code]( )]
   
 - **BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.
-   "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPRW (2026). [[paper](https://arxiv.org/abs/2605.24893)] [[code](https://github.com/TylerRust-1/BED-SAM2)]
+   "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPRW (2026).
+  [[paper](https://arxiv.org/abs/2605.24893)] [[code](https://github.com/TylerRust-1/BED-SAM2)]
   
 - **RUAC:** Hongyou Zhou, Marc Toussaint, Ling Shao, Zihan Ye.
-   "Segment Anything with Robust Uncertainty-Accuracy Correlation." ICML (2026). [[paper](https://arxiv.org/abs/2605.10603)] [[code](https://hongyouzhou.github.io/ruac/)]
+   "Segment Anything with Robust Uncertainty-Accuracy Correlation." ICML (2026). 
+  [[paper](https://arxiv.org/abs/2605.10603)] [[code](https://hongyouzhou.github.io/ruac/)]
   
 - **DiveSeg:** Zhiyang Chen, Chen Zhang, Hao Fang, Runmin Cong.
-   "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter." AAAI (2026). [[paper](https://arxiv.org/abs/2511.08334)] [[code](https://github.com/ettof/Diveseg)]
+   "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.08334)] [[code](https://github.com/ettof/Diveseg)]
   
 - **UMSS:** Haitian Zhang, Thai Duy Nguyen, Xiangyuan Wang, Mohan Liu, Lin Wang.
    "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
@@ -182,7 +191,8 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
   [[paper](https://arxiv.org/abs/2602.06335)] [[code]( )]
   
 - **DFormer++:** Bo-Wen Yin; Jiao-Long Cao; Dan Xu; Ming-Ming Cheng; Qibin Hou.
-   "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026). [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
+   "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
 
 ### 2025
 
@@ -646,16 +656,24 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
    "IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment." ArXiv (2026). [[paper](https://arxiv.org/abs/2603.27250)]
   
 - **DFMGNet:** Ke Chen, Yi Liu.
-   "DFMGNet: RGB-D Camouflaged Object Detection With Mamba Fusion and Dynamic Frequency-aware Refinement." ArXiv (2026). [[paper]( )] [[code](https://github.com/cke520/DFMGNet)]
+   "DFMGNet: RGB-D Camouflaged Object Detection With Mamba Fusion and Dynamic Frequency-aware Refinement." ArXiv (2026).
+  [[paper]( )] [[code](https://github.com/cke520/DFMGNet)]
   
+- **DepthSAM:** Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang.
+   "Beyond Appearance: Camouflaged Object Detection via Geometric Structure." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)] [[code](https://github.com/hjy0518/DepthSAM)]
+
 - **SDDF:** Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie.
-   "SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection." CVPR (2026). [[paper](https://arxiv.org/abs/2603.26109)] [[code](https://github.com/Zh1fen/SDDF)]
+   "SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.26109)] [[code](https://github.com/Zh1fen/SDDF)]
   
 - **FBAP:** Peng Ren, Cheng Jiang, Chuande Yang, Fuming Sun, Tian Bai.
-   "Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt." CVPR (2026). [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Ren_Training-Free_Open-Vocabulary_Camouflaged_Object_Segmentation_via_Fine-Grained_Object_Binding_and_CVPR_2026_paper.html)] [[code]( )]
+   "Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Ren_Training-Free_Open-Vocabulary_Camouflaged_Object_Segmentation_via_Fine-Grained_Object_Binding_and_CVPR_2026_paper.html)] [[code]( )]
   
 - **BaCLIP:** Guohui Zhang, Fuming Sun, Yu Zhao, Yuqiu Kong, Jing Sun, Fasheng Wang.
-   "Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation." CVPR (2026). [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Seeing_Both_Sides_Towards_Bidirectional_Semantic_Alignment_for_Open-Vocabulary_Camouflaged_CVPR_2026_paper.html)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
+   "Seeing Both Sides: Towards Bidirectional Semantic Alignment for Open-Vocabulary Camouflaged Object Segmentation." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Seeing_Both_Sides_Towards_Bidirectional_Semantic_Alignment_for_Open-Vocabulary_Camouflaged_CVPR_2026_paper.html)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
   
 - **DSS:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
    "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
@@ -823,6 +841,10 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 - **COD-SAM:** Dongyang Gao, Yichao Zhou, Hui Yan, Chen Chen, Xiyuan Hu.
    "COD-SAM: Camouflage object detection using SAM." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325004868)] [[code]( )]
+
+- **PPT-net:** Guoying Liang, Su Yang.
+   "Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.09123)] [[code]( )]
   
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly supervised camouflaged object detection based on the SAM model and mask guidance." IVC (2025).
