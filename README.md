@@ -237,6 +237,10 @@
    "Spider: A Unified Framework for Context-dependent Concept Segmentation." ICML (2024).
   [[paper](https://arxiv.org/abs/2405.01002)] [[code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)]
 
+- **Conv-LoRA:** Zihan Zhong, Zhiqiang Tang, Tong He, Haoyang Fang, Chun Yuan.
+   "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.17868)] [[code](https://github.com/autogluon/autogluon/tree/master/examples/automm/Conv-LoRA)]
+  
 - **VSCode:** Ziyang Luo, Nian Liu, Wangbo Zhao, Xuguang Yang, Dingwen Zhang, Deng-Ping Fan, Fahad Khan, Junwei Han.
    "VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.15011)] [[code](https://github.com/Sssssuperior/VSCode)]
@@ -347,31 +351,44 @@
    "RSONet: Region-Guided Selective Optimization Network for RGB-T Salient Object Detection." TCSVT (2026). [[paper](https://ieeexplore.ieee.org/document/11428245)] [[code]( )]
   
 - **DiffRGBD:**  Shixiang Shi; Gongyang Li; Runmin Cong; Shunxin Xiao; Weisi Lin. 
-   "Diffusion-driven RGB-D Salient Object Detection with Temporal Modulation." TCSVT (2026). [[paper](https://ieeexplore.ieee.org/document/11483127)] [[code](https://github.com/Shixiang02/DiffRGBD)]
+   "Diffusion-driven RGB-D Salient Object Detection with Temporal Modulation." TCSVT (2026). [[paper](https://ieeexplore.ieee.org/document/11483127)]
+  [[code](https://github.com/Shixiang02/DiffRGBD)]
   
-- **STENet:**  Jianlin Chen, Gongyang Li, Zhijiang Zhang, Liang Chang, Dan Zeng. 
-   "STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection." TMM (2026). [[paper](https://arxiv.org/abs/2603.21999)] [[code](https://github.com/Mark9010/STENet)]
+- **WeakS2Diff_SOD:** Wenqi Si, Gongyang Li, Shixiang Shi, Weisi Lin. 
+   "Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion." TMM (2026).
+  [[paper](https://arxiv.org/abs/2607.15041)] [[code](https://github.com/Switch457/WeakS2Diff_SOD)]
+
+- **STENet:** Jianlin Chen, Gongyang Li, Zhijiang Zhang, Liang Chang, Dan Zeng. 
+   "STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection." TMM (2026).
+  [[paper](https://arxiv.org/abs/2603.21999)]  [[code](https://github.com/Mark9010/STENet)]
   
 - **SAMSOD:**  Zhengyi Liu, Xinrui Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang. 
-   "SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection." TMM (2026). [[paper](https://arxiv.org/abs/2510.03689)] [[code](https://github.com/liuzywen/SAMSOD)]
+   "SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection." TMM (2026).
+  [[paper](https://arxiv.org/abs/2510.03689)] [[code](https://github.com/liuzywen/SAMSOD)]
   
 - **CMFNet:**  Jingyu Wu; Fuming Sun; Mingyu Lu; Haojie Li. 
-   "Cross-Modal Fusion with Mixture-of-Experts for Efficient RGB-D Salient Object Detection." TMM (2026). [[paper](https://ieeexplore.ieee.org/document/11441976)] [[code]( )]
+   "Cross-Modal Fusion with Mixture-of-Experts for Efficient RGB-D Salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11441976)] [[code]( )]
   
 - **SMAFormer:** Yang Wu; Shenglong Hu; Kaihua Zhang; Lingyan Liang; Yaqian Zhao; Gang Dong. 
-   "Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection." TMM (2026). [[paper](https://ieeexplore.ieee.org/document/11427030)] [[code]( )]
+   "Learning Semantic-level Multi-modal Alignment Transformer for RGB-D Co-salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11427030)] [[code]( )]
   
 - **SAM-CLNet:** Wujie Zhou; Beibei Tang; Xiena Dong; Fangfang Qiang. 
-   "Prompt Then Refine: Prompt-Free SAM-Enhanced Collaborative Learning Network for Detecting Salient Objects in Underwater Images." TNNLS (2026). [[paper](https://ieeexplore.ieee.org/document/11436117)] [[code](https://github.com/BeibeiIsFreshman/SAM-USOD)]
+   "Prompt Then Refine: Prompt-Free SAM-Enhanced Collaborative Learning Network for Detecting Salient Objects in Underwater Images." TNNLS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11436117)] [[code](https://github.com/BeibeiIsFreshman/SAM-USOD)]
   
 - **DINOv3-SAM:** Wujie Zhou; Beibei Tang; Xiena Dong; Fangfang Qiang. 
-   "Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection." Under Review (2026). [[paper]( )] [[code](https://github.com/BeibeiIsFreshman/DINOv3_SAM)]
+   "Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection." Under Review (2026).
+  [[paper]( )] [[code](https://github.com/BeibeiIsFreshman/DINOv3_SAM)]
   
 - **TCFNet:** Lisha Cui; Feidie Li; Zhaoyang Ge; Linlin Zhai; Luchao Ma; Xiaoheng Jiang. 
-   "Text-Prompted Cross-Modal Feature Fusion Network for RGB-D Salient Defect Detection." TCE (2026). [[paper](https://ieeexplore.ieee.org/document/11396002)] [[code]( )]
+   "Text-Prompted Cross-Modal Feature Fusion Network for RGB-D Salient Defect Detection." TCE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11396002)] [[code]( )]
   
 - **CPENet:** Lina Gao; Haikun Chen; Yonggang Zhang; Yulong Huang. 
-   "Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devicesn." IoTJ (2026). [[paper](https://ieeexplore.ieee.org/document/11370867)] [[code](https://github.com/blossom-lv/CPENet)]
+   "Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devicesn." IoTJ (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11370867)] [[code](https://github.com/blossom-lv/CPENet)]
   
 - **CRTFS:**  Zeyang Zhang, Hui Li, Tianyang Xu, Xiaojun Wu, Muhammad Awais, Josef Kittler. 
    "A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection." IJCV (2026). [[paper](https://link.springer.com/article/10.1007/s11263-026-02793-4)] [[code](https://github.com/Yukarizz/CRTFS)]
@@ -1119,10 +1136,16 @@
 ### 2026
 
 - **SAM2Matting:** Ruiqi Shen, Guangquan Jie, Chang Liu, Henghui Ding.
-   "SAM2Matting: Generalized Image and Video Matting." ECCV (2026). [[paper](https://arxiv.org/abs/2606.27339)] [[code](https://henghuiding.com/SAM2Matting/)]
+   "SAM2Matting: Generalized Image and Video Matting." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.27339)] [[code](https://henghuiding.com/SAM2Matting/)]
   
 - **SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.
-   "Segment and Matte Anything in a Unified Model." AAAI (2026). [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
+   "Segment and Matte Anything in a Unified Model." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
+
+- **XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.
+   "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
+  [[paper](https://arxiv.org/abs/2607.14287)] [[code](https://github.com/Mahedi-61/XCT-SAM)]
 
 ### 2025
 
