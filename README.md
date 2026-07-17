@@ -62,11 +62,16 @@
 
 ### 2025
 
+- **EfficientTAM:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, et, al.
+   "Efficient Track Anything." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xiong_Efficient_Track_Anything_ICCV_2025_paper.html)] [[code](https://github.com/yformer/EfficientTAM)]
+
 - **DINOv3:** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, et, al.
-   "DINOv3." arXiv (2026). [[paper](https://arxiv.org/abs/2508.10104)] [[code](https://github.com/facebookresearch/dinov3)]
+   "DINOv3." arXiv (2025). [[paper](https://arxiv.org/abs/2508.10104)] [[code](https://github.com/facebookresearch/dinov3)]
 
 - **DPSAM:** Peng Liu, Jinhong Deng, Lixin Duan, Wen Li, Fengmao Lv.
-   "Segmenting Anything in the Dark via Depth Perception." TMM (2026). [[paper](https://ieeexplore.ieee.org/document/10948332)] [[code](https://github.com/liupeng3425/DPSAM)]
+   "Segmenting Anything in the Dark via Depth Perception." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10948332)] [[code](https://github.com/liupeng3425/DPSAM)]
   
 - **SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, et, al.
    "Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes." arXiv (2025). [[paper](https://arxiv.org/abs/2412.01240)] [[code](https://github.com/lartpang/SAMs-CDConcepts-Eval)]
@@ -76,6 +81,14 @@
 - **SAM 2:** Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, et, al.
    "SAM 2: Segment Anything in Images and Videos." arXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/sam2)]
+  
+- **EfficientSAM:** Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra.
+   "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xiong_EfficientSAM_Leveraged_Masked_Image_Pretraining_for_Efficient_Segment_Anything_CVPR_2024_paper.html)] [[code](https://github.com/yformer/EfficientSAM)]
+
+- **EfficientViT-SAM:** Zhuoyang Zhang,Han Cai,Song Han.
+   "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2402.05008)] [[code](https://github.com/mit-han-lab/efficientvit)]
   
 - **DA2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.
    "Depth Anything V2." NeurIPS (2024).
@@ -99,6 +112,22 @@
    "Segment Anything." arXiv (2023).
   [[paper](https://arxiv.org/abs/2304.02643)] [[code](https://github.com/facebookresearch/segment-anything)]
 
+- **MobileSAMv2:** Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong.
+   "MobileSAMv2: Faster Segment Anything to Everything." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09579)] [[code](https://github.com/ChaoningZhang/MobileSAM)]
+
+- **MobileSAM:** Chaoning Zhang, Dongshen Han, Yu Qiao, Jung Uk Kim, Sung-Ho Bae, Seungkyu Lee, Choong Seon Hong.
+   "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.14289)] [[code](https://github.com/ChaoningZhang/MobileSAM)]
+
+- **FastSAM:** Xu Zhao, Wenchao Ding, Yongqi An, Yinglong Du, Tao Yu, Min Li, Ming Tang, Jinqiao Wang.
+   "Fast Segment Anything." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.12156)] [[code](https://github.com/CASIA-LMC-Lab/FastSAM)]
+
+- **EfficientViT:** Han Cai, Junyan Li, Muyan Hu, Chuang Gan, Song Han.
+   "EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2205.14756)] [[code](https://github.com/mit-han-lab/efficientvit)]
+  
 - **SAM-Track:** Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.
    "Segment and Track Anything." arXiv (2023).
   [[paper](https://arxiv.org/abs/2305.06558)] [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
@@ -573,11 +602,15 @@
 - **MIRV:** Aixuan Li, Yuxin Mao, Jing Zhang, Yuchao Dai. 
    "Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection." TCSVT (2023). [[paper](https://arxiv.org/abs/2306.03630)] [[code](https://github.com/baneitixiaomai/MIRV)]
 
-### 2022
+### 2022 and Before
+
+- **U2-Net:** Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane, Martin Jagersand. 
+   "U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection." PR (2022).
+  [[paper](https://arxiv.org/abs/2005.09007)] [[code](https://github.com/xuebinqin/U-2-Net)]
 
 - **JL-DCF:** Keren Fu; Deng-Ping Fan; Ge-Peng Ji; Qijun Zhao; Jianbing Shen; Ce Zhu. 
-   "Siamese Network for RGB-D Salient Object Detection and Beyond." TPAMI (2022). [[paper](https://ieeexplore.ieee.org/document/9406382)] [[code]( )]
-
+   "Siamese Network for RGB-D Salient Object Detection and Beyond." TPAMI (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9406382)] [[code]( )]
   
 
 
@@ -1074,6 +1107,10 @@
    "MedDINOv3: How to adapt vision foundation models for medical image segmentation?." arXiv (2025).
   [[paper](https://arxiv.org/abs/2509.02379)] [[code](https://github.com/ricklisz/MedDINOv3)]
 
+- **UA-SAM:** Mingzhou Jiang, Jiaying Zhou, Junde Wu, Tianyang Wang, Yueming Jin, Min Xu.
+   "Towards Collective Intelligence: Uncertainty-aware SAM Adaptation for Ambiguous Medical Image Segmentation." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2403.10931)] [[code](https://github.com/ImprintLab/Uncertainty-Aware-Adapter)]
+
 - **MCANet:** Hao Shao, Quansheng Zeng, Qibin Hou, Jufeng Yang.
    "MCANet: Medical Image Segmentation with Multi-scale Cross-axis Attention." MIR (2025).
   [[paper](https://link.springer.com/article/10.1007/s11633-025-1552-6)] [[code](https://github.com/haoshao-nku/medical_seg)]
@@ -1120,6 +1157,10 @@
    "Polyper: Boundary Sensitive Polyp Segmentation." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.08735)] [[code](https://github.com/haoshao-nku/medical_seg)]
 
+- **MeLo/LoRA-ViT:** Yitao Zhu, Zhenrong Shen, Zihao Zhao, Sheng Wang, Xin Wang, Xiangyu Zhao, Dinggang Shen, Qian Wang.
+   "MeLo: Low-rank Adaptation is Better than Fine-tuning for Medical Image Diagnosis." ISBI (2024).
+  [[paper](https://arxiv.org/abs/2311.08236)] [[code](https://github.com/JamesQFreeman/LoRA-ViT)]
+  
 - **Medical SAM 2:** Jiayuan Zhu, Abdullah Hamdi, Yunli Qi, Yueming Jin, Junde Wu.
    "Medical SAM 2: Segment medical images as video via Segment Anything Model 2." arXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00874)] [[code](https://github.com/ImprintLab/Medical-SAM2)]
@@ -1145,7 +1186,15 @@
 - **SAMed:** Kaidong Zhang, Dong Liu.
    "Customized Segment Anything Model for Medical Image Segmentation." arXiv (2023).
   [[paper](https://arxiv.org/abs/2304.13785)] [[code](https://github.com/hitachinsk/SAMed)]
-  
+
+- **MedSegDiff:** Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yehui Yang, Haoyi Xiong, Huiying Liu, Yanwu Xu.
+   "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2211.00611)] [[code](https://github.com/ImprintLab/MedSegDiff)]
+
+- **MedSegDiff-V2:** Junde Wu, Wei Ji, Huazhu Fu, Min Xu, Yueming Jin, Yanwu Xu.
+   "MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2301.11798)] [[code](https://github.com/ImprintLab/MedSegDiff)]
+    
 - **Swin-Unet:** Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang.
    "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation." ECCVW (2022).
   [[paper](https://arxiv.org/abs/2105.05537)] [[code](https://github.com/HuCaoFighting/Swin-Unet)]
