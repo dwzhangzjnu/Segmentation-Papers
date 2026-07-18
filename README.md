@@ -2,7 +2,9 @@
 
 A collection of advanced binary segmentation methods, codes, and datasets. It involves Segmentation Foundation Models, Salient Object Detection, Camouflaged Object Detection, Medical Image Segmentation.
 
-Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
+If you have any suggestions,  please feel free to contact me. Keep updating....🚀
+
+## Table of Contents
 
 \- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models)
 
