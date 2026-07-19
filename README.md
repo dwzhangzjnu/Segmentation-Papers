@@ -692,6 +692,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **OVCIS:** Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Nhat Chung, Binh-Son Hua, Ivor W. Tsang, Sai-Kit Yeung.
    "Catch Me If You Can Describe Me: Open-Vocabulary Camouflaged Instance Segmentation with Diffusion." IJCV (2026).
   [[paper](https://arxiv.org/abs/2312.17505)] [[code]( )]
+
+- **F2HI:** Peng Ren; Cheng Jiang; Fuming Sun; Tian Bai.
+   "Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417437)] [[code](https://github.com/ROC-Star/F2HI)]
   
 - **BEI-Net:** Ruiheng Zhang; Kaizheng Chen; Lu Li; Daming Zhou; Yunqiu Xu; Zheng Lin.
    "Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection." TMM (2026).
@@ -700,6 +704,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **VIAC/CGFINet:** Cheng Liu, Zheng Wang, Xinyu Yan, Meijun Sun, Qinghua Hu.
    "Visible-Infrared Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11159525)] [[code](https://github.com/tjuliucheng/Multimodal-Visual-Reasoning-Dataset)]
+
+- **TVP-Diff:** Jin Yan; Houjie Li; Bo Cai; Jing Sun; Fuming Sun.
+   "TVP-Diff: Text-aware Visual Prompt-driven Diffusion for Camouflaged Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11579381)] [[code](https://github.com/yanjin12321/TVP-Diff)]
   
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
    "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026). [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
@@ -837,6 +845,9 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery." WACV (2025).
   [[paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)] [[code](https://github.com/avigupta2798/CIRCOD/)]
    
+- **UTNet:** Fuming Sun, Jinyu Han, Weiyi Wu, Jing Sun, Mengyin Wang, Haojie Li.
+   "A UNet-Like Transformer Network for Camouflaged Object Detection." TMM (2025). [[paper](https://ieeexplore.ieee.org/document/11175541)] [[code](https://github.com/hjy0518/UTNet)]
+
 - **FGSA-Net:** Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang.
    "Frequency-Guided Spatial Adaptation for Camouflaged Object Detection." TMM (2025). [[paper](https://ieeexplore.ieee.org/document/10844993)] [[code]( )]
 
@@ -1251,6 +1262,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.
    "Segment and Matte Anything in a Unified Model." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
+
+- **SDDNet:** Yu Zhao; Jing Sun; Guohui Zhang; Fuming Sun; Haojie Li.
+   "Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11520404)] [[code](https://github.com/wellMachine/SDDNet/)]
 
 - **XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.
    "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
