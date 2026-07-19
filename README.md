@@ -456,19 +456,27 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Mitigating Fusion Bias for RGB-D Salient Object Detection." PR (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007952)] [[code]( )]
   
 - **SPGNet:** Haixiao Gao, Chong Li, Yimin Zheng, Zhi-Ri Tang, Guanghua Yang.
-   "Unaligned RGB and Thermal Salient Object Detection via structure-aware prior guidance." EAAI (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626009504)] [[code](https://github.com/ghx-2004/SPGNet)]
+   "Unaligned RGB and Thermal Salient Object Detection via structure-aware prior guidance." EAAI (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626009504)] [[code](https://github.com/ghx-2004/SPGNet)]
   
 - **MPCANet:** Haixiao Gao, Yimin Zheng, Chong Li, Linyou Xiao, Tian-Tian Zhang, Yanhua Chen.
    "MPCANet: Multi-physical prior guided cross-modal attention and fusion network for RGB-T salient object detection." ESWA (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426012200)] [[code](https://github.com/taromm/MPCANet)]
   
+- **RGB-T SOD Survey:** Chunyuan Chen, Shujuan Li, Ji Du, Weiyun Liang, Bin Wang, Jing Xu.
+   "RGB-thermal salient object detection: A survey." CSR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1574013726001097)] [[code](https://github.com/LLiSJ-web/Awesome-Salient-Object-Detection)]
+
 - **DEGFNet:** Hegui Zhu, Hongrui Tian, Ziyang Zhang.
-   "Dual-stage enhancement and coarse-fine gating fusion for RGB-D salient object detection." ESWA (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004343)] [[code]( )]
+   "Dual-stage enhancement and coarse-fine gating fusion for RGB-D salient object detection." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004343)] [[code]( )]
   
 - **TAWNet:** Jiazheng Wu, Zhenxue Chen, Qingqiang Guo, Chengyun Liu, Zhenyan Wang, Qinggang Meng.
-   "TAWNet: Three-dimensional Adaptive Weighted Network for RGB-D Salient Object Detection." KBS (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126005800)] [[code](https://github.com/Karry-Wu/TAWNet)]
+   "TAWNet: Three-dimensional Adaptive Weighted Network for RGB-D Salient Object Detection." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126005800)] [[code](https://github.com/Karry-Wu/TAWNet)]
   
 - **PENet:** Chang Kou, Jinyu Han, Mengyin Wang.
-   "Rethinking RGB-D salient object detection." MMSJ (2026). [[paper](https://link.springer.com/article/10.1007/s00530-025-02163-z)] [[code]( )]
+   "Rethinking RGB-D salient object detection." MMSJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00530-025-02163-z)] [[code]( )]
 
 ### 2025
 
