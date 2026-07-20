@@ -87,6 +87,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM 2:** Nikhila Ravi, Valentin Gabeur, Yuan-Ting Hu, Ronghang Hu, et, al.
    "SAM 2: Segment Anything in Images and Videos." arXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00714)] [[code](https://github.com/facebookresearch/sam2)]
+
+- **Semantic-SAM:** Feng Li, Hao Zhang, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.
+   "Semantic-SAM: Segment and Recognize Anything at Any Granularity." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2307.04767)] [[code](https://github.com/UX-Decoder/Semantic-SAM)]
+
+- **Open-Vocabulary SAM:** Haobo Yuan, Xiangtai Li, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy.
+   "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2401.02955)] [[project](https://www.mmlab-ntu.com/project/ovsam/)] [[code](https://github.com/HarborYuan/ovsam)]
   
 - **EfficientSAM:** Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra.
    "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything." CVPR (2024).
@@ -212,6 +220,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM2-UNet:** Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li.
    "SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation." VINT (2026).
   [[paper](https://arxiv.org/abs/2408.08870)] [[code](https://github.com/WZH0120/SAM2-UNet/)]
+
+- **SAMRefiner:** Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang.
+   "SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2502.06756)] [[code](https://github.com/linyq2117/samrefiner)]
   
 - **Seg-R1:** Zuyao You, Zuxuan Wu.
    "Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning." arXiv (2025).
