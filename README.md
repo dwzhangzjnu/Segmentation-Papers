@@ -39,6 +39,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
   [[paper](https://arxiv.org/abs/2511.10647)] [[code](https://depth-anything-3.github.io/)]
 
+- **DepthART:** Feng Xue, Wu Chen, Mingshuai Zhao, Guofeng Zhong, Anlong Ming, Haozhe Wang, Dianqiao Lei, Zhaowen Lin, Haiyang Zhang, Nicu Sebe.
+   "DepthART: Scaling Foundation Monocular Depth to Tiny Models." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2607.17099)] [[project](https://xuefeng-cvr.github.io/DepthART/)] [[code](https://github.com/xuefeng-cvr/DepthART)]
+
 - **SAM 3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, et, al.
    "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026).
   [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code](https://github.com/facebookresearch/sam3)]
@@ -1155,6 +1159,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SegDINO-V2:** Sicheng Yang, Hongqiu Wang, Zhaohu Xing, Sixiang Chen, Qiuxia Yang, Yize Mao, Guang Yang, Lei Zhu.
    "SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2606.17972)] [[code](https://github.com/script-Yang/segdino_v2)]
+
+- **MSSA:** Lingrui Li, Nan Pu, Dong Zhao, Wenjing Li, Andrew P French, Zhun Zhong, Xin Chen.
+   "Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.17693)] [[code](https://lingrayy.github.io/MSSA/)]
   
 - **DSA:** Fan Zhang, Zhiwei Gu, Hua Wang.
    "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026). [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
@@ -1170,6 +1178,18 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.
    "Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.09925)]
+
+- **PolypDiFoM:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.
+   "From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation." WACV (2026).
+  [[paper](https://arxiv.org/abs/2512.09307)] [[code](https://github.com/lostinrepo/PolypDiFoM)]
+
+- **LiteBounD:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak.
+   "Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models." IJCNN (2026).
+  [[paper](https://arxiv.org/abs/2604.17865)] [[code](https://github.com/lostinrepo/LiteBounD)]
+  
+- **Lite-Pi:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Dwarikanath Mahapatra, Debesh Jha.
+   "Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.17208)] [[code](https://github.com/lostinrepo/Lite-Pi)]
   
 - **MedSAM-Agent:** Shengyuan Liu, Liuxin Bao, Qi Yang, Wanting Geng, Boyun Zheng, Chenxin Li, Wenting Chen, Houwen Peng, Yixuan Yuan.
    "MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning." ArXiv (2026).
@@ -1212,7 +1232,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MedDINOv3:** Yuheng Li, Yizhou Wu, Yuxiang Lai, Mingzhe Hu, Xiaofeng Yang.
    "MedDINOv3: How to adapt vision foundation models for medical image segmentation?." arXiv (2025).
   [[paper](https://arxiv.org/abs/2509.02379)] [[code](https://github.com/ricklisz/MedDINOv3)]
-
+  
 - **UA-SAM:** Mingzhou Jiang, Jiaying Zhou, Junde Wu, Tianyang Wang, Yueming Jin, Min Xu.
    "Towards Collective Intelligence: Uncertainty-aware SAM Adaptation for Ambiguous Medical Image Segmentation." arXiv (2025).
   [[paper](https://arxiv.org/abs/2403.10931)] [[code](https://github.com/ImprintLab/Uncertainty-Aware-Adapter)]
