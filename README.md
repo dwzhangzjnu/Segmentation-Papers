@@ -8,6 +8,8 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 \- [Segmentation Foundation Models](https://github.com/dwzhangzjnu/Segmentation-Papers#Segmentation-Foundation-Models)
 
+\- [Vision-Language Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#Vision-Language-Segmentation)
+
 \- [General Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation)
 
 \- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Salient-Object-Detection)
@@ -46,25 +48,28 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://arxiv.org/abs/2607.12297)] [[code]( )]
   
 - **INSID3:** Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Stefan Roth.
-   "INSID3: Training-Free In-Context Segmentation with DINOv3." CVPR (2026). [[paper](https://arxiv.org/abs/2603.28480)] [[code](https://github.com/visinf/INSID3)]
-  
-- **FSeg-LLaVA:** Bingfeng Zhang, Siyue Yu, Hui Li, Jiahua Lin, Wenwu Wang, Jimin Xiao.
-   "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026). [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
+   "INSID3: Training-Free In-Context Segmentation with DINOv3." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.28480)] [[code](https://github.com/visinf/INSID3)]
   
 - **DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.
-   "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." TPAMI (2026). [[paper](https://arxiv.org/abs/2504.12080)] [[code](https://github.com/zaplm/DC-SAM)]
+   "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2504.12080)] [[code](https://github.com/zaplm/DC-SAM)]
   
 - **ConceptSeg-R1:** Yuan Zhao, Youwei Pang, Jiaming Zuo, Wei Ji, Kailai Zhou, Bin Fan, Yunkang Cao, Lihe Zhang, Xiaofeng Liu, Huchuan Lu, Weisi Lin, Dacheng Tao, Xiaoqi Zhao.
-   "ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning." arXiv (2026). [[paper](https://arxiv.org/abs/2605.20385)] [[code](https://github.com/NTU-AI4X/ConceptSeg-R1)]
+   "ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.20385)] [[code](https://github.com/NTU-AI4X/ConceptSeg-R1)]
   
 - **SAM-I2V++:** Haiyang Mei, Pengyu Zhang, Mike Zheng Shou.
-   "SAM-I2V++: Efficiently Upgrading SAM for Promptable Video Segmentation." TPAMI (2026). [[paper](https://ieeexplore.ieee.org/document/11316399/)] [[code](https://github.com/showlab/SAM-I2V)]
+   "SAM-I2V++: Efficiently Upgrading SAM for Promptable Video Segmentation." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11316399/)] [[code](https://github.com/showlab/SAM-I2V)]
 
 - **X-SAM:** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.
-   "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026). [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
+   "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
 
 - **SegRGB-X:** Jiong Liu, Yingjie Xu, Xingcheng Zhou, Rui Song, Walter Zimmer, Alois Knoll, Hu Cao.
-   "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026). [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
+   "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
 
 ### 2025
 
@@ -111,14 +116,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DINOv2:** Maxime Oquab, TimothÃ©e Darcet, ThÃ©o Moutakanni, Huy Vo, et, al.
    "DINOv2: Learning Robust Visual Features without Supervision." arXiv (2024).
   [[paper](https://arxiv.org/abs/2304.07193)] [[code](https://github.com/facebookresearch/dinov2)]
-
-- **Grounded SAM 2:** Tianhe Ren, Shuo Shen.
-   "Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2." arXiv (2024).
-  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-SAM-2)]
-
-- **Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, et, al.
-   "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." arXiv (2024).
-  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
   
 ### 2023
 
@@ -155,7 +152,55 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://arxiv.org/abs/2305.14207)] [[code](https://github.com/Jun-CEN/SegmentAnyRGBD)]
 
 
+## Vision-Language Segmentation
 
+[[Awesome-Multimodal-Referring-Segmentation](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation)]
+
+[[Awesome-Referring-Video-Object-Segmentation](https://github.com/Tavarich/Awesome-Referring-Video-Object-Segmentation)]
+
+[[Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)]
+
+[[Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation)]
+
+### 2026
+
+- **SAMTok:** Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li.
+   "SAMTok: Representing Any Mask with Two Words." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2601.16093)] [[code](https://github.com/bytedance/Sa2VA)]
+
+- **FSeg-LLaVA:** Bingfeng Zhang, Siyue Yu, Hui Li, Jiahua Lin, Wenwu Wang, Jimin Xiao.
+   "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
+
+### 2025
+
+- **InstructSeg:** Cong Wei, Yujie Zhong, Haoxian Tan, Yingsen Zeng, Yong Liu, Hongfa Wang, Yujiu Yang.
+   "InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2412.14006)] [[code](https://github.com/congvvc/InstructSeg)]
+
+- **SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.
+   "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2509.16972)] [[full report](https://arxiv.org/abs/2510.11063?)] [[code](https://github.com/bytedance/Sa2VA/blob/main/projects/sasasa2va/README.md)]
+
+- **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Yueyi Sun, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.
+   "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.04001)] [[code](https://github.com/bytedance/Sa2VA)]
+  
+### 2024
+
+- **OMG-LLaVA:** Tao Zhang, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan.
+   "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2406.19389)] [[code](https://github.com/lxtGH/OMG-Seg)]
+
+- **Grounded SAM 2:** Tianhe Ren, Shuo Shen.
+   "Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-SAM-2)]
+
+- **Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, et, al.
+   "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
+
+  
 ## General Segmentation
 
 ### 2026
@@ -266,10 +311,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts." ICCV (2025).
   [[paper](https://arxiv.org/abs/2510.21114)] [[code](https://github.com/CSYSI/Controllable-LPMoE)]
   
-- **InstructSeg:** Cong Wei, Yujie Zhong, Haoxian Tan, Yingsen Zeng, Yong Liu, Hongfa Wang, Yujiu Yang.
-   "InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models." ICCV (2025).
-  [[paper](https://arxiv.org/abs/2412.14006)] [[code](https://github.com/congvvc/InstructSeg)]
-  
 - **OmniSegmentor:** Bo-Wen Yin, Jiao-Long Cao, Yuming Chen, Ming-Ming Cheng, Qibin Hou.
    "OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation." NeurIPS (2025).
   [[paper](https://openreview.net/forum?id=Kdqzbx8YGU)] [[code](https://github.com/VCIP-RGBD/DFormer)]
@@ -304,6 +345,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.15011)] [[code](https://github.com/Sssssuperior/VSCode)]
 
+- **OMG-Seg:** Xiangtai Li, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy.
+   "OMG-Seg: Is One Model Good Enough For All Segmentation?." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2401.10229)] [[code](https://github.com/lxtGH/OMG-Seg)]
+  
 - **GateNet:** Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang.
    "Towards Diverse Binary Segmentation via A Simple yet General Gated Network." IJCV (2024).
   [[paper](https://arxiv.org/abs/2303.10396)] [[code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)]
@@ -1285,7 +1330,12 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 ### 2025
 
+- **SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.
+   "SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.12892)] [[code](https://github.com/Star-xing1/SAUGE)]
+
 - **LIDAR:** Hui Liu, Chen Jia, Fan Shi, Xu Cheng, Mengfei Shi, Xia Xie, Shengyong Chen.
-   "LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks." ACM MM (2025). [[paper](https://arxiv.org/abs/2507.22477)] [[code](https://github.com/Karl1109/LIDAR-Mamba)]
+   "LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2507.22477)] [[code](https://github.com/Karl1109/LIDAR-Mamba)]
 
 
