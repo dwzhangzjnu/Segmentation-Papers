@@ -826,7 +826,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Multi-Modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025).
   [[paper](https://ieeexplore.ieee.org/document/11444230)] [[code](https://github.com/ic-qialanqian/Vision-Language-SAM)]
 
-- **SAM-COD:** Jiaming Liu, Linghe Kong, Guihai Chen.
+- **SAM-DSA:** Jiaming Liu, Linghe Kong, Guihai Chen.
    "Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ICCV (2025).
   [[paper](https://arxiv.org/abs/2503.06042)] [[code]( )]
 
