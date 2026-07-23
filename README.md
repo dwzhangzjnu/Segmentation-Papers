@@ -499,22 +499,32 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://ieeexplore.ieee.org/document/11370867)] [[code](https://github.com/blossom-lv/CPENet)]
   
 - **CRTFS:**  Zeyang Zhang, Hui Li, Tianyang Xu, Xiaojun Wu, Muhammad Awais, Josef Kittler. 
-   "A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection." IJCV (2026). [[paper](https://link.springer.com/article/10.1007/s11263-026-02793-4)] [[code](https://github.com/Yukarizz/CRTFS)]
+   "A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02793-4)] [[code](https://github.com/Yukarizz/CRTFS)]
   
 - **TSOD:**  Zhihao Wu, Jie Wen, Linlin Shen, Xiaopeng Fan, Yong Xu, Jian Yang, David Zhang. 
-   "Weakly Supervised Salient Object Detection with Text Supervision." IJCV (2026). [[paper](https://link.springer.com/article/10.1007/s11263-025-02728-5)] [[code]( )]
+   "Weakly Supervised Salient Object Detection with Text Supervision." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02728-5)] [[code]( )]
   
 - **DENet:** Xiaogang Song, Xiaolong Zhang, Qin Zhao, Bingxing Wei, Xinwei Guo, Xinhong Hei.
-   "Depth correction and edge guidance network for RGB-D salient object detection." PR (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002438)] [[code]( )]
+   "Depth correction and edge guidance network for RGB-D salient object detection." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002438)] [[code]( )]
   
 - **WXSOD:** Quan Chen, Xiong Yang, Bolun Zheng, Rongfeng Lu, Xiaokai Yang, Yu Liu, Xiaofei Zhou.
-   "A benchmark for robust salient object detection in adverse weather conditions." PR (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009684)] [[code](https://github.com/C-water/WXSOD)]
+   "A benchmark for robust salient object detection in adverse weather conditions." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009684)] [[code](https://github.com/C-water/WXSOD)]
   
 - **LESOD:** Mingyu Zhong , Jing Sun , Fasheng Wang, Fuming Sun. 
-   "LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection." PR (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007630)] [[code](https://github.com/mingyu6346/LESOD)]
+   "LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007630)] [[code](https://github.com/mingyu6346/LESOD)]
   
 - **BCNet:** Yang Yang, Nianchang Huang, Qiang Zhang, Jungong Han. 
-   "Mitigating Fusion Bias for RGB-D Salient Object Detection." PR (2026). [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007952)] [[code]( )]
+   "Mitigating Fusion Bias for RGB-D Salient Object Detection." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007952)] [[code]( )]
+    
+- **S2ANet:** Yaoqi Sun, Bin Wan, Wu Jian, Wenyao Zhu, Liaoliang Tao.
+   "S2ANet: Semantic-Spatial Driven Alignment Salient Object Detection Network in UAV-based Unregistered RGB-T Image." NN (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026008683)] [[code]( )]
   
 - **SPGNet:** Haixiao Gao, Chong Li, Yimin Zheng, Zhi-Ri Tang, Guanghua Yang.
    "Unaligned RGB and Thermal Salient Object Detection via structure-aware prior guidance." EAAI (2026).
@@ -1348,6 +1358,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
   [[paper](https://arxiv.org/abs/2607.14287)] [[code](https://github.com/Mahedi-61/XCT-SAM)]
 
+- **ConD:** Xuchen Zhu, Yajuan Wei, Shuang Hao, Jiwei Jiang, Guanxiang Mao, Fang Ren.
+   "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.20326)] [[code]( )]
+
+  
 ### 2025
 
 - **SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.
