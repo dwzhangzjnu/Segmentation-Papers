@@ -84,6 +84,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DINOv3:** Oriane SimÃ©oni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, et, al.
    "DINOv3." arXiv (2025). [[paper](https://arxiv.org/abs/2508.10104)] [[code](https://github.com/facebookresearch/dinov3)]
 
+- **SANSA:** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.
+   "SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2505.21795)] [[code](https://github.com/ClaudiaCuttano/SANSA)]
+  
 - **DPSAM:** Peng Liu, Jinhong Deng, Lixin Duan, Wen Li, Fengmao Lv.
    "Segmenting Anything in the Dark via Depth Perception." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10948332)] [[code](https://github.com/liupeng3425/DPSAM)]
@@ -176,12 +180,29 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
 
+- **DiffRES:** Tianchen Zeng; Sai Wang; Yu Wu; Bo Du.
+   "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11594029)] [[code](https://github.com/charon517-517/DiffRES)]
+
+- **M2-SAM2:** Le Liang; Fu Rong; Fengyuan Liu; Lefei Zhang.
+   "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
+
+  
 ### 2025
 
 - **InstructSeg:** Cong Wei, Yujie Zhong, Haoxian Tan, Yingsen Zeng, Yong Liu, Hongfa Wang, Yujiu Yang.
    "InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.14006)] [[code](https://github.com/congvvc/InstructSeg)]
 
+- **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.
+   "SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.17646)] [[project](https://claudiacuttano.github.io/SAMWISE/)] [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
+  
+- **ReferDINO:** Tianming Liang, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu.
+   "ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2501.14607)] [[code](https://github.com/iSEE-Laboratory/ReferDINO)]
+  
 - **SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.
    "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCV (2025).
   [[paper](https://arxiv.org/abs/2509.16972)] [[full report](https://arxiv.org/abs/2510.11063?)] [[code](https://github.com/bytedance/Sa2VA/blob/main/projects/sasasa2va/README.md)]
@@ -204,6 +225,12 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." arXiv (2024).
   [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
 
+### 2023 and Before
+
+- **ReferFormer:** Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo.
+   "Language as Queries for Referring Video Object Segmentation." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)]
+  
   
 ## General Segmentation
 
