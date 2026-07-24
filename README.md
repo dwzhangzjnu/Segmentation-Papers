@@ -510,6 +510,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **RSONet:**  Bin Wan; Runmin Cong; Xiaofei Zhou; Hao Fang; Chengtao Lv; Sam Kwong. 
    "RSONet: Region-Guided Selective Optimization Network for RGB-T Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11428245)] [[code]( )]
+
+- **DRNet:**  Nana Yu; Jie Wang; Yahong Han. 
+   "Low-Light Salient Object Detection via Representation Decoupling." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11494060)] [[code]( )]
   
 - **DiffRGBD:**  Shixiang Shi; Gongyang Li; Runmin Cong; Shunxin Xiao; Weisi Lin. 
    "Diffusion-driven RGB-D Salient Object Detection with Temporal Modulation." TCSVT (2026).
@@ -838,9 +842,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **TVP-Diff:** Jin Yan; Houjie Li; Bo Cai; Jing Sun; Fuming Sun.
    "TVP-Diff: Text-aware Visual Prompt-driven Diffusion for Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11579381)] [[code](https://github.com/yanjin12321/TVP-Diff)]
+
+- **MINet:** Xiandong Wang; Tianqi Guo; Fengqin Yao; Qi Guo; Shengke Wang; Qing Cai.
+   "Beyond Semantics: Multiscale Interaction Network for Referring Camouflaged Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11419160)] [[code]( )]
   
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
-   "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026). [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
+   "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026).
+  [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
 
 - **SAM-RNet:** Yanliang Ge; Yuxi Zhong; Qiao Zhang; Hongbo Bi; Tian-Zhu Xiang.
    "Weakly-Supervised Camouflaged Object Detection via SAM-Guided Resolution Iteration Learning." TBD (2026).
@@ -851,19 +860,24 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
   
 - **MAPL:** Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.
-   "Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026). [[paper](https://arxiv.org/abs/2604.12380)] [[code]( )]
+   "Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.12380)] [[code]( )]
   
 - **HyperCOD:** Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li.
-   "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." AAAI (2026). [[paper](https://arxiv.org/abs/2601.03736)] [[code](https://github.com/Baishuyanyan/HyperCOD)]
+   "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2601.03736)] [[code](https://github.com/Baishuyanyan/HyperCOD)]
   
 - **DGA-Net:** Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu.
-   "DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2026). [[paper](https://arxiv.org/abs/2601.02831)] [[code]( )]
+   "DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.02831)] [[code]( )]
   
 - **MHENet:** Yuzhen Niu, Yangqing Wang, Ri Cheng, Fusheng Li, Rongshen Wang, Zhichen Yang.
-   "Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection." ICME (2026). [[paper](https://arxiv.org/abs/2604.02935)] [[code](https://github.com/afdsgh/MHENet)]
+   "Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection." ICME (2026).
+  [[paper](https://arxiv.org/abs/2604.02935)] [[code](https://github.com/afdsgh/MHENet)]
   
 - **AEIFNet:** Dongdong Zhang, Huiying Wang, Chunping Wang, Qing Yang, Zhaorui Li, Qiang Fu.
-   "AEIFNet: cross-modality asymmetric enhancement and interactive fusion network for RGB-D camouflaged object detection." MMSJ (2026). [[paper](https://link.springer.com/article/10.1007/s00530-026-02301-1)] [[code](https://github.com/zcc0616/AEIFNet)]
+   "AEIFNet: cross-modality asymmetric enhancement and interactive fusion network for RGB-D camouflaged object detection." MMSJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00530-026-02301-1)] [[code](https://github.com/zcc0616/AEIFNet)]
 
 ### 2025
 
@@ -1409,6 +1423,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Segment and Matte Anything in a Unified Model." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
 
+- **MGD-SAM2:** Haoran Shen; Peixian Zhuang; Jiahao Kou; Yuxin Zeng; Haoying Xu; Jiangyun Li.
+   "MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11457996)] [[code](https://github.com/sevenshr/MGD-SAM2)]
+  
 - **SDDNet:** Yu Zhao; Jing Sun; Guohui Zhang; Fuming Sun; Haojie Li.
    "Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11520404)] [[code](https://github.com/wellMachine/SDDNet/)]
