@@ -310,13 +310,16 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://arxiv.org/abs/2506.22624)] [[code](https://geshang777.github.io/seg-r1.github.io/)]
 
 - **EVP:** Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun.
-   "Explicit Visual Prompting for Universal Foreground Segmentations." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/11197268/)] [[code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
+   "Explicit Visual Prompting for Universal Foreground Segmentations." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11197268/)] [[code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
   
 - **CamoDiffusion:** Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji.
-   "Conditional Diffusion Models for Camouflaged and Salient Object Detection." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/10834569)] [[code](https://github.com/Rapisurazurite/CamoDiffusion)]
+   "Conditional Diffusion Models for Camouflaged and Salient Object Detection." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10834569)] [[code](https://github.com/Rapisurazurite/CamoDiffusion)]
   
 - **VSCode-V2:** Ziyang Luo; Nian Liu; Xuguang Yang; Dingwen Zhang; Deng-Ping Fan; Fahad Shahbaz Khan.
-   "VSCode-V2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/11264365)] [[code](https://github.com/congvvc/InstructSeg)]
+   "VSCode-V2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11264365)] [[code](https://github.com/congvvc/InstructSeg)]
 
 - **USCNet:** Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang.
    "Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes." ICCV (2025).
@@ -850,6 +853,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
    "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026).
   [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
+  
+- **DFENet:** Fangmei Chen; Kaiwen Song; Kai Wei; Fasheng Wang; Fuming Sun; Haojie Li.
+   "DFENet: Dual-Modal Feature Enhancement Network for Camouflaged Object Detection." TCE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11599673)] [[code](https://github.com/Fat-kevin/DFENet_release)]
 
 - **SAM-RNet:** Yanliang Ge; Yuxi Zhong; Qiao Zhang; Hongbo Bi; Tian-Zhu Xiang.
    "Weakly-Supervised Camouflaged Object Detection via SAM-Guided Resolution Iteration Learning." TBD (2026).
