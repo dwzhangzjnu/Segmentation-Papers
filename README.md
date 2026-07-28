@@ -46,6 +46,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM 3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, et, al.
    "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026).
   [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code](https://github.com/facebookresearch/sam3)]
+
+- **SAM3-LoRA:** AI Research Group, KMUTT.
+   "SAM3-LoRA: Efficient Fine-Tuning with Low-Rank Adaptation." Github (2026).
+[[code](https://github.com/Sompote/SAM3_LoRA)]
   
 - **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.
    "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
@@ -191,6 +195,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **M2-SAM2:** Le Liang; Fu Rong; Fengyuan Liu; Lefei Zhang.
    "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
+
+- **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
+   "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
 
   
 ### 2025
@@ -1260,6 +1268,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **EP-SAM:** Wenhao Li, Fangyi Liu, Bo Du.
    "An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation." ICME (2026).
   [[paper](https://arxiv.org/abs/2607.07240)] [[code]( )]
+
+- **SurgSAM3:** Changjing Liu, Yiming Huang, Beilei Cui, Liangjing Shao, Long Bai, Yanheng Li, Haoxuan Che, Hongliang Ren.
+   "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation." MICCAI EMA Workshop (2026).
+  [[paper](https://arxiv.org/abs/2607.23694)] [[code](https://github.com/ChangjingLiu/SurgSAM3)]
 
 - **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
    "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
