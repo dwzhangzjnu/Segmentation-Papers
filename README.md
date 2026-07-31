@@ -279,6 +279,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DiveSeg:** Zhiyang Chen, Chen Zhang, Hao Fang, Runmin Cong.
    "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.08334)] [[code](https://github.com/ettof/Diveseg)]
+
+- **VFMamba:** .
+   "VFMamba: Multi-Token Visual Foreground Mamba for Foreground Segmentation." arXiv (2026).
+  [[paper]( )] [[code](https://github.com/duan-song/VFMamba)]
   
 - **UMSS:** Haitian Zhang, Thai Duy Nguyen, Xiangyuan Wang, Mohan Liu, Lin Wang.
    "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
@@ -443,9 +447,9 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Samba+: General and Accurate Salient Object Detection via A More Unified Mamba-based Framework." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.01593)] [[code](https://github.com/Jia-hao999/Samba)]
   
-- **CCA:** Chenglizhao Chen, Mingyue Zhang, Mengke Song, Jia Song, Xinyu Liu, Shanchen Pang.
-   "Channel-wise Contribution Assessment for RGB-D Salient Object Detection." TOMM (2026).
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3815115)] [[code]( )]
+- **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
+   "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2607.25392)] [[code](https://github.com/ltynick/RDVSv2)]
   
 - **UMFNet:** Mianzhao Wang, Fan Shi, Xu Cheng, Chen Jia, Shengyong Chen.
    "Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection." CVPR (2026).
@@ -813,6 +817,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DFMGNet:** Ke Chen, Yi Liu.
    "DFMGNet: RGB-D Camouflaged Object Detection With Mamba Fusion and Dynamic Frequency-aware Refinement." ArXiv (2026).
   [[paper]( )] [[code](https://github.com/cke520/DFMGNet)]
+
+- **VCP-DCN:** Songsong Duan, Xi Yang, Nannan Wang.
+   "VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.27843)] [[code](https://github.com/duan-song/VCPDCN)]
   
 - **DepthSAM:** Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang.
    "Beyond Appearance: Camouflaged Object Detection via Geometric Structure." CVPR (2026).
@@ -870,6 +878,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Weakly-Supervised Camouflaged Object Detection via SAM-Guided Resolution Iteration Learning." TBD (2026).
   [[paper](https://ieeexplore.ieee.org/document/11216034)] [[code](https://github.com/ZX123445/SAM-RNet)]
 
+- **Context-measure:** Chen-Yang Wang, Ge-Peng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan.
+   "Context-measure: Contextualizing Metric for Camouflage." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2512.07076)] [[code](https://github.com/pursuitxi/Context-measure)]
+  
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
