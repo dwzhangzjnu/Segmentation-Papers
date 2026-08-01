@@ -71,6 +71,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SAM-I2V++: Efficiently Upgrading SAM for Promptable Video Segmentation." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11316399/)] [[code](https://github.com/showlab/SAM-I2V)]
 
+- **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.
+   "X2SAM: Any Segmentation in Images and Videos." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2605.00891)] [[code](https://github.com/wanghao9610/X2SAM)]
+
 - **X-SAM:** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.
    "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
@@ -195,6 +199,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **M2-SAM2:** Le Liang; Fu Rong; Fengyuan Liu; Lefei Zhang.
    "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
+
+- **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
+   "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
 
 - **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
    "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
