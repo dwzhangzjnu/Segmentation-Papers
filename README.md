@@ -454,6 +454,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Samba+:** Wenzhuo Zhao, Keren Fu, Jiahao He, Xiaohong Liu, Qijun Zhao, Guangtao Zhai.
    "Samba+: General and Accurate Salient Object Detection via A More Unified Mamba-based Framework." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.01593)] [[code](https://github.com/Jia-hao999/Samba)]
+
+- **FOCUS:** Wenzhuo Zhao, Xiuzhi Li, Zhongkuan Mao, Ronghao Xian, Yao Jiang, Zhao Gao, Keren Fu, Qijun Zhao, Jian Cheng.
+   "Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.29222)] [[code]( )]
   
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
@@ -1282,6 +1286,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.17693)] [[code](https://lingrayy.github.io/MSSA/)]
   
+- **SAM+D:** Yu Song, Hao Sun, Shiyu Teng, Ikuko Nishikawa, Yen-wei Chen.
+   "SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.29033)] [[code](https://github.com/JerrySongCST/SAM-Plus-D)]
+
 - **DSA:** Fan Zhang, Zhiwei Gu, Hua Wang.
    "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026). [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
 
@@ -1296,6 +1304,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
    "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11455620)] [[code](https://github.com/uni-medical/MedSegAgent)]
+  
+- **UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.
+   "UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.29200)] [[code](https://github.com/zhuqh19/UltraSAM3)]
+
+- **DynoDINO:** Yu-Pu Hsu, Jen-Jee Chen, Yu-Chee Tseng.
+   "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.29568)]
   
 - **FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.
    "Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
