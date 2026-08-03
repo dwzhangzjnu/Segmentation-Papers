@@ -854,6 +854,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.19944)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
 
+- **COP:** Pancheng Zhao, Deng-Ping Fan, Shupeng Cheng, Salman Khan, Fahad Khan, David Clifton, Peng Xu, Jufeng Yang.
+   "Deep Learning in Concealed Dense Prediction." ACM Computing Surveys (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3820770)] [[code](https://github.com/PanchengZhao/Concealed-Dense-Prediction)]
+  
 - **OVCIS:** Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Nhat Chung, Binh-Son Hua, Ivor W. Tsang, Sai-Kit Yeung.
    "Catch Me If You Can Describe Me: Open-Vocabulary Camouflaged Instance Segmentation with Diffusion." IJCV (2026).
   [[paper](https://arxiv.org/abs/2312.17505)] [[code]( )]
