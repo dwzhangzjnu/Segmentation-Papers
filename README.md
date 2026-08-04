@@ -204,6 +204,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
 
+- **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.
+   "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.02284)] [[code](https://github.com/hustvl/EOVSAM)]
+
 - **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
    "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
@@ -878,10 +882,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "TVP-Diff: Text-aware Visual Prompt-driven Diffusion for Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11579381)] [[code](https://github.com/yanjin12321/TVP-Diff)]
 
+- **UCAMNet:** Xuedong Guo; Lei Deng; Maoyong Li; Yingying Gao; Mingli Dong; Lianqing Zhu.
+   "Universal Context-Modulated Asymmetric Multiscale Network for Camouflaged Object Segmentation." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11631723)] [[code](https://github.com/change68/UCAMNet)]
+  
 - **MINet:** Xiandong Wang; Tianqi Guo; Fengqin Yao; Qi Guo; Shengke Wang; Qing Cai.
    "Beyond Semantics: Multiscale Interaction Network for Referring Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11419160)] [[code]( )]
-  
+
 - **VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.
    "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026).
   [[paper](https://arxiv.org/abs/2601.00537)] [[code](https://guangqian-guo.github.io/VNS-SAM/)]
