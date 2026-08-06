@@ -191,7 +191,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DINOde:** Sung-Hoon Yoon, Hoyong Kwon, Changgyoon Oh, Kuk-Jin Yoon.
    "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.21371)] [[code](https://github.com/yoon307/DINOde)]
-  
+
+- **CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.
+   "CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2608.03147)] [[code](https://clarence-cv.github.io/CROSS/)]
+
 - **DiffRES:** Tianchen Zeng; Sai Wang; Yu Wu; Bo Du.
    "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11594029)] [[code](https://github.com/charon517-517/DiffRES)]
