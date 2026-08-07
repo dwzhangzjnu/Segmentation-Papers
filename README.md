@@ -211,6 +211,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.
    "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.02284)] [[code](https://github.com/hustvl/EOVSAM)]
+  
+- **SCI-CLIP:** Mohamad Zamini, Diksha Shukla.
+   "SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.05627)] [[code](https://github.com/mzamini92/SCICLIP)]
 
 - **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
    "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
@@ -276,6 +280,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.26849)] [[code](https://github.com/cke520/LFNet)]
 
+- **URNet:** Guoan Xu, Zhengxue Wang, Yang Xiao, Ligeng Chen, Guangwei Gao, Dongchen Zhu.
+   "URNet: A Unified Reparameterized Network for Efficient RGB-D Semantic Segmentation." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.05671)] [[code](https://github.com/Wild-Stephen/URNet)]
+  
 - **H2Net:** Jinyu Han, Changguang Wu, Fuming Sun, Mengyin Wang, Jinhui Tang.
    "HÂ²Net: Homo- and Heterogeneous Networks for Unified Segmentation." IJCAI (2026).
   [[paper](https://h2net-ijcai26.github.io/)] [[code](https://github.com/hjy0518/H2Net)]
@@ -283,7 +291,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.
    "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.24807)] [[code]( )]
-  
+
+- **UCD-SAM3:** Hao Wang, Yuxuan Zhang, Wei Yang.
+   "Universal Concept Disruption for SAM3 Image Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.05983)] [[code]( )]
+
 - **BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.
    "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPRW (2026).
   [[paper](https://arxiv.org/abs/2605.24893)] [[code](https://github.com/TylerRust-1/BED-SAM2)]
@@ -1320,11 +1332,19 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
    "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11455620)] [[code](https://github.com/uni-medical/MedSegAgent)]
+
+- **SemiSAM-O1:** Yichi Zhang, Le Xue, Bichun Xu, Judong Luo, Zhigang Wu, Yu Fu, Zixin Hu, Yuan Cheng, Yuan Qi.
+   "SemiSAM-O1: Pushing the Boundary of Annotation-Efficient Medical Image Segmentation with Generalist Knowledge Fusion." MedIA (2026).
+  [[paper](https://arxiv.org/abs/2604.24109)] [[code](https://github.com/YichiZhang98/SemiSAM-O1)]
   
 - **UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.
    "UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29200)] [[code](https://github.com/zhuqh19/UltraSAM3)]
 
+- **DistMedVL:** Jiaxuan Li, Qing Xu, Xiangjian He, Yue Li, Daokun Zhang, Fiseha B. Tesema, Rong Qu.
+   "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.05683)] [[code]( )]
+  
 - **DynoDINO:** Yu-Pu Hsu, Jen-Jee Chen, Yu-Chee Tseng.
    "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29568)]
