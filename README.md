@@ -582,7 +582,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....�
 - **S3GNet:**  Yanyan Peng, Tingfa Xu, Yao Xiao, Peifu Liu, Shuyan Bai, Fengxiang Xu, Jianan Li. 
    "Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection." TMM (2026).
   [[paper](https://arxiv.org/abs/2607.21032)] [[code](https://github.com/pppyy0799/S3GNet)]
-  
+
+- **MAN:**  Yang Yang; Nianchang Huang; Qiang Zhang; Jungong Han; Jin Huang. 
+   "Modality Adaptive Network for Arbitrary Modality Salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11341917)] [[code]( )]
+
 - **CMFNet:**  Jingyu Wu; Fuming Sun; Mingyu Lu; Haojie Li. 
    "Cross-Modal Fusion with Mixture-of-Experts for Efficient RGB-D Salient Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11441976)] [[code]( )]
@@ -672,12 +676,18 @@ If you have any suggestions,  please feel free to contact me. Keep updating....�
   
 - **OBB-SOD:** Zhihao Wu, Yong Xu, Jian Yang, David Zhang. 
    "Weakly Supervised Salient Object Detection With Oversize Bounding Box." IJCV (2025). [[paper](https://link.springer.com/article/10.1007/s11263-025-02482-8)] [[code](https://github.com/Horatio9702/OBB-SOD)]
+
+- **UniSOD:** Kunpeng Wang; Zhengzheng Tu; Chenglong Li; Zhengyi Liu; Bin Luo.
+   "Unified-Modal Salient Object Detection via Adaptive Prompt Learning." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11082344)] [[code](https://github.com/Angknpng/UniSOD)]
   
 - **FreqSal:** Pengfei Lyu, Xiaosheng Yu, Pak-Hei Yeung, Chengdong Wu, Jagath C. Rajapakse.
-   "Deep Fourier-Embedded Network for RGB and Thermal Salient Object Detection." TCSVT (2025). [[paper](https://ieeexplore.ieee.org/document/11230613)] [[code](https://github.com/JoshuaLPF/FreqSal)]
+   "Deep Fourier-Embedded Network for RGB and Thermal Salient Object Detection." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11230613)] [[code](https://github.com/JoshuaLPF/FreqSal)]
   
 - **HENet:** Haoran Gao, Fasheng Wang, Mengyin Wang, Fuming Sun, and Haojie Li.
-   "Highly Efficient RGB-D Salient Object Detection With Adaptive Fusion and Attention Regulation." TCSVT (2025). [[paper](https://ieeexplore.ieee.org/document/10758288)] [[code](https://github.com/BojueGao/HENet)]
+   "Highly Efficient RGB-D Salient Object Detection With Adaptive Fusion and Attention Regulation." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10758288)] [[code](https://github.com/BojueGao/HENet)]
   
 - **IFENet:** Liuxin Bao; Xiaofei Zhou; Bolun Zheng; Runmin Cong; Haibing Yin; Jiyong Zhang.
    "IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/10841969)] [[code](https://github.com/Lx-Bao/IFENet)]
@@ -782,9 +792,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....�
   
 - **DWFPRNet:** Yi Luo; Feng Shao; Baoyang Mu; Hangwei Chen; Zhuo Li; Qiuping Jiang. 
    "Dynamic Weighted Fusion and Progressive Refinement Network for Visible-Depth-Thermal Salient Object Detection." TCSVT (2024). [[paper](https://ieeexplore.ieee.org/document/10556617)] [[code]( )]
+
+- **LAFB:** Kunpeng Wang, Zhengzheng Tu, Chenglong Li, Cheng Zhang, Bin Luo. 
+   "Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection." TCSVT (2024).
+  [[paper](https://arxiv.org/abs/2406.01127)] [[code](https://github.com/Angknpng/LAFB)]
   
 - **DMSSN:** Haolin Qin; Tingfa Xu; Peifu Liu; Jingxuan Xu; Jianan Li. 
-   "DMSSN: Distilled Mixed Spectral–Spatial Network for Hyperspectral Salient Object Detection." TGRS (2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10475351)] [[code](https://github.com/q2479‍0‍36243/DMSSN)]
+   "DMSSN: Distilled Mixed Spectral–Spatial Network for Hyperspectral Salient Object Detection." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10475351)] [[code](https://github.com/q2479‍0‍36243/DMSSN)]
   
 - **SACNet:** Kunpeng Wang, Danying Lin, Chenglong Li, Zhengzheng Tu, Bin Luo. 
    "Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark." TMM (2024). [[paper](https://arxiv.org/abs/2406.00917)] [[code](https://github.com/Angknpng/SACNet)]
