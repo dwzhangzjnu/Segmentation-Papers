@@ -216,6 +216,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05627)] [[code](https://github.com/mzamini92/SCICLIP)]
 
+- **AeroReformer2:** Rui Li, Chenxi Duan, Haoyang Yang.
+   "AeroReformer2: Spoken-Query Referring Segmentation for Aerial Images." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.08874)] [[code](https://github.com/lironui/AeroReformer2)]
+  
 - **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
    "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
@@ -838,6 +842,8 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 ## Camouflaged Object Detection
 
+[[Awesome-camouflage](https://github.com/Awesome-COD/awesome-camouflage)]
+
 [[Awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)]
 
 [[Awesome Concealed Object Segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)]
@@ -888,6 +894,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DSS:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
    "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.19944)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
+  
+- **UCOD-MKD:** Huafeng Chen, Chenguang Zhu, Yueming Lyu, Caifeng Shan.
+   "Beyond Weak Supervision: MLLMs-Guided Graded Knowledge Distillation for Unsupervised Camouflaged Object Detection." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Chen_Beyond_Weak_Supervision_MLLMs-Guided_Graded_Knowledge_Distillation_for_Unsupervised_Camouflaged_CVPR_2026_paper.pdf)] [[code](https://github.com/2231122/UCOD-MKD)]
 
 - **COP:** Pancheng Zhao, Deng-Ping Fan, Shupeng Cheng, Salman Khan, Fahad Khan, David Clifton, Peng Xu, Jufeng Yang.
    "Deep Learning in Concealed Dense Prediction." ACM Computing Surveys (2026).
@@ -937,6 +947,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Context-measure: Contextualizing Metric for Camouflage." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2512.07076)] [[code](https://github.com/pursuitxi/Context-measure)]
   
+- **OPC16K/OPCNet:** Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan.
+   "Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.11135)] [[code](https://github.com/2231122/OPCOD)]
+
+- **LAD-COD:** Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu.
+   "LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.07941)] [[code]( )]
+
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
