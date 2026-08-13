@@ -549,6 +549,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SHP-SAM:**  Fen Xiao; Ruozhuo Huang; Zhenwei Wu; Xieping Gao. 
    "Scribble-guided Hierarchical Prompt for SAM-Based Weakly Supervised Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11479339)] [[code](https://github.com/XTU-ICIPL/SHP-SAM)]
+
+- **SpikeSOD:**  Jingjie Shang; Bangning Luo; Guoqi Li; Xiaochen Bo; Yuan Wang. 
+   "SpikeSOD: Directly Training Spiking Neural Network for Multimodal Saliency Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11653217)] [[code](https://github.com/luobnn/SpikeSOD)]
   
 - **MambaDif:**  Jinsheng Yang; Bineng Zhong; Qihua Liang; Yufei Tan; Haiying Xia; Shuxiang Song. 
    "Mamba-Driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images." TCSVT (2026).
