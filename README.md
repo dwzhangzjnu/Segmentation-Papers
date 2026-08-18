@@ -188,6 +188,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
 
+- **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
+   "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
+  
 - **DINOde:** Sung-Hoon Yoon, Hoyong Kwon, Changgyoon Oh, Kuk-Jin Yoon.
    "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.21371)] [[code](https://github.com/yoon307/DINOde)]
