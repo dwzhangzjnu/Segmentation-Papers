@@ -471,6 +471,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 ### 2026
 
+- **S3AM:** Ruichao Hou, Boyue Xu, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.
+   "S3AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.17475)] [[code](https://github.com/xuboyue1999/SSSAM)]
+
 - **DCGNet:** Hua Li, Yongjie Weng, Yutong Li, Zhiyuan Li, Runmin Cong, Sam Kwong.
    "Rethinking Conditional Generation for Underwater Salient Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.01825)] [[code]( )]
