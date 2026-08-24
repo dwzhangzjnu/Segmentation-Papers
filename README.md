@@ -599,6 +599,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection." TMM (2026).
   [[paper](https://arxiv.org/abs/2607.21032)] [[code](https://github.com/pppyy0799/S3GNet)]
 
+- **MFDR-Net:**  Liuxin Bao; Yuxuan Luo; Xiaofei Zhou; Runmin Cong; Jiuwen Cao; Yu Zhou. 
+   "Lightweight Mamba-Based Frequency Decomposition-Reconstruction Network for V-D-T Salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11657529)] [[code](https://github.com/Lx-Bao/MFDR-Net)]
+
 - **MAN:**  Yang Yang; Nianchang Huang; Qiang Zhang; Jungong Han; Jin Huang. 
    "Modality Adaptive Network for Arbitrary Modality Salient Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11341917)] [[code]( )]
@@ -1571,6 +1575,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
   [[paper](https://arxiv.org/abs/2607.14287)] [[code](https://github.com/Mahedi-61/XCT-SAM)]
 
+- **SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.
+   "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.20754)] [[code](https://github.com/Sakauma/SPARK-SAM)] 
+  
 - **ConD:** Xuchen Zhu, Yajuan Wei, Shuang Hao, Jiwei Jiang, Guanxiang Mao, Fang Ren.
    "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20326)] [[code]( )]
