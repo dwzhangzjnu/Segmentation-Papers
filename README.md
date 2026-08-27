@@ -188,6 +188,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
 
+- **ARGenSeg:** Xiaolong Wang, Lixiang Ru, Ziyuan Huang, Kaixiang Ji, Dandan Zheng, Jingdong Chen, Jun Zhou.
+   "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2510.20803)] [[code](https://github.com/inclusionAI/ARGenSeg)]
+
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
@@ -490,6 +494,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **FOCUS:** Wenzhuo Zhao, Xiuzhi Li, Zhongkuan Mao, Ronghao Xian, Yao Jiang, Zhao Gao, Keren Fu, Qijun Zhao, Jian Cheng.
    "Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29222)] [[code]( )]
+
+- **MIMONet:** Zhaojian Yao, Wei Gao, Tiesong Zhao, Hui Yuan, Sam Kwong.
+   "MIMONet: Multi-scale Input and Multi-scale Output Network for Salient Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.25733)] [[code]( )]
   
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
@@ -1397,7 +1405,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DynoDINO:** Yu-Pu Hsu, Jen-Jee Chen, Yu-Chee Tseng.
    "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29568)]
-  
+
+- **SEG-SAM:** Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, Zijian Zhou, Miaojing Shi.
+   "SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2412.12660)]
+
 - **FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.
    "Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.09925)]
