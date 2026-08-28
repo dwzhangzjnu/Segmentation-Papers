@@ -1402,6 +1402,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05683)] [[code]( )]
   
+- **FAN-LoRA:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.
+   "FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.26531)]
+
 - **DynoDINO:** Yu-Pu Hsu, Jen-Jee Chen, Yu-Chee Tseng.
    "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29568)]
