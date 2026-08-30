@@ -257,6 +257,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   
 ### 2024
 
+- **GLaMM:** Hanoona Rasheed, Muhammad Maaz, Sahal Shaji Mullappilly, Abdelrahman Shaker, Salman Khan, Hisham Cholakkal, Rao M. Anwer, Erix Xing, Ming-Hsuan Yang, Fahad S. Khan.
+   "GLaMM: Pixel Grounding Large Multimodal Model." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.03356)] [[code](https://github.com/mbzuai-oryx/groundingLMM)]
+
 - **OMG-LLaVA:** Tao Zhang, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan.
    "OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2406.19389)] [[code](https://github.com/lxtGH/OMG-Seg)]
