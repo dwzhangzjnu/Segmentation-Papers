@@ -195,7 +195,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
-  
+
+- **AGCL:** Tianrui Hui, Shaofei Huang, Qisong Han, Yaxiong Wang, Lechao Cheng, Zhedong Zheng, Zhun Zhong, Richang Hong, Meng Wang.
+   "Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.29121)] [[code](https://github.com/spyflying/AGCL)]
+
 - **DINOde:** Sung-Hoon Yoon, Hoyong Kwon, Changgyoon Oh, Kuk-Jin Yoon.
    "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.21371)] [[code](https://github.com/yoon307/DINOde)]
@@ -203,6 +207,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.
    "CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2608.03147)] [[code](https://clarence-cv.github.io/CROSS/)]
+
+- **ALRIS:** Junbeom Hong, Seonghoon Yu, Hyung Rok Jung, Sundong Kim, Jeany Son.
+   "Cost-efficient Active Learning for Referring Image Segmentation and Grounding." EMNLP Findings (2026).
+  [[paper](https://arxiv.org/abs/2608.30621)] [[code](https://github.com/junbum766/ALRIS)]
 
 - **DiffRES:** Tianchen Zeng; Sai Wang; Yu Wu; Bo Du.
    "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
@@ -574,6 +582,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SpikeSOD: Directly Training Spiking Neural Network for Multimodal Saliency Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11653217)] [[code](https://github.com/luobnn/SpikeSOD)]
   
+- **SPLG-Mamba:**  Yi Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu. 
+   "SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.29626)] [[code](https://github.com/yxu9910/SPLG-Mamba)]
+
 - **MambaDif:**  Jinsheng Yang; Bineng Zhong; Qihua Liang; Yufei Tan; Haiying Xia; Shuxiang Song. 
    "Mamba-Driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11333347)] [[code]( )]
@@ -883,17 +895,20 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 ### 2026
 
 - **GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
-   "GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ACM MM (2026). [[paper](https://arxiv.org/abs/2607.11732)] [[code]( )]
+   "GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2607.11732)] [[code]( )]
 
 - **CODiff:** Xiaotong Fu, Qian Liu, Qihang Zhou, Wenchao Meng, Qinmin Yang, Shibo He.
-   "CODiff: One-Step Diffusion Model for Camouflaged Object Detection." ICML (2026). [[paper](https://openreview.net/forum?id=eDlsO4kFaX)] [[code](https://github.com/KiiSooo/CODiff)]
+   "CODiff: One-Step Diffusion Model for Camouflaged Object Detection." ICML (2026).
+  [[paper](https://openreview.net/forum?id=eDlsO4kFaX)] [[code](https://github.com/KiiSooo/CODiff)]
   
 - **CamoSAM2:** Xin Zhang, Keren Fu, Qijun Zhao.
    "CamoSAM2: SAM2-oriented Prompt Auto-Refinement for Video Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2504.00375)] [[code](https://github.com/zhangxin06/CamoSAM2)]
 
 - **IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.
-   "IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment." ArXiv (2026). [[paper](https://arxiv.org/abs/2603.27250)]
+   "IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.27250)]
   
 - **DFMGNet:** Ke Chen, Yi Liu.
    "DFMGNet: RGB-D Camouflaged Object Detection With Mamba Fusion and Dynamic Frequency-aware Refinement." ArXiv (2026).
@@ -922,7 +937,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DSS:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
    "Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.19944)] [[code](https://github.com/okmaybach/BaCLIP-CVPR2026)]
-  
+
+- **EReCu:** Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan.
+   "EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.11521)] [[code](https://github.com/JSLiam94/EReCu)]
+
 - **UCOD-MKD:** Huafeng Chen, Chenguang Zhu, Yueming Lyu, Caifeng Shan.
    "Beyond Weak Supervision: MLLMs-Guided Graded Knowledge Distillation for Unsupervised Camouflaged Object Detection." CVPR (2026).
   [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Chen_Beyond_Weak_Supervision_MLLMs-Guided_Graded_Knowledge_Distillation_for_Unsupervised_Camouflaged_CVPR_2026_paper.pdf)] [[code](https://github.com/2231122/UCOD-MKD)]
@@ -979,6 +998,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.11135)] [[code](https://github.com/2231122/OPCOD)]
 
+- **MSFormer:** Avi Gupta, Trasha Gupta.
+   "Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.30355)] [[code](https://github.com/avigupta2798/MSFormer)]
+
+- **Phantom-Insight:** Hua Zhang, Changjiang Luo.
+   "Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2509.06422)] [[code]( )]
+  
 - **LAD-COD:** Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu.
    "LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07941)] [[code]( )]
