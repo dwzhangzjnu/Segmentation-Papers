@@ -49,7 +49,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 - **SAM3-LoRA:** AI Research Group, KMUTT.
    "SAM3-LoRA: Efficient Fine-Tuning with Low-Rank Adaptation." Github (2026).
-[[code](https://github.com/Sompote/SAM3_LoRA)]
+  [[paper](https://arxiv.org/abs/2609.00469)] [[code](https://github.com/Sompote/SAM3_LoRA)]
   
 - **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.
    "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
