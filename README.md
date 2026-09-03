@@ -1432,6 +1432,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DistMedVL:** Jiaxuan Li, Qing Xu, Xiangjian He, Yue Li, Daokun Zhang, Fiseha B. Tesema, Rong Qu.
    "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05683)] [[code]( )]
+
+- **InstEditSeg:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.
+   "InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.02004)] [[code](https://github.com/wincharm001/InstEditSeg)] 
   
 - **FAN-LoRA:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.
    "FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation." ArXiv (2026).
