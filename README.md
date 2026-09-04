@@ -314,8 +314,8 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   
 - **H2Net:** Jinyu Han, Changguang Wu, Fuming Sun, Mengyin Wang, Jinhui Tang.
    "HÂ²Net: Homo- and Heterogeneous Networks for Unified Segmentation." IJCAI (2026).
-  [[paper](https://h2net-ijcai26.github.io/)] [[code](https://github.com/hjy0518/H2Net)]
-  
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/5959.pdf)]  [[project](https://h2net-ijcai26.github.io/)]  [[code](https://github.com/hjy0518/H2Net)]
+
 - **CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.
    "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.24807)] [[code]( )]
@@ -522,7 +522,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.25392)] [[code](https://github.com/ltynick/RDVSv2)]
-  
+
+- **G-SalAlignMamba:** Haixiao Gao, Yimin Zheng, Mengke Song, Linyou Xiao, Tian-Tian Zhang, Zhi-Ri Tang.
+   "G-SalAlignMamba: Geometry-Aware Vision Mamba for Dual-Modal Salient Object Detection." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3160.pdf)] [[code](https://github.com/PC1-99/G-SalAlignMamb)]
+
 - **UMFNet:** Mianzhao Wang, Fan Shi, Xu Cheng, Chen Jia, Shengyong Chen.
    "Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Uncertainty-Aware_Modality_Fusion_for_Unaligned_RGB-T_Salient_Object_Detection_CVPR_2026_paper.html)] [[code]( )]
@@ -662,7 +666,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **CPENet:** Lina Gao; Haikun Chen; Yonggang Zhang; Yulong Huang. 
    "Collaborative Prior-Enhanced RGB-D Salient Object Detection Network for Intelligent IoT Perception Devicesn." IoTJ (2026).
   [[paper](https://ieeexplore.ieee.org/document/11370867)] [[code](https://github.com/blossom-lv/CPENet)]
-  
+
+- **TPCA-Net:** Haixiao Gao; Yimin Zheng; Linyou Xiao; Yanhua Chen; Kechen Song; Wenhao Wu. 
+   "Thermal-Physics Inspired Cross-Modal Alignment for AAV-Based RGB-T Salient Object Detection." JSTARS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11548681)] [[code](https://github.com/PC1-99/TPCA-Net)]
+
 - **CRTFS:**  Zeyang Zhang, Hui Li, Tianyang Xu, Xiaojun Wu, Muhammad Awais, Josef Kittler. 
    "A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02793-4)] [[code](https://github.com/Yukarizz/CRTFS)]
@@ -905,6 +913,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
    "GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.11732)] [[code]( )]
+
+- **SAM3-UCOD** Huafeng Chen, Yueming Lyu, Caifeng Shan.
+   "From Language to Segmentation: Collaborative Category-Guided Unsupervised Camouflaged Object Detection with SAM3." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3100.pdf)] [[code]( )]
 
 - **CODiff:** Xiaotong Fu, Qian Liu, Qihang Zhou, Wenchao Meng, Qinmin Yang, Shibo He.
    "CODiff: One-Step Diffusion Model for Camouflaged Object Detection." ICML (2026).
@@ -1414,8 +1426,17 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.29033)] [[code](https://github.com/JerrySongCST/SAM-Plus-D)]
 
+- **SAM-GPT:** Jinfu Wang, Qiyuan Wang, Yunfei Liang, Kaipeng Wang, Jinhua Zhao.
+   "SAM-GPT: Hilbert Curve Enhanced Mamba for Brain Lesion Segmentation and VLM-based Analysis." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/AI4H298.pdf)] [[code](https://github.com/1JF-Wang/sam-gpt)]
+
+- **ReDi-FM:** Jianhang Ji, Zhiming Cheng, Jianxiang Zhao, Tingyu Wang, Bingtao Ma, Yuhan Gao, Zuobin Ying, Shuai Wang.
+   "ReDi-FM: Frozen Foundation Model for Continual Test-Time Adaptation in Medical Image Segmentation." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1629.pdf)] [[code](https://github.com/M4cheal/ReDi-FM)]
+
 - **DSA:** Fan Zhang, Zhiwei Gu, Hua Wang.
-   "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026). [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
+   "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
 
 - **EP-SAM:** Wenhao Li, Fangyi Liu, Bo Du.
    "An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation." ICME (2026).
