@@ -1554,6 +1554,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "I-MedSAM: Implicit Medical Image Segmentation with Segment Anything." ECCV (2024).
   [[paper](https://arxiv.org/abs/2311.17081)] [[code](https://github.com/ucwxb/I-MedSAM)]
 
+- **SAMUS:** Xian Lin, Yangyang Xiang, Li Yu, Zengqiang Yan.
+   "Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2309.06824)] [[code](https://github.com/xianlin7/SAMUS)]
+
 - **DeSAM:** Yifan Gao, Wei Xia, Dingdu Hu, Wenkui Wang, Xin Gao.
    "DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation." MICCAI (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_48)] [[code](https://github.com/yifangao112/DeSAM)]
@@ -1574,6 +1578,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "VM-UNet: Vision Mamba UNet for Medical Image Segmentation." ACM TOMM (2024).
   [[paper](https://arxiv.org/abs/2402.02491)] [[code](https://github.com/JCruan519/VM-UNet)]
   
+- **MemSAM:** Xiaolong Deng, Huisi Wu,Runhao Zeng, Jing Qin.
+   "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)] [[code](https://github.com/dengxl0520/MemSAM)]
+
 - **One-Prompt:** Junde Wu, Jiayuan Zhu, Yueming Jin, Min Xu.
    "One-Prompt to Segment All Medical Images." CVPR (2024).
   [[paper](https://arxiv.org/abs/2305.10300)] [[code](https://github.com/ImprintLab/one-prompt)]
