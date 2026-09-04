@@ -79,6 +79,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
 
+- **FoRIS:** Ming Hu, Jianfu Yin, Mingyu Dou, Miaomiao Zhang, Yao Wang, Cong Hu, Bingliang Hu, Quan Wang.
+   "FoRIS: Progressive Foreground Refinement for Training-Free In-Context Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.03384)] [[code](https://github.com/Xi-Mu-Yu/FoRIS)]
+
 - **SegRGB-X:** Jiong Liu, Yingjie Xu, Xingcheng Zhou, Rui Song, Walter Zimmer, Alois Knoll, Hu Cao.
    "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026).
   [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
@@ -510,7 +514,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MIMONet:** Zhaojian Yao, Wei Gao, Tiesong Zhao, Hui Yuan, Sam Kwong.
    "MIMONet: Multi-scale Input and Multi-scale Output Network for Salient Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.25733)] [[code]( )]
-  
+
+- **GeoDistill:** Xuehao Wang, Jiaxin Hua, Runmei Li, Zhenyu Wu, Chenglizhao Chen, Ke Gu, Aimin Hao.
+   "When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.03378)] [[code]( )]
+
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.25392)] [[code](https://github.com/ltynick/RDVSv2)]
