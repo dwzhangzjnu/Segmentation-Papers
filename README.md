@@ -491,6 +491,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 ### 2026
 
+- **LAANet:** Anzhi Wang, Jintao Wu, Yun Liu.
+   "Lightweight attention-aware fusion network based on state-space model for V-D-T salient object detection." NN (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S089360802601035X)] [[code](https://github.com/GZNU-WJT/LAANet)]
+
+
+
+### 2026
+
 - **S3AM:** Ruichao Hou, Boyue Xu, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.
    "S3AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.17475)] [[code](https://github.com/xuboyue1999/SSSAM)]
