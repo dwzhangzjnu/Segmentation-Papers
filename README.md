@@ -35,6 +35,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **ParaX:** Meng Lou, Stanley Yu, Yizhou Yu.
    "Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing." ICML (2026). [[paper](https://arxiv.org/abs/2602.06862)] [[code](https://github.com/LMMMEng/ParaX)]
   
+- **DA-W:** Zhaoming Xu, Chan-Wei Hu, Kuan-Ru Huang, Zihao Zhu, Renjie Li, Yang Zhou, Zhengzhong Tu.
+   "Weather-Conditioned Depth Anything." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.04827)] [[project](https://zhaoming-tamu.github.io/WCDA/)] [[code](https://github.com/taco-group/DA-W)]
+
 - **DA3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.
    "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
   [[paper](https://arxiv.org/abs/2511.10647)] [[code](https://depth-anything-3.github.io/)]
@@ -254,7 +258,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.
    "SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.17646)] [[project](https://claudiacuttano.github.io/SAMWISE/)] [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
-  
+
+- **WeakMCN:** Silin Cheng, Yang Liu, Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo.
+   "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2505.18686)] [[code](https://github.com/MRUIL/WeakMCN)]
+
 - **ReferDINO:** Tianming Liang, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu.
    "ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations." ICCV (2025).
   [[paper](https://arxiv.org/abs/2501.14607)] [[code](https://github.com/iSEE-Laboratory/ReferDINO)]
