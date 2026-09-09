@@ -87,6 +87,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "FoRIS: Progressive Foreground Refinement for Training-Free In-Context Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03384)] [[code](https://github.com/Xi-Mu-Yu/FoRIS)]
 
+- **Diffuse2Seg:** Christoph HÃ¼mmer, Joachim Sicking, Fabian HÃ¼ger, Hanno Gottschalk.
+   "Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.06491)] [[code]( )]
+
 - **SegRGB-X:** Jiong Liu, Yingjie Xu, Xingcheng Zhou, Rui Song, Walter Zimmer, Alois Knoll, Hu Cao.
    "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026).
   [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
@@ -215,6 +219,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.
    "CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2608.03147)] [[code](https://clarence-cv.github.io/CROSS/)]
+
+- **HPI:** Xin Kun Lin, Ruoyu Guo, Jiaqi Guo, Maurice Pagnucco, Yang Song.
+   "Hierarchical Prompt Injector for Domain Generalization Segmentation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.05864)] [[code](https://github.com/MosukFate/HPI)]
 
 - **ALRIS:** Junbeom Hong, Seonghoon Yu, Hyung Rok Jung, Sundong Kim, Jeany Son.
    "Cost-efficient Active Learning for Referring Image Segmentation and Grounding." EMNLP Findings (2026).
@@ -1682,7 +1690,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.
    "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.20754)] [[code](https://github.com/Sakauma/SPARK-SAM)] 
-  
+
+- **CoRe-SAM3:** Shipeng Liu, Liang Zhao, Dengfeng Chen.
+   "CoRe-SAM3: Conditional Semantic--Visual Reconciliation for SAM3 Crack Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.05816)] [[code](https://github.com/xauat-liushipeng/CoRe-SAM3)]
+
 - **ConD:** Xuchen Zhu, Yajuan Wei, Shuang Hao, Jiwei Jiang, Guanxiang Mao, Fang Ren.
    "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20326)] [[code]( )]
