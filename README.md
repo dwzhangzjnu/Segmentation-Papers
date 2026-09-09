@@ -603,8 +603,13 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Multi-Scale and Multi-Modal Selective Fusion for RGB-D Video Salient Object Detection." ICASSP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11461712)] [[code](https://github.com/sa5uke/MSANet)]
   
+- **PUTNet:** Jingyi Xu; Xin Deng; Minglang Qiao; Lai Jiang; Mai Xu.
+   "Phase Consistency Prior Driven RGB-D Salient Object Detection." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11673835)] [[code](https://github.com/JingyiXu404/PUTNet)]
+
 - **LiTR-2654/AFCRNet:** Chang Xu; Qingwu Li; Shukai Zhao; Hao Li.
-   "Asymmetric Feature Consistency Reinforcement Network for Visual-Depth-Thermal Salient Object Detection and a New Benchmark." TIP (2026). [[paper](https://ieeexplore.ieee.org/document/11515002)] [[code](https://github.com/215HH/LiTR-2654)]
+   "Asymmetric Feature Consistency Reinforcement Network for Visual-Depth-Thermal Salient Object Detection and a New Benchmark." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11515002)] [[code](https://github.com/215HH/LiTR-2654)]
   
 - **SAM2-RS:** Jing Sun; Siyu Liang; Yu Zhao.
    "Unleashing the Potential of Segment Anything Model 2 for Efficient ORSI Salient Object Detection." TGRS (2026).
