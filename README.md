@@ -1466,6 +1466,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "ReDi-FM: Frozen Foundation Model for Continual Test-Time Adaptation in Medical Image Segmentation." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1629.pdf)] [[code](https://github.com/M4cheal/ReDi-FM)]
 
+- **CoReFuse:** Yuchen Pei, Xiaoyu Hu, Yixiong Zou, Dingwen Hu, Hui Chu, Yutao Ma, Shijun Qiu, Gang Li.
+   "When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2609.10261)] [[code](https://github.com/lrever/CoReFuse)]
+
 - **DSA:** Fan Zhang, Zhiwei Gu, Hua Wang.
    "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
