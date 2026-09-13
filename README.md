@@ -505,7 +505,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 [[RGBD-SODsurvey](https://github.com/taozh2017/RGBD-SODsurvey)]
 
 
-### 2026
+### 2027
 
 - **LAANet:** Anzhi Wang, Jintao Wu, Yun Liu.
    "Lightweight attention-aware fusion network based on state-space model for V-D-T salient object detection." NN (2027).
