@@ -758,16 +758,24 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 ### 2025
 
 - **CSOD:** Runmin Cong; Zhiyang Chen; Hao Fang; Sam Kwong; Wei Zhang. 
-   "Breaking Barriers, Localizing Saliency: A Large-scale Benchmark and Baseline for Condition-Constrained Salient Object Detection." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/11297835)] [[code](https://rmcong.github.io/proj_CSOD.html)]
+   "Breaking Barriers, Localizing Saliency: A Large-scale Benchmark and Baseline for Condition-Constrained Salient Object Detection." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11297835)] [[code](https://rmcong.github.io/proj_CSOD.html)]
   
 - **STDNet:** Zhuo Su; Li Liu; Matthias MÃ¼ller; Jiehua Zhang; Diana Wofk; Ming-Ming Cheng. 
-   "Rapid Salient Object Detection With Difference Convolutional Neural Networks." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/11072100)] [[code](https://github.com/hellozhuo/stdnet)]
+   "Rapid Salient Object Detection With Difference Convolutional Neural Networks." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11072100)] [[code](https://github.com/hellozhuo/stdnet)]
   
 - **ConTriNet:** Hao Tang; Zechao Li; Dong Zhang; Shengfeng He; Jinhui Tang. 
-   "Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection." TPAMI (2025). [[paper](https://ieeexplore.ieee.org/document/10778650)] [[code](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)]
-  
+   "Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10778650)] [[code](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)]
+
+- **ASTE-AL:** Zhenyu Wu; Wei Wang; Lin Wang; Yacong Li; Fengmao Lv; Qing Xia. 
+   "Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10711208)] [[code](https://github.com/wuzhenyubuaa/ASTE-AL)]
+
 - **OBB-SOD:** Zhihao Wu, Yong Xu, Jian Yang, David Zhang. 
-   "Weakly Supervised Salient Object Detection With Oversize Bounding Box." IJCV (2025). [[paper](https://link.springer.com/article/10.1007/s11263-025-02482-8)] [[code](https://github.com/Horatio9702/OBB-SOD)]
+   "Weakly Supervised Salient Object Detection With Oversize Bounding Box." IJCV (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02482-8)] [[code](https://github.com/Horatio9702/OBB-SOD)]
 
 - **UniSOD:** Kunpeng Wang; Zhengzheng Tu; Chenglong Li; Zhengyi Liu; Bin Luo.
    "Unified-Modal Salient Object Detection via Adaptive Prompt Learning." TCSVT (2025).
@@ -782,79 +790,107 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   [[paper](https://ieeexplore.ieee.org/document/10758288)] [[code](https://github.com/BojueGao/HENet)]
   
 - **IFENet:** Liuxin Bao; Xiaofei Zhou; Bolun Zheng; Runmin Cong; Haibing Yin; Jiyong Zhang.
-   "IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/10841969)] [[code](https://github.com/Lx-Bao/IFENet)]
+   "IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10841969)] [[code](https://github.com/Lx-Bao/IFENet)]
   
 - **TwinsTNet:** Pengfei Lyu; Xiaosheng Yu; Jianning Chi; Hao Wu; Chengdong Wu; Jagath C. Rajapakse.
-   "TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/10982382)] [[code](https://github.com/JoshuaLPF/TwinsTNet)]
+   "TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10982382)] [[code](https://github.com/JoshuaLPF/TwinsTNet)]
   
 - **SATNet:** Songsong Duan, Xi Yang, Nannan Wang, Xinbo Gao. 
-   "Lightweight RGB-D Salient Object Detection from a Speed-Accuracy Tradeoff Perspective." TIP (2025). [[paper](https://arxiv.org/abs/2505.04758)] [[code](https://github.com/duan-song/SATNet)]
+   "Lightweight RGB-D Salient Object Detection from a Speed-Accuracy Tradeoff Perspective." TIP (2025).
+  [[paper](https://arxiv.org/abs/2505.04758)] [[code](https://github.com/duan-song/SATNet)]
   
 - **DualGazeNet:** Yu Zhang, Haoan Ping, Yuchen Li, Zhenshan Bing, Fuchun Sun, Alois Knoll.
-   "DualGazeNet: A Biologically Inspired Dual-Gaze Query Network for Salient Object Detection." arXiv (2025). [[paper](https://arxiv.org/abs/2511.18865)] [[code](https://github.com/jeremypha/DualGazeNet)]
+   "DualGazeNet: A Biologically Inspired Dual-Gaze Query Network for Salient Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.18865)] [[code](https://github.com/jeremypha/DualGazeNet)]
   
 - **TripleNet:** Liyuan Chen, Ming-Hsuan Yang, Jian Pu, Zhonglong Zheng.
-   "TripleNet: Exploiting Complementary Features and Pseudo-Labels for Semi-Supervised Salient Object Detection." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/11142954)] [[code]( )]
+   "TripleNet: Exploiting Complementary Features and Pseudo-Labels for Semi-Supervised Salient Object Detection." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11142954)] [[code]( )]
   
 - **CSNet:** Huankang Guan; Jiaying Lin; Rynson W. H. Lau.
-   "A Contrastive-Learning Framework for Unsupervised Salient Object Detection." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/10964591)] [[code]( )]
+   "A Contrastive-Learning Framework for Unsupervised Salient Object Detection." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10964591)] [[code]( )]
   
 - **DiffSOD:** Mengke Song, Luming Li, Xu Yu, Chenglizhao Chen.
-   "Pushing the Boundaries of Salient Object Detection: A Denoising-Driven Approach." TIP (2025). [[paper](https://ieeexplore.ieee.org/document/11031107)] [[code](https://github.com/MengkeSong/DiffSOD)]
+   "Pushing the Boundaries of Salient Object Detection: A Denoising-Driven Approach." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11031107)] [[code](https://github.com/MengkeSong/DiffSOD)]
   
 - **DPPNet:** Junbin Yuan, Yiqi Wang, Zhoutao Wang, Qingzhen Xu, Bharadwaj Veeravalli, Xulei Yang.
-   "DPPNet: A Depth Pixel-Wise Potential-Aware Network for RGB-D Salient Object Detection." TMM (2025). [[paper](https://ieeexplore.ieee.org/document/10882929)] [[code](https://github.com/danielfaster/DPPNet)]
+   "DPPNet: A Depth Pixel-Wise Potential-Aware Network for RGB-D Salient Object Detection." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10882929)] [[code](https://github.com/danielfaster/DPPNet)]
   
 - **SMFNet:** YJiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
-   "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." arXiv (2025). [[paper](https://arxiv.org/abs/2507.21857)] [[code](https://github.com/Jia-hao999/SMFNet)]
+   "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.21857)] [[code](https://github.com/Jia-hao999/SMFNet)]
   
 - **SSLMRE:** Lina Gao, Bing Liu, Ping Fu, Mingzhu Xu, Yonggang Zhang, Yulong Huang.
-   "Self-Supervised Pretraining With Multimodality Representation Enhancement for Salient Object Detection in RGB-D Images." TIM (2025). [[paper](https://ieeexplore.ieee.org/document/10909241)] [[code]( )]
+   "Self-Supervised Pretraining With Multimodality Representation Enhancement for Salient Object Detection in RGB-D Images." TIM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10909241)] [[code]( )]
   
 - **DFINet:** Huizhi Wang; Hui Guo; Xiongli Chai; Baoyang Mu; Feng Shao.
-   "Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection." TIM (2025). [[paper](https://ieeexplore.ieee.org/document/11131311)] [[code]( )]
-  
+   "Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection." TIM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11131311)] [[code]( )]
+
+- **AGSS:** Chenglizhao Chen; Mengke Song; Shanchen Pang; Chong Peng.
+   "Adapting Generic RGB-D Salient Object Detection for Specific Traffic Scenarios." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10952378)] [[code](https://github.com/MengkeSong/AGSS)]
+
 - **IF-USOD:** Genji Yuan, Jintao Song, Jinjiang Li.
-   "IF-USOD: Multimodal information fusion interactive feature enhancement architecture for underwater salient object detection." INFFUS (2025). [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524005840)] [[code]( )]
+   "IF-USOD: Multimodal information fusion interactive feature enhancement architecture for underwater salient object detection." INFFUS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524005840)] [[code]( )]
   
 - **STAMF:** Qianwen Ma Xiaobo Li, Bincheng Li, Zhen Zhu, Jing Wu, Feng Huang, Haofeng Hu.
-   "STAMF: Synergistic transformer and mamba fusion network for RGB-Polarization based underwater salient object detection." INFFUS (2025). [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525002556)] [[code](https://github.com/Kingwin97/STAMF)]
+   "STAMF: Synergistic transformer and mamba fusion network for RGB-Polarization based underwater salient object detection." INFFUS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525002556)] [[code](https://github.com/Kingwin97/STAMF)]
   
 - **TFL-Net:** Liming Huang, Aojun Gong.
    "Trigonometric feature learning for RGBD and RGBT image salient object detection." KBS (2025). [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015697)] [[code](https://github.com/huanglm-me/TFL-Net)]
   
 - **SSNet:** Gargi Panda, Soumitra Kundu, Saumik Bhattacharya, Aurobinda Routray.
-   "SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images." arXiv (2025). [[paper](https://arxiv.org/abs/2503.02270)] [[code]( )] 
+   "SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.02270)] [[code]( )] 
 
 - **TCFNet:** Chengbang Yang, Anzhi Wang, Chunhong Ren, Yun Shao.
-   "Enhancing Salient Object Detection in RGB-D Videos via Tri-modal Complementary Fusion." TVCJ (2025). [[paper](https://link.springer.com/article/10.1007/s00371-025-04239-3)] [[code](https://github.com/yangchengbang/TCFNet)]
+   "Enhancing Salient Object Detection in RGB-D Videos via Tri-modal Complementary Fusion." TVCJ (2025).
+  [[paper](https://link.springer.com/article/10.1007/s00371-025-04239-3)] [[code](https://github.com/yangchengbang/TCFNet)]
   
 - **Samba:** Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao.
-   "Samba: A Unified Mamba-based Framework for General Salient Object Detection." CVPR (2025). [[paper](https://www.kerenfu.top/sources/CVPR2025_Samba.pdf)] [[code](https://github.com/Jia-hao999/Samba)]
+   "Samba: A Unified Mamba-based Framework for General Salient Object Detection." CVPR (2025).
+  [[paper](https://www.kerenfu.top/sources/CVPR2025_Samba.pdf)] [[code](https://github.com/Jia-hao999/Samba)]
   
 - **VCP:** Jie Wang, Nana Yu, Zihao Zhang, Yahong Han.
-   "Visual Consensus Prompting for Co-Salient Object Detection." CVPR (2025). [[paper](https://arxiv.org/abs/2504.14254)] [[code](https://github.com/WJ-CV/VCP)]
+   "Visual Consensus Prompting for Co-Salient Object Detection." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2504.14254)] [[code](https://github.com/WJ-CV/VCP)]
   
 - **UVT20K/PCNet:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.
-   "Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network." AAAI (2025). [[paper](https://arxiv.org/abs/2412.14576)] [[code](https://github.com/Angknpng/PCNet)]
+   "Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.14576)] [[code](https://github.com/Angknpng/PCNet)]
   
 - **DiMSOD:** Shuo Zhang, Jiaming Huang, Wenbing Tang, Yan Wu, Terrence Hu, Xiaogang Xu, Jing Liu.
-   "DiMSOD: A Diffusion-Based Framework for Multi-Modal Salient Object Detection." AAAI (2025). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33096)] [[code]( )]
+   "DiMSOD: A Diffusion-Based Framework for Multi-Modal Salient Object Detection." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33096)] [[code]( )]
   
 - **LFMamba:** Xinbo Geng, Fan Shi, Xu Cheng, Chen Jia, Meng Zhao, Shengyong Chen.
-   "LFMamba: Focal Stack-aware State Space Modeling for Light Field Salient Object Detection." ACM MM (2025). [[paper](https://dl.acm.org/doi/10.1145/3746027.3755654)] [[code]( )]
+   "LFMamba: Focal Stack-aware State Space Modeling for Light Field Salient Object Detection." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3755654)] [[code]( )]
   
 - **LEAF-Mamba:** Lanhu Wu, Zilin Gao, Hao Fei, Mong-Li Lee, Wynne Hsu.
-   "LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection." ACM MM (2025). [[paper](https://arxiv.org/abs/2509.18683)] [[code]( )]
+   "LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2509.18683)] [[code]( )]
   
 - **UMMSOD:** Chaojun Cen, Fei Li, Zhenbo Li. 
-   "Unified Multi-modal Salient Object Detection via Frequency Prompt and Adapter Tuning." ICMR (2025). [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733459)] [[code]( )]
+   "Unified Multi-modal Salient Object Detection via Frequency Prompt and Adapter Tuning." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733459)] [[code]( )]
   
 - **KAN-SAM:** Xingyuan Li, Ruichao Hou, Tongwei Ren, Gangshan Wu. 
-   "KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection." ICME (2025). [[paper](https://arxiv.org/abs/2504.05878)] [[code]( )]
+   "KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection." ICME (2025).
+  [[paper](https://arxiv.org/abs/2504.05878)] [[code]( )]
   
 - **SaliencyCLIP-SAM:** Ying Yuan, Yingying Zhang, Shuai Zhang, Hongjuan Wang.
-   "SaliencyCLIP-SAM: Bridging Text and Image Towards Text-Driven Salient Object Detection." ICIG (2025). [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_3)] [[code]( )]
+   "SaliencyCLIP-SAM: Bridging Text and Image Towards Text-Driven Salient Object Detection." ICIG (2025).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_3)] [[code]( )]
 
 ### 2024
 
@@ -908,13 +944,20 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 ### 2023
 
 - **VDT-2048:** Kechen Song; Jie Wang; Yanqi Bao; Liming Huang; Yunhui Yan. 
-   "A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception." TMECH (2023). [[paper](https://ieeexplore.ieee.org/document/9931143)] [[code](https://github.com/VDT-2048/VDT-Dataset)]
+   "A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception." TMECH (2023).
+  [[paper](https://ieeexplore.ieee.org/document/9931143)] [[code](https://github.com/VDT-2048/VDT-Dataset)]
   
 - **CATNet:** Fuming Sun; Peng Ren; Bowen Yin; Fasheng Wang; Haojie Li. 
-   "CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection." TMM (2023). [[paper](https://ieeexplore.ieee.org/document/10179145)] [[code]( )]
-  
+   "CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection." TMM (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10179145)] [[code]( )]
+
+- **SCDL:** Chenglizhao Chen; Mengke Song; Wenfeng Song; Li Guo; Muwei Jian. 
+   "A Comprehensive Survey on Video Saliency Detection With Auditory Information: The Audio-Visual Consistency Perceptual is the Key!." TCSVT (2023).
+  [[paper](https://ieeexplore.ieee.org/document/9874810)] [[code](https://github.com/MengkeSong/SCDL)]
+
 - **MIRV:** Aixuan Li, Yuxin Mao, Jing Zhang, Yuchao Dai. 
-   "Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection." TCSVT (2023). [[paper](https://arxiv.org/abs/2306.03630)] [[code](https://github.com/baneitixiaomai/MIRV)]
+   "Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection." TCSVT (2023).
+  [[paper](https://arxiv.org/abs/2306.03630)] [[code](https://github.com/baneitixiaomai/MIRV)]
 
 ### 2022 and Before
 
@@ -925,6 +968,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **JL-DCF:** Keren Fu; Deng-Ping Fan; Ge-Peng Ji; Qijun Zhao; Jianbing Shen; Ce Zhu. 
    "Siamese Network for RGB-D Salient Object Detection and Beyond." TPAMI (2022).
   [[paper](https://ieeexplore.ieee.org/document/9406382)] [[code]( )]
+
+- **MaD:** Mengke Song; Wenfeng Song; Guowei Yang; Chenglizhao Chen. 
+   "Improving RGB-D Salient Object Detection via Modality-Aware Decoder." TIP (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9894275)] [[code](https://github.com/MengkeSong/MaD)]
   
 
 
