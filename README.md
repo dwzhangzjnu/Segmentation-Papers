@@ -236,6 +236,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
 
+- **DSFM:** Chang Liu; Junbao Zhuo; Jihuai Zhao; Bochao Zou; Qiankun Liu; Jiansheng Chen; Qianchuan Zhao; Huimin Ma.
+   "Weather-Aware Routing and Spectral-Adaptive Fusion for RGB-T Semantic Segmentation." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11672784)] [[code]( )]
+
 - **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
@@ -549,6 +553,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.25392)] [[code](https://github.com/ltynick/RDVSv2)]
+
+- **RA-SOD:** Hongbo Gao, Zhengyu Li, Xueru Nie, Dihao Zhu, Lijun Zhao, Yunke Wang, Chang Xu.
+   "RA-SOD: Reliability-Aware RGB-T Salient Object Detection under Modality Degradation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.12622)] [[code](https://github.com/zaoxienian/RA-SOD)]
 
 - **G-SalAlignMamba:** Haixiao Gao, Yimin Zheng, Mengke Song, Linyou Xiao, Tian-Tian Zhang, Zhi-Ri Tang.
    "G-SalAlignMamba: Geometry-Aware Vision Mamba for Dual-Modal Salient Object Detection." IJCAI (2026).
@@ -1108,6 +1116,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **LAD-COD:** Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu.
    "LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07941)] [[code]( )]
+
+- **LGFN:** Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan.
+   "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.12798)] [[code]( )]
 
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
