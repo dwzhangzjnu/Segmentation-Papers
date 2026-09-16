@@ -1037,6 +1037,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.27843)] [[code](https://github.com/duan-song/VCPDCN)]
 
+- **NUN:** Chunming He, Rihan Zhang, Longxiang Tang, Dingming Zhang, Bojian Zhang, Fengyang Xiao, Jingjia Feng, Sina Farsiu.
+   "NUN: Nested Unfolding Network for Real-World Concealed Object Segmentation." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3842)] [[code](https://github.com/ChunmingHe/NUN)]
+
 - **ISSR:** Fangyan Wang, Ge Jiao, Guowen Yue.
    "Iterative Refinement of Semantic and Spatial Representations for Open-Vocabulary Camouflaged Object Segmentation." ECCV (2026).
   [[paper](https://eccv.ecva.net/virtual/2026/poster/5124)] [[code]( )]
