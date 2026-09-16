@@ -252,6 +252,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05627)] [[code](https://github.com/mzamini92/SCICLIP)]
 
+- **VPRef:** Quanwei Liu, Tao Huang, Jiaqi Yang, Wei Xiang.
+   "VPRef: A Cross-Domain Benchmark for Referring Remote Sensing Image Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.16486)] [[code](https://github.com/quanweiliu/VPRef)]
+
 - **AeroReformer2:** Rui Li, Chenxi Duan, Haoyang Yang.
    "AeroReformer2: Spoken-Query Referring Segmentation for Aerial Images." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.08874)] [[code](https://github.com/lironui/AeroReformer2)]
@@ -364,10 +368,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.12372)] [[code]( )]
 
+- **FSANet:** Ruibo Wang, Ziyi Shen, Huaming Wu, Dong Liang, Kun Shang.
+   "FSANet: Frequency-Spatial Aware Network for Image Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.16773)] [[code]( )]
+
 - **SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.
    "SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.06335)] [[code]( )]
-  
+
 - **DFormer++:** Bo-Wen Yin; Jiao-Long Cao; Dan Xu; Ming-Ming Cheng; Qibin Hou.
    "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
@@ -549,6 +557,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **GeoDistill:** Xuehao Wang, Jiaxin Hua, Runmei Li, Zhenyu Wu, Chenglizhao Chen, Ke Gu, Aimin Hao.
    "When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03378)] [[code]( )]
+
+- **RCSR:** Yuan Xiang, Matteo Rossi, Yingzhou Chen.
+   "Rank-Consistent Set Reasoning for Co-Salient Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.13706)] [[code]( )]
 
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
@@ -1024,7 +1036,19 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **VCP-DCN:** Songsong Duan, Xi Yang, Nannan Wang.
    "VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.27843)] [[code](https://github.com/duan-song/VCPDCN)]
-  
+
+- **ISSR:** Fangyan Wang, Ge Jiao, Guowen Yue.
+   "Iterative Refinement of Semantic and Spatial Representations for Open-Vocabulary Camouflaged Object Segmentation." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5124)] [[code]( )]
+
+- **ViCo-SAM3:** Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu.
+   "ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.15418)] [[code]( )]
+
+- **PASR:** Xinyu Wang, Jintang Xue, C.-C. Jay Kuo.
+   "PASR: Pattern-Aware Scene-Conditioned Reasoning for Camouflaged Object Detection." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5521)] [[code]( )]
+
 - **DepthSAM:** Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang.
    "Beyond Appearance: Camouflaged Object Detection via Geometric Structure." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)] [[code](https://github.com/hjy0518/DepthSAM)]
@@ -1100,7 +1124,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Context-measure:** Chen-Yang Wang, Ge-Peng Ji, Song Shao, Ming-Ming Cheng, Deng-Ping Fan.
    "Context-measure: Contextualizing Metric for Camouflage." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2512.07076)] [[code](https://github.com/pursuitxi/Context-measure)]
-  
+
 - **OPC16K/OPCNet:** Huafeng Chen, Yueming Lyu, Chenyang Si, Wende Tan, Liucheng Guo, Caifeng Shan.
    "Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.11135)] [[code](https://github.com/2231122/OPCOD)]
@@ -1116,6 +1140,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **LAD-COD:** Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu.
    "LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07941)] [[code]( )]
+
+- **FreeCam:** Haodong Yang, Zhongling Huang, Gong Cheng.
+   "Rethinking Camouflage Image Generation towards a Training-Free Paradigm." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.14377)] [[code]( )]
 
 - **LGFN:** Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan.
    "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection." ArXiv (2026).
