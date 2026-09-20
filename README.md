@@ -770,7 +770,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **TAWNet:** Jiazheng Wu, Zhenxue Chen, Qingqiang Guo, Chengyun Liu, Zhenyan Wang, Qinggang Meng.
    "TAWNet: Three-dimensional Adaptive Weighted Network for RGB-D Salient Object Detection." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126005800)] [[code](https://github.com/Karry-Wu/TAWNet)]
-  
+
+- **CAGE-Net:** Haomin Liu, Lu Zhang, Yunzhi Zhuge, Huchuan Lu.
+   "CAGE-Net: Cross-modal Alignment and Gated Enhancement Network for RGB-D Video Salient Object Detection." PRL (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526003387)] [[code]( )]
+
 - **PENet:** Chang Kou, Jinyu Han, Mengyin Wang.
    "Rethinking RGB-D salient object detection." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02163-z)] [[code]( )]
