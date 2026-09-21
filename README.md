@@ -1790,6 +1790,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11520404)] [[code](https://github.com/wellMachine/SDDNet/)]
 
+- **P3-SAM:** Qian Xu, Hang Xiong, Anpeng Wang, Sam Kwong, Cong Zhang, Runmin Cong.
+   "P3-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation." ICME (2026).
+  [[paper](https://arxiv.org/abs/2609.21424)] [[code]( )]
+
 - **XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.
    "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
   [[paper](https://arxiv.org/abs/2607.14287)] [[code](https://github.com/Mahedi-61/XCT-SAM)]
