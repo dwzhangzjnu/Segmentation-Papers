@@ -228,6 +228,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Cost-efficient Active Learning for Referring Image Segmentation and Grounding." EMNLP Findings (2026).
   [[paper](https://arxiv.org/abs/2608.30621)] [[code](https://github.com/junbum766/ALRIS)]
 
+- **HyperCLIP++:** Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Yaoming Wang, Xiaokang Yang, Wei Shen.
+   "HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2609.24564)] [[code](https://github.com/SJTU-DeepVisionLab/HyperCLIP-Plus-Plus)]
+
 - **DiffRES:** Tianchen Zeng; Sai Wang; Yu Wu; Bo Du.
    "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11594029)] [[code](https://github.com/charon517-517/DiffRES)]
@@ -247,7 +251,15 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.
    "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.02284)] [[code](https://github.com/hustvl/EOVSAM)]
-  
+
+- **BRL:** Xiaoqiang Lu, Licheng Jiao, Lingling Li, Yuting Yang, Long Sun, Wenping Ma, Xu Liu, Fang Liu.
+   "0.5%>100%: Bidirectional Reciprocal Learning for Referring Image Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.24510)] [[code](https://github.com/xiaoqiang-lu/BRL)]
+
+- **RefAM:** Anna Kukleva, Enis Simsar, Alessio Tonioni, Muhammad Ferjad Naeem, Federico Tombari, Jan Eric Lenssen, Bernt Schiele.
+   "RefAM: Attention Magnets for Zero-Shot Referral Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2509.22650)] [[code](https://refam-diffusion.github.io/)]
+
 - **SCI-CLIP:** Mohamad Zamini, Diksha Shukla.
    "SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05627)] [[code](https://github.com/mzamini92/SCICLIP)]
@@ -274,6 +286,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.
    "SAMWISE: Infusing Wisdom in SAM2 for Text-Driven Video Segmentation." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.17646)] [[project](https://claudiacuttano.github.io/SAMWISE/)] [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
+
+- **HyperCLIP:** Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Wei Shen.
+   "Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf)] [[code](https://github.com/SJTU-DeepVisionLab/HyperCLIP)]
 
 - **WeakMCN:** Silin Cheng, Yang Liu, Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo.
    "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation." CVPR (2025).
@@ -1155,7 +1171,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 - **LGFN:** Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan.
    "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2609.12798)] [[code]( )]
+  [[paper](https://arxiv.org/abs/2609.12798)] [[code](https://github.com/1hzf/LGFN)]
 
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
@@ -1576,6 +1592,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SurgSAM3:** Changjing Liu, Yiming Huang, Beilei Cui, Liangjing Shao, Long Bai, Yanheng Li, Haoxuan Che, Hongliang Ren.
    "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation." MICCAI EMA Workshop (2026).
   [[paper](https://arxiv.org/abs/2607.23694)] [[code](https://github.com/ChangjingLiu/SurgSAM3)]
+
+- **Lingshu:** Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, Chaoqun Liu, Zhaodonghui Li, Yu Sun, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong.
+   "Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2506.07044)] [[code](https://alibaba-damo-academy.github.io/lingshu/)]
 
 - **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
    "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
