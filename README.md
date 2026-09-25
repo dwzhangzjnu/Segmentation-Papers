@@ -248,6 +248,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
 
+- **MoVISA:** Ruining Zhao, Ho Kei Cheng, Alexander G Schwing.
+   "MoVISA: Multi-Token Reasoning for Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28956)] [[code]( )]
+
+- **MK-FSS:** Yijun Hu, Heng Fan, Libo Zhang.
+   "Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28949)] [[code]( )]
+
 - **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.
    "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.02284)] [[code](https://github.com/hustvl/EOVSAM)]
@@ -613,7 +621,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **TPS-SCL:** Lupiao Hu, Fasheng Wang, Fangmei Chen, Fuming Sun, Haojie Li.
    "Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection" AAAI (2026).
   [[paper](https://arxiv.org/abs/2512.21856)] [[code](https://github.com/HTUTU2/TPS-SCL)]
-  
+
+- **S2A:** Qiangqiang Zhou, Yang Luo, Yong Chen, Jiawei Xu.
+   "S2A:Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection" arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.27413)] [[code]( )]
+
 - **M4-SAM:** Jiyuan Liu, Jia Lin, Xiaofei Zhou, Runmin Cong, Deyang Liu, Zhi Liu.
    "M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.11760)] [[code]( )]
@@ -1548,7 +1560,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SegMoTE:** Yujie Lu, Jingwen Li, Sibo Ju, Yanzhou Su, he yao, Yisong Liu, Min Zhu, Junlong Cheng.
    "SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.19213)] [[code](https://github.com/InMyDreammer/SegMoTE)]
-  
+
+- **MambaLiteUNet:** Md Maklachur Rahman, Soon Ki Jung, Tracy Hammond.
+   "MambaLiteUNet: Cross-Gated Adaptive Feature Fusion for Robust Skin Lesion Segmentation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.20286)] [[code](https://github.com/maklachur/MambaLiteUNet)]
+
 - **TP-Seg:** Jiawei Xu, Qiangqiang Zhou, Dandan Zhu, Yong Chen, Yugen Yi, Xiaoqi Zhao.
    "TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation." CVPR-F (2026).
   [[paper](https://arxiv.org/abs/2604.00684)] [[code](https://github.com/jiaweiXu1029/TP-Seg)]
@@ -1560,6 +1576,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SegDINO-V2:** Sicheng Yang, Hongqiu Wang, Zhaohu Xing, Sixiang Chen, Qiuxia Yang, Yize Mao, Guang Yang, Lei Zhu.
    "SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2606.17972)] [[code](https://github.com/script-Yang/segdino_v2)]
+
+- **DD-CMD:** Md Maklachur Rahman, Tracy Hammond.
+   "Dual-Domain Cross-Modal Decoding for Clinical Text-Guided Medical Image Segmentation." MICCAI (2026).
+  [[paper](https://arxiv.org/abs/2608.11335)] [[code](https://github.com/maklachur/DD-CMD)]
+
+- **MRSeg:** Md Maklachur Rahman, Md Hasan Al Banna, Saraf Anjum, Assame Arnob, Tracy Hammond.
+   "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation." MICCAI (2026).
+  [[paper](https://arxiv.org/abs/2609.28860)] [[code](https://github.com/maklachur/MRSeg)]
 
 - **MSSA:** Lingrui Li, Nan Pu, Dong Zhao, Wenjing Li, Andrew P French, Zhun Zhong, Xin Chen.
    "Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation." ECCV (2026).
@@ -1826,11 +1850,19 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "CoRe-SAM3: Conditional Semantic--Visual Reconciliation for SAM3 Crack Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.05816)] [[code](https://github.com/xauat-liushipeng/CoRe-SAM3)]
 
+- **SAM-V:** Jiangshan Gong, Yuqun Wu, Qiqian Fu, Yao Xiao, Chuhang Zou, Shenlong Wang, Derek Hoiem.
+   "SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.25490)] [[code](https://github.com/gong208/SAM-V)]
+
+- **RGBD20K:** Shaohua Dong, Zexuan Meng, Haiyan Sun, Bing Fan, Cuicui Zhang, Dylan Joseph, Kewei Sha, Yunhe Feng, Heng Fan.
+   "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.29028)] [[code](https://github.com/ShaohuaDong2021/RGBD20K/)]
+
 - **ConD:** Xuchen Zhu, Yajuan Wei, Shuang Hao, Jiwei Jiang, Guanxiang Mao, Fang Ren.
    "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20326)] [[code]( )]
 
-  
+
 ### 2025
 
 - **SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.
