@@ -200,6 +200,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
 
+- **Pref-OVSS:** Hyun-Kurl Jang, Jihun Kim, Kuk-Jin Yoon.
+   "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2609.34528)] [[code](https://github.com/blue-531/pref-ovss)]
+
 - **ARGenSeg:** Xiaolong Wang, Lixiang Ru, Ziyuan Huang, Kaixiang Ji, Dandan Zheng, Jingdong Chen, Jun Zhou.
    "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2510.20803)] [[code](https://github.com/inclusionAI/ARGenSeg)]
@@ -1545,6 +1549,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 ### 2026
 
+- **MIS-Survey:** Fares Bougourzi, Abdenour Hadid.
+   "Recent Advances in Medical Imaging Segmentation: A Survey." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2505.09274)] [[code](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation)]
+
 - **DA-SAM3:** Ying Chen, Jinyue Li, Kun Wang, Qiankun Li, Yang Liu.
    "Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2607.02571)] [[code](https://github.com/Reconsider80/DA-SAM3)]
@@ -1632,6 +1640,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.
    "UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29200)] [[code](https://github.com/zhuqh19/UltraSAM3)]
+
+- **SegBanana:** Xiaoye Liang, Ye Yan, Mingze Yin, Shikun Feng, Mai Xu, Haiguang Liu, Lai Jiang, Yiheng Zhu.
+   "SegBanana: Steering Unified Multimodal Models into Medical Segmenters." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.34235)] [[code]( )]
 
 - **DistMedVL:** Jiaxuan Li, Qing Xu, Xiangjian He, Yue Li, Daokun Zhang, Fiseha B. Tesema, Rong Qu.
    "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation." ArXiv (2026).
