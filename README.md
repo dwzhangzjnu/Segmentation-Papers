@@ -62,7 +62,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **INSID3:** Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Stefan Roth.
    "INSID3: Training-Free In-Context Segmentation with DINOv3." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.28480)] [[code](https://github.com/visinf/INSID3)]
-  
+
+- **RobustPVOS:** Sohyun Lee, Yeho Gwon, Lukas Hoyer, Konrad Schindler, Christos Sakaridis, Suha Kwak.
+   "Robust Promptable Video Object Segmentation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.12006)] [[code](https://sohyun-l.github.io/RobustPVOS_project_page/)]
+
 - **DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.
    "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2504.12080)] [[code](https://github.com/zaplm/DC-SAM)]
@@ -275,6 +279,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SCI-CLIP:** Mohamad Zamini, Diksha Shukla.
    "SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05627)] [[code](https://github.com/mzamini92/SCICLIP)]
+
+- **ActiveSAM:** Tran Dinh Tien, Zhiqiang Shen.
+   "ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.16996)] [[code](https://github.com/VILA-Lab/ActiveSAM)]
 
 - **VPRef:** Quanwei Liu, Tao Huang, Jiaqi Yang, Wei Xiang.
    "VPRef: A Cross-Domain Benchmark for Referring Remote Sensing Image Segmentation." arXiv (2026).
@@ -1641,6 +1649,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.29200)] [[code](https://github.com/zhuqh19/UltraSAM3)]
 
+- **UniMedSeg:** Yunzhou Li, Jiesi Hu, Yanwu Yang, Hanyang Peng, Chenfei Ye, Jianfeng Cao, Yixuan Yuan, Ting Ma.
+   "UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.12896)] [[code](https://github.com/Lii1228/UniMedSeg)]
+
 - **SegBanana:** Xiaoye Liang, Ye Yan, Mingze Yin, Shikun Feng, Mai Xu, Haiguang Liu, Lai Jiang, Yiheng Zhu.
    "SegBanana: Steering Unified Multimodal Models into Medical Segmenters." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.34235)] [[code]( )]
@@ -1842,6 +1854,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11457996)] [[code](https://github.com/sevenshr/MGD-SAM2)]
   
+- **HyperSAM:** Li Pang, Xinqiao Wu, Jing Yao, Pedram Ghamisi, Jun Zhou, Zhengchao Chen, Deyu Meng, Xiangyong Cao.
+   "HyperSAM: A Promptable Foundation Model for Hyperspectral Remote Sensing." GRSM (2026).
+  [[paper](https://arxiv.org/abs/2609.37340)] [[code]( )]
+
 - **SDDNet:** Yu Zhao; Jing Sun; Guohui Zhang; Fuming Sun; Haojie Li.
    "Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11520404)] [[code](https://github.com/wellMachine/SDDNet/)]
@@ -1849,6 +1865,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **P3-SAM:** Qian Xu, Hang Xiong, Anpeng Wang, Sam Kwong, Cong Zhang, Runmin Cong.
    "P3-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation." ICME (2026).
   [[paper](https://arxiv.org/abs/2609.21424)] [[code]( )]
+
+- **GlassFormer:** Suhani Grover, Astik Srivastava, Viswas Dinesh, Avinash Sharma, K. Madhava Krishna.
+   "GlassFormer: Learning Real-time Glass Segmentation using Radar-Depth Fusion." IROS (2026).
+  [[paper](https://arxiv.org/abs/2609.36844)] [[code](https://github.com/Suhani92/GlassFormer)]
 
 - **XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.
    "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR (2026).
