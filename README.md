@@ -39,6 +39,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Weather-Conditioned Depth Anything." ECCV (2026).
   [[paper](https://arxiv.org/abs/2609.04827)] [[project](https://zhaoming-tamu.github.io/WCDA/)] [[code](https://github.com/taco-group/DA-W)]
 
+- **MoSA:** Weijian Jian, Xiaoyue Zhang, Bin Xiao, Chunyu Xie, Yixiao He, Yutao Liu, Dawei Leng, Yuhui Yin.
+   "Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.39785)] [[code](https://github.com/360CVGroup/MoSA)]
+
 - **DA3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.
    "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
   [[paper](https://arxiv.org/abs/2511.10647)] [[code](https://depth-anything-3.github.io/)]
@@ -212,6 +216,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2510.20803)] [[code](https://github.com/inclusionAI/ARGenSeg)]
 
+- **AdvPCS:** Ziqi Zhou, Yifan Hu, Yufei Song, Haowen Jiang, Xianlong Wang, Shengshan Hu, Dezhong Yao, Leo Yu Zhang.
+   "Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2609.39265)] [[code](https://github.com/alphanull-cqu/AdvPCS)]
+
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
@@ -251,6 +259,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DSFM:** Chang Liu; Junbao Zhuo; Jihuai Zhao; Bochao Zou; Qiankun Liu; Jiansheng Chen; Qianchuan Zhao; Huimin Ma.
    "Weather-Aware Routing and Spectral-Adaptive Fusion for RGB-T Semantic Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11672784)] [[code]( )]
+
+- **SegRAG:** Abderrahmene Boudiaf, Irfan Hussain, Sajid Javed.
+   "SegRAG: Retrieval Augmented Spatial Prompting for Open Vocabulary Semantic Segmentation." IPM (2026).
+  [[paper](https://arxiv.org/abs/2605.17630)] [[code](https://github.com/boudiafA/SegRAG)]
 
 - **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
@@ -1196,6 +1208,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **LGFN:** Zhuangfan Huang, Xiaosong Li, Yang Liu, Tao Ye, Haishu Tan.
    "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.12798)] [[code](https://github.com/1hzf/LGFN)]
+
+- **CAMF:** Junyang Xia, Luocheng Zhang, Wenwen Pan, Chifeng Zhu, Yang Yang, Xinchun Liu, Jiajun Ding.
+   "Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.38747)] [[code]( )]
 
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
