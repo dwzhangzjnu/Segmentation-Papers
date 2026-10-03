@@ -815,6 +815,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "RGB-thermal salient object detection: A survey." CSR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1574013726001097)] [[code](https://github.com/LLiSJ-web/Awesome-Salient-Object-Detection)]
 
+- **DCNet:** Yuanfeng Liu, Shibai Yin, Jiaxin Zhu, Xin Liu, Taixiang Jiang, Ivan V. BajiÄ‡, Yee-hong Yang.
+   "DCNet: Adapting segment anything model to RGB-D salient object detection via texture-semantic fusion guidance." ASOC (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1568494626019824)] [[code]( )]
+
 - **DEGFNet:** Hegui Zhu, Hongrui Tian, Ziyang Zhang.
    "Dual-stage enhancement and coarse-fine gating fusion for RGB-D salient object detection." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004343)] [[code]( )]
