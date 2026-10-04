@@ -465,7 +465,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "VSCode-V2: Dynamic Prompt Learning for General Visual Salient and Camouflaged Object Detection With Two-Stage Optimization." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/document/11264365)] [[code](https://github.com/congvvc/InstructSeg)]
 
-- **USCNet:** Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang.
+- **USCNet/USC12K:** Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang.
    "Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.10943)] [[code](https://github.com/ssecv/USCNet)]
 
@@ -1048,6 +1048,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **U2-Net:** Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane, Martin Jagersand. 
    "U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection." PR (2022).
   [[paper](https://arxiv.org/abs/2005.09007)] [[code](https://github.com/xuebinqin/U-2-Net)]
+
+- **DSU:** Wei Ji, Jingjing Li, Qi Bi, chuan guo, Jie Liu, Li Cheng. 
+   "Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection." ICLR (2022).
+  [[paper](https://openreview.net/forum?id=BZnnMbt0pW)] [[code]( )]
 
 - **JL-DCF:** Keren Fu; Deng-Ping Fan; Ge-Peng Ji; Qijun Zhao; Jianbing Shen; Ce Zhu. 
    "Siamese Network for RGB-D Salient Object Detection and Beyond." TPAMI (2022).
