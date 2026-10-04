@@ -831,6 +831,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "CAGE-Net: Cross-modal Alignment and Gated Enhancement Network for RGB-D Video Salient Object Detection." PRL (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526003387)] [[code]( )]
 
+- **UDR-Mamba:** Ning Li, Jiaxin Li, Xiwen Yang, Jianhang Shi, Haojie Wu, Gaochao Yang.
+   "UDR-Mamba: A Depth-Structured Reliability-Guided Mamba Framework for RGB-D Underwater Salient Object Detection." preprint (2026).
+  [[paper](https://www.researchsquare.com/article/rs-10496350/v1)] [[code]( )]
+
 - **PENet:** Chang Kou, Jinyu Han, Mengyin Wang.
    "Rethinking RGB-D salient object detection." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02163-z)] [[code]( )]
