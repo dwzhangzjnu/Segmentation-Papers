@@ -264,6 +264,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SegRAG: Retrieval Augmented Spatial Prompting for Open Vocabulary Semantic Segmentation." IPM (2026).
   [[paper](https://arxiv.org/abs/2605.17630)] [[code](https://github.com/boudiafA/SegRAG)]
 
+- **DTFormer:** Ziang Wei, Yinlong Liu, Yan Xia, Alois Knoll, Hu Cao.
+   "DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.07014)] [[code]( )]
+
 - **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
@@ -730,7 +734,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **STENet:** Jianlin Chen, Gongyang Li, Zhijiang Zhang, Liang Chang, Dan Zeng. 
    "STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection." TMM (2026).
   [[paper](https://arxiv.org/abs/2603.21999)]  [[code](https://github.com/Mark9010/STENet)]
-  
+
+- **FDNet:** Feng Yan; Xiaoheng Jiang; Yang Lu; Jiale Cao; Runmin Cong; Mingliang Xu. 
+   "Frequency Decoupled Cross-Modal Network With Query Refinement for RGB-D Salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11718612)]  [[code]( )]
+
 - **SAMSOD:**  Zhengyi Liu, Xinrui Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang. 
    "SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection." TMM (2026).
   [[paper](https://arxiv.org/abs/2510.03689)] [[code](https://github.com/liuzywen/SAMSOD)]
@@ -1628,6 +1636,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MRSeg:** Md Maklachur Rahman, Md Hasan Al Banna, Saraf Anjum, Assame Arnob, Tracy Hammond.
    "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2609.28860)] [[code](https://github.com/maklachur/MRSeg)]
+
+- **UniPro:** Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris Metaxas.
+   "UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.06938)] [[code](https://github.com/bangwayne/UniPro)]
 
 - **MSSA:** Lingrui Li, Nan Pu, Dong Zhao, Wenjing Li, Andrew P French, Zhun Zhong, Xin Chen.
    "Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation." ECCV (2026).
