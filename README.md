@@ -370,6 +370,9 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
   
 ## General Segmentation
 
+
+[[Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation)]
+
 ### 2026
 
 - **DifferSeg:** Qiangqiang Zhou; Jiawei Xu; Yong Chen; Dandan Zhu; Yugen Yi; Xiaoqi Zhao.
