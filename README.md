@@ -418,14 +418,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **VFMamba:** .
    "VFMamba: Multi-Token Visual Foreground Mamba for Foreground Segmentation." arXiv (2026).
   [[paper]( )] [[code](https://github.com/duan-song/VFMamba)]
-  
+
+- **UniRefDet:** .
+   "UniRefDet: Universal Referring Detection of Salient and Camouflaged Objects in Unconstrained Scenes." Openreview (2026).
+  [[paper](https://openreview.net/forum?id=4iqm0y67ff)] [[code]( )]
+
 - **UMSS:** Haitian Zhang, Thai Duy Nguyen, Xiangyuan Wang, Mohan Liu, Lin Wang.
    "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.12372)] [[code]( )]
-
-- **FSANet:** Ruibo Wang, Ziyi Shen, Huaming Wu, Dong Liang, Kun Shang.
-   "FSANet: Frequency-Spatial Aware Network for Image Segmentation." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2609.16773)] [[code]( )]
 
 - **SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.
    "SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." arXiv (2026).
