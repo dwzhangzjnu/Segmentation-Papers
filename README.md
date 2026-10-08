@@ -1160,6 +1160,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Beyond Weak Supervision: MLLMs-Guided Graded Knowledge Distillation for Unsupervised Camouflaged Object Detection." CVPR (2026).
   [[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Chen_Beyond_Weak_Supervision_MLLMs-Guided_Graded_Knowledge_Distillation_for_Unsupervised_Camouflaged_CVPR_2026_paper.pdf)] [[code](https://github.com/2231122/UCOD-MKD)]
 
+- **Bi-CamoDiffusion:** Patricia L. Suarez, Leo Thomas Ramos, Angel D. Sappa.
+   "Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection." CVPRW (2026).
+  [[paper](https://arxiv.org/abs/2603.13357)] [[code](https://github.com/plsuarez/Bi-CamoDiffusion)]
+
 - **COP:** Pancheng Zhao, Deng-Ping Fan, Shupeng Cheng, Salman Khan, Fahad Khan, David Clifton, Peng Xu, Jufeng Yang.
    "Deep Learning in Concealed Dense Prediction." ACM Computing Surveys (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3820770)] [[code](https://github.com/PanchengZhao/Concealed-Dense-Prediction)]
@@ -1695,6 +1699,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **UniMedSeg:** Yunzhou Li, Jiesi Hu, Yanwu Yang, Hanyang Peng, Chenfei Ye, Jianfeng Cao, Yixuan Yuan, Ting Ma.
    "UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.12896)] [[code](https://github.com/Lii1228/UniMedSeg)]
+
+- **MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.
+   "MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.09879)] [[code](https://github.com/astlian9/MedVL-SAM2)]
 
 - **SegBanana:** Xiaoye Liang, Ye Yan, Mingze Yin, Shikun Feng, Mai Xu, Haiguang Liu, Lai Jiang, Yiheng Zhu.
    "SegBanana: Steering Unified Multimodal Models into Medical Segmenters." ArXiv (2026).
