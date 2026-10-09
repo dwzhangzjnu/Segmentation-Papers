@@ -1188,6 +1188,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Visible-Infrared Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11159525)] [[code](https://github.com/tjuliucheng/Multimodal-Visual-Reasoning-Dataset)]
 
+- **DGA-Net:** Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu.
+   "DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11699085)] [[code](https://github.com/iuueong/DGA-Net)]
+
 - **TVP-Diff:** Jin Yan; Houjie Li; Bo Cai; Jing Sun; Fuming Sun.
    "TVP-Diff: Text-aware Visual Prompt-driven Diffusion for Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11579381)] [[code](https://github.com/yanjin12321/TVP-Diff)]
@@ -1255,10 +1259,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **HyperCOD:** Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li.
    "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.03736)] [[code](https://github.com/Baishuyanyan/HyperCOD)]
-  
-- **DGA-Net:** Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu.
-   "DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2601.02831)] [[code]( )]
   
 - **MHENet:** Yuzhen Niu, Yangqing Wang, Ri Cheng, Fusheng Li, Rongshen Wang, Zhichen Yang.
    "Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection." ICME (2026).
