@@ -307,7 +307,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **AeroReformer2:** Rui Li, Chenxi Duan, Haoyang Yang.
    "AeroReformer2: Spoken-Query Referring Segmentation for Aerial Images." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.08874)] [[code](https://github.com/lironui/AeroReformer2)]
-  
+
+- **ContourVLA:** Ruicheng Zhang, Kaiwen Shen, Jiaqi Hou, Shuhan Yang, Junchao Huang, Kewei Zhang, Jun Zhou, Li Jiang, Shen Zhao.
+   "ContourVLA: A Closed-Loop Perception-Action Contour Policy for Generalized Referring Expression Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.12107)] [[code]( )]
+
 - **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
    "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
