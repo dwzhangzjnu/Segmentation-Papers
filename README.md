@@ -633,6 +633,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "G-SalAlignMamba: Geometry-Aware Vision Mamba for Dual-Modal Salient Object Detection." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3160.pdf)] [[code](https://github.com/PC1-99/G-SalAlignMamb)]
 
+- **M4-SAM:** Jiyuan Liu, Jia Lin, Xiaofei Zhou, Runmin Cong, Deyang Liu, Zhi Liu.
+   "M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.11760)] [[code](https://github.com/HankLiu2020/M4-SAM)]
+
 - **UMFNet:** Mianzhao Wang, Fan Shi, Xu Cheng, Chen Jia, Shengyong Chen.
    "Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Uncertainty-Aware_Modality_Fusion_for_Unaligned_RGB-T_Salient_Object_Detection_CVPR_2026_paper.html)] [[code]( )]
@@ -660,10 +664,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **S2A:** Qiangqiang Zhou, Yang Luo, Yong Chen, Jiawei Xu.
    "S2A:Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection" arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.27413)] [[code]( )]
-
-- **M4-SAM:** Jiyuan Liu, Jia Lin, Xiaofei Zhou, Runmin Cong, Deyang Liu, Zhi Liu.
-   "M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2605.11760)] [[code]( )]
   
 - **S3OD:** Orest Kupyn, Hirokatsu Kataoka, Christian Rupprecht.
    "S3OD: Towards Generalizable Salient Object Detection with Synthetic Data." ICLR (2026).
