@@ -99,6 +99,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.06491)] [[code]( )]
 
+- **SAM24VSS:** Syed Ariff Syed Hesham, Yun Liu, Guolei Sun, Jing Yang, Henghui Ding, Xue Geng, Xudong Jiang .
+   "Evaluating SAM2 for Video Semantic Segmentation." MIR (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11633-026-1638-9)] [[code]( )]
+
 - **SegRGB-X:** Jiong Liu, Yingjie Xu, Xingcheng Zhou, Rui Song, Walter Zimmer, Alois Knoll, Hu Cao.
    "SegRGB-X: General RGB-X Semantic Segmentation Model." arXiv (2026).
   [[paper](https://arxiv.org/abs/2603.28023)] [[code]( )]
@@ -842,6 +846,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "TAWNet: Three-dimensional Adaptive Weighted Network for RGB-D Salient Object Detection." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126005800)] [[code](https://github.com/Karry-Wu/TAWNet)]
 
+- **GAPNet:** Yu-Huan Wu, Wei Liu, Zi-Xuan Zhu, Zizhou Wang, Yong Liu, Liangli Zhen.
+   "GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-aware Paradigm." MIR (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11633-025-1593-x)] [[code](https://github.com/yuhuan-wu/GAPNet)]
+
 - **CAGE-Net:** Haomin Liu, Lu Zhang, Yunzhi Zhuge, Huchuan Lu.
    "CAGE-Net: Cross-modal Alignment and Gated Enhancement Network for RGB-D Video Salient Object Detection." PRL (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526003387)] [[code]( )]
@@ -1395,6 +1403,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **COD-SAM:** Dongyang Gao, Yichao Zhou, Hui Yan, Chen Chen, Xiyuan Hu.
    "COD-SAM: Camouflage object detection using SAM." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325004868)] [[code]( )]
+
+- **RefOnce:** Yu-Huan Wu, Zi-Xuan Zhu, Yan Wang, Liangli Zhen, Deng-Ping Fan.
+   "RefOnce: Distilling References into a Prototype Memory for Referring Camouflaged Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.20989)] [[code](https://github.com/yuhuan-wu/RefOnce)]
 
 - **PPT-net:** Guoying Liang, Su Yang.
    "Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance." arXiv (2025).
