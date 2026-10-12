@@ -590,6 +590,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Multi-modal interaction enhanced segment anything model (MIE-SAM) for RGB-T salient object detection." NN (2027).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026010439)] [[code](https://github.com/Aazzz66/MIESAM)]
 
+- **UCMNet:** Tong Zhu, Yingle Fan.
+   "UCMNet: Dual spatial reliability-and-compalementarity modeling for RGB-D salient object detection." ASOC (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1568494626020545)] [[code]( )]
+
 
 ### 2026
 
