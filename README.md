@@ -212,9 +212,17 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_The_Power_of_Prior_Training-Free_Open-Vocabulary_Semantic_Segmentation_with_LLaVA_CVPR_2026_paper.html)] [[code](https://github.com/zbf1991/FSeg-LLaVA)]
 
+- **AquaOV255/Earth2Ocean:** Bingyu Li, Tao Huo, Da Zhang, Zhiyuan Zhao, Junyu Gao, Xuelong Li.
+   "Exploring the Underwater World Segmentation without Extra Training." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2511.07923)] [[code](https://github.com/LiBingyu01/Earth2Ocean)]
+
 - **Pref-OVSS:** Hyun-Kurl Jang, Jihun Kim, Kuk-Jin Yoon.
    "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2609.34528)] [[code](https://github.com/blue-531/pref-ovss)]
+
+- **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
+   "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
 
 - **ARGenSeg:** Xiaolong Wang, Lixiang Ru, Ziyuan Huang, Kaixiang Ji, Dandan Zheng, Jingdong Chen, Jun Zhou.
    "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model." NeurIPS (2026).
@@ -422,6 +430,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DiveSeg:** Zhiyang Chen, Chen Zhang, Hao Fang, Runmin Cong.
    "Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.08334)] [[code](https://github.com/ettof/Diveseg)]
+
+- **TAG:** Hao Zhu, Heyu Sun, Shuo Jin, Jiayu Xiao, Feng Dai.
+   "TAG: Calibrating SAM3 for Universal Image Segmentation without Dense Supervision." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.14651)] [[code](https://github.com/MiSsU-HH/TAG_SAM3)]
 
 - **VFMamba:** .
    "VFMamba: Multi-Token Visual Foreground Mamba for Foreground Segmentation." arXiv (2026).
@@ -1663,6 +1675,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MRSeg:** Md Maklachur Rahman, Md Hasan Al Banna, Saraf Anjum, Assame Arnob, Tracy Hammond.
    "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2609.28860)] [[code](https://github.com/maklachur/MRSeg)]
+
+- **RADAR:** Jie Gui, Hang Tu, Yunfeng Dou, Wen Sha, Xiuquan Du, Shuo Li.
+   "Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.14944)] [[code](https://github.com/JGuiidev/RADAR)]
 
 - **UniPro:** Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris Metaxas.
    "UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation." NeurIPS (2026).
