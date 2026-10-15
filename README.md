@@ -116,6 +116,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DINOv3:** Oriane SimÃ©oni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, et, al.
    "DINOv3." arXiv (2025). [[paper](https://arxiv.org/abs/2508.10104)] [[code](https://github.com/facebookresearch/dinov3)]
 
+- **VDA:** Sili Chen, Hengkai Guo, Shengnan Zhu, Feihu Zhang, Zilong Huang, Jiashi Feng, Bingyi Kang.
+   "Video Depth Anything: Consistent Depth Estimation for Super-Long Videos." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2501.12375)] [[code](https://videodepthanything.github.io/)]
+
 - **SANSA:** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.
    "SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2505.21795)] [[code](https://github.com/ClaudiaCuttano/SANSA)]
@@ -1932,7 +1936,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM2Matting:** Ruiqi Shen, Guangquan Jie, Chang Liu, Henghui Ding.
    "SAM2Matting: Generalized Image and Video Matting." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.27339)] [[code](https://henghuiding.com/SAM2Matting/)]
-  
+
+- **ELVIS:** Joanne Lin, Ruirui Lin, Yini Li, David Bull, Nantheera Anantrasirichai.
+   "ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2512.01495)] [[code](https://joannelin168.github.io/research/ELVIS/)]
+
 - **SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.
    "Segment and Matte Anything in a Unified Model." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
