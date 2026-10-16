@@ -447,6 +447,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "UniRefDet: Universal Referring Detection of Salient and Camouflaged Objects in Unconstrained Scenes." Openreview (2026).
   [[paper](https://openreview.net/forum?id=4iqm0y67ff)] [[code]( )]
 
+- **FuseAdapt:** Xin Zhang, Robby T. Tan.
+   "FuseAdapt: Parameter-Efficient Multimodal Fusion for Semantic Segmentation with Missing Modalities." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.21779)] [[code](https://devinxzhang.github.io/FuseAdapt-Page/)]
+
 - **UMSS:** Haitian Zhang, Thai Duy Nguyen, Xiangyuan Wang, Mohan Liu, Lin Wang.
    "UMSS: Towards Unsupervised Multi-modal Semantic Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.12372)] [[code]( )]
