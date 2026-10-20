@@ -206,6 +206,18 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 [[Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation)]
 
+
+### 2027
+
+- **ATLAS:** Hamidreza Dastmalchi, Ali Cheraghian, Aijun An, Abdelwahed Khamis, Lars Petersson.
+   "ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation." WACV (2027).
+  [[paper](https://arxiv.org/abs/2610.24783)] [[code](https://hamidreza-136.github.io/atlas/)]
+
+- **TCoVP:** Junwei Wen, Deshui Miao, Guangming Lu, Ming-Hsuan Yang, Xin Li, Wenjie Pei.
+   "Think Visually Across Space and Time: Grounded Reasoning for Video Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.25090)] [[code](https://victor-wjw.github.io/TCoVP/next/)]
+  
+
 ### 2026
 
 - **SAMTok:** Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li.
@@ -236,6 +248,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2609.39265)] [[code](https://github.com/alphanull-cqu/AdvPCS)]
 
+- **Early Semantic Grounding:** Jingxuan He, Xiyu Wang, Yunke Wang, Mengyu Zheng, Chang Xu.
+   "Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2605.13122)] [[code](https://jessie459.github.io/EarlySemanticGrounding/)]
+
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
@@ -263,6 +279,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **HyperCLIP++:** Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Yaoming Wang, Xiaokang Yang, Wei Shen.
    "HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2609.24564)] [[code](https://github.com/SJTU-DeepVisionLab/HyperCLIP-Plus-Plus)]
+
+- **CorrCLIPv2:** Dengke Zhang, Fagui Liu, Quan Tang, C. L. Philip Chen.
+   "CorrCLIPv2: Harnessing Unlabeled Images for Open-Vocabulary Semantic Segmentation." IJCV (2026).
+  [[paper](https://arxiv.org/abs/2610.24757)] [[code](https://github.com/zdk258/CorrCLIP)]
 
 - **DiffRES:** Tianchen Zeng; Sai Wang; Yu Wu; Bo Du.
    "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
