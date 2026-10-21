@@ -782,6 +782,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "RSONet: Region-Guided Selective Optimization Network for RGB-T Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11428245)] [[code]( )]
 
+- **CANet:**  Xiaogang Song; Hexiang Huang; Qin Zhao; Xinwei Guo; Xinhong Hei. 
+   "Cross-Modal Alignment and High-Frequency Refinement for RGB-D Salient Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11739526)] [[code]( )]
+
 - **DRNet:**  Nana Yu; Jie Wang; Yahong Han. 
    "Low-Light Salient Object Detection via Representation Decoupling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494060)] [[code]( )]
