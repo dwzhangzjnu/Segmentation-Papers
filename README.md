@@ -427,6 +427,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.26849)] [[code](https://github.com/cke520/LFNet)]
 
+- **DCR-SAM:** Wenbin Liao, Hao Zhu, Yike Ma, Hao Jiang, Feng Dai.
+   "Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.27960)] [[code](https://github.com/set-path/DCR-SAM)]
+
 - **URNet:** Guoan Xu, Zhengxue Wang, Yang Xiao, Ligeng Chen, Guangwei Gao, Dongchen Zhu.
    "URNet: A Unified Reparameterized Network for Efficient RGB-D Semantic Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.05671)] [[code](https://github.com/Wild-Stephen/URNet)]
