@@ -487,6 +487,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
 
+- **RGB-X Fusion:** Chen Yu, Lu Jialiang, Li Xuewei, Li Xi.
+   "General Intelligence-Driven RGB-X Fusionï¼š A Survey." JIG (2026).
+  [[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260229/)] [[code](https://github.com/yuyuxiazhu-pixel/RGB-X-fusion-technologies)]  
+
+  
 ### 2025
 
 - **SAM3-Adapter:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.
@@ -1323,7 +1328,12 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **AEIFNet:** Dongdong Zhang, Huiying Wang, Chunping Wang, Qing Yang, Zhaorui Li, Qiang Fu.
    "AEIFNet: cross-modality asymmetric enhancement and interactive fusion network for RGB-D camouflaged object detection." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-026-02301-1)] [[code](https://github.com/zcc0616/AEIFNet)]
+  
+- **MambaCOD:** Huang Rongmei, Yu Hong, Xie Caiyun, Dai Xiaofang, Chen Ying, Dai Jingjie, Hong Ruxia.
+   "RGB-D camouflaged object detection with state space model-guided multimodal fusion." JIG (2026).
+  [[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260176/)] [[code]( )]
 
+  
 ### 2025
 
 - **R2C7K/RefCOD:** Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng.
