@@ -292,6 +292,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
 
+- **SegCoI:** Jing Yang; Penglei Wang; Yuan Gao; Jieming Yang; Laurence T. Yang; M. Jamal Deen.
+   "SegCoI: Optimizing Training-Free Open-Vocabulary Segmentation for Categories of Interest." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11740658)] [[code](https://github.com/wedsadddq/Seg-COI)]
+
 - **DSFM:** Chang Liu; Junbao Zhuo; Jihuai Zhao; Bochao Zou; Qiankun Liu; Jiansheng Chen; Qianchuan Zhao; Huimin Ma.
    "Weather-Aware Routing and Spectral-Adaptive Fusion for RGB-T Semantic Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11672784)] [[code]( )]
