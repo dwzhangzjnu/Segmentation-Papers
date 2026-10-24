@@ -992,7 +992,15 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SMFNet:** YJiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
    "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." arXiv (2025).
   [[paper](https://arxiv.org/abs/2507.21857)] [[code](https://github.com/Jia-hao999/SMFNet)]
-  
+
+- **ORSIDiff:** Jinyu Han; Jing Sun; Fasheng Wang; Fuming Sun; Haojie Li.
+   "ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11032144)] [[code]( )]
+
+- **DiffORSINet:** Yaoyao Hou; Ting Li.
+   "DiffORSINet: Salient Object Detection in Optical Remote Sensing Images via Conditional Diffusion Model." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11300912)] [[code](https://github.com/hyy-qd/DiffORSINet/)]
+
 - **SSLMRE:** Lina Gao, Bing Liu, Ping Fu, Mingzhu Xu, Yonggang Zhang, Yulong Huang.
    "Self-Supervised Pretraining With Multimodality Representation Enhancement for Salient Object Detection in RGB-D Images." TIM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10909241)] [[code]( )]
@@ -1367,7 +1375,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **UpGen:** Ji Du; Jiesheng Wu; Desheng Kong; Weiyun Liang; Fangwei Hao; Jing Xu.
    "UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11131534)] [[code]( )]
-  
+
+- **UGDNet:** Jinsheng Yang; Bineng Zhong; Qihua Liang; Zhiyi Mo; Shengping Zhang; Shuxiang Song.
+   "Uncertainty-Guided Diffusion Model for Camouflaged Object Detection." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10855518)] [[code]( )]
+
 - **MM-SAM:** Guangyu Ren; Hengyan Liu; Michalis Lazarou; Tania Stathaki.
    "Multi-Modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025).
   [[paper](https://ieeexplore.ieee.org/document/11444230)] [[code](https://github.com/ic-qialanqian/Vision-Language-SAM)]
@@ -1571,7 +1583,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.
    "SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention." CVPRW (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/html/Meeran_SAM-PM_Enhancing_Video_Camouflaged_Object_Detection_using_Spatio-Temporal_Attention_CVPRW_2024_paper.html)] [[code](https://github.com/SpiderNitt/SAM-PM)]
-  
+
+- **CamoDiffusion:** Zhongxi Chen, Ke Sun, Xianming Lin.
+   "CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models." AAAI (2024).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27890)] [[code](https://github.com/Rapisurazurite/CamoDiffusion)]
+
 - **GenSAM:** Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong.
    "Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.07374)] [[code](https://github.com/jyLin8100/GenSAM)]
