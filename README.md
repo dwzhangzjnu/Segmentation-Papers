@@ -252,6 +252,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2605.13122)] [[code](https://jessie459.github.io/EarlySemanticGrounding/)]
 
+- **SetCon:** Zhixiong Zhang, Yizhuo Li, Shuangrui Ding, Yuhang Zang, Shengyuan Ding, Long Xing, Yibin Wang, Qiaosheng Zhang, Jiaqi Wang.
+   "SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2605.20110)] [[code](https://github.com/rookiexiong7/SetCon)]
+
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
