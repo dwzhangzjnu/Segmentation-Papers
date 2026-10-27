@@ -2011,6 +2011,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Segment and Matte Anything in a Unified Model." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
 
+- **FocusSeg:** Yuqing Wang; Hao Tang; Yi Shi; Kaihui Yang; Junwei Han; Dingwen Zhang.
+   "Focus on the Hard: SAM-Based Prompt-Guided Refinement for RGB-T Semantic Segmentation." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11715949)] [[code](https://github.com/Wanda36/FocusSeg)]
+
+- **H2GNet:** Zhiwei Zhang; Yixin Hu; Yisha Liu; Yan Zhuang.
+   "Beyond Pairwise Relational Modeling: Hierarchical Hypergraph Fusion Network for RGB-T Semantic Segmentation." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11718614)] [[code](https://github.com/zzw0803/H2GNet)]
+
 - **MGD-SAM2:** Haoran Shen; Peixian Zhuang; Jiahao Kou; Yuxin Zeng; Haoying Xu; Jiangyun Li.
    "MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11457996)] [[code](https://github.com/sevenshr/MGD-SAM2)]
