@@ -324,6 +324,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.28949)] [[code]( )]
 
+- **Aerial-R1:** Jisheng Dang, Huaiyuan Peng, Yixuan Wang, Kun Wang, Zhang Li, Tat-Seng Chua.
+   "Aerial-R1: Reinforcing Aerial Reasoning and Segmentation in MLLMs." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.33056)] [[code](https://github.com/phy709/Aerial-R1)]
+
+- **DRA-SAM:** Jisheng Dang, Huaiyuan Peng, Wencan Zhang, Bimei Wang, Jingwen Zhao, Wenjun Ma, Hong Peng, Bin Hu, Qi Tian, Tat-Seng Chua.
+   "DRA-SAM: Disagreement-Driven Referential Active SAM for Low-Altitude Drone Referring Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.33057)] [[code](https://github.com/phy709/DRA-SAM)]
+
 - **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.
    "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.02284)] [[code](https://github.com/hustvl/EOVSAM)]
@@ -1745,6 +1753,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MRSeg:** Md Maklachur Rahman, Md Hasan Al Banna, Saraf Anjum, Assame Arnob, Tracy Hammond.
    "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation." MICCAI (2026).
   [[paper](https://arxiv.org/abs/2609.28860)] [[code](https://github.com/maklachur/MRSeg)]
+
+- **MedVTok:** Chenglong Ma, Yuanfeng Ji, Junzhi Ning, Jiyao Liu, Yujie Wei, Shaohao Rui, Chaoyang Zhang, Wenjie Li, Wenhao Tang, Cheng Tang, Wei Li, Shujian Gao, Yujie Zhang, Ying Chen, Zilong Li, Zongyuan Ge, Diping Song, Jin Ye, Ming Hu, Junjun He, Hongming Shan.
+   "MedVTok: A General-Purpose Medical Visual Tokenizer." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.35842)] [[code](https://masaaki-75.github.io/medvtok/)]
 
 - **RADAR:** Jie Gui, Hang Tu, Yunfeng Dou, Wen Sha, Xiuquan Du, Shuo Li.
    "Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations." NeurIPS (2026).
