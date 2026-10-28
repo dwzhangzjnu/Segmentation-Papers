@@ -1340,11 +1340,15 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.
    "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.25385)] [[code]( )]
-  
+
 - **MAPL:** Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.
    "Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.12380)] [[code]( )]
-  
+
+- **AxisQ:** Chi Ruan, Tianqi Li, Xin He, Xue Geng, Ming-Ming Cheng, Yun Liu.
+   "AxisQ: Depth-Adaptive Channel--Frequency Quantization for Camouflaged Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.36844)] [[code](https://github.com/chi558/AxisQ)]
+
 - **HyperCOD:** Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li.
    "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.03736)] [[code](https://github.com/Baishuyanyan/HyperCOD)]
