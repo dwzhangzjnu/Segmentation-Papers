@@ -1850,6 +1850,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2412.12660)]
 
+- **SAMBA-UNet:** Chenchen Wang, You Zhou.
+   "Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.40029)]
+
 - **FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.
    "Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.09925)]
