@@ -213,6 +213,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation." WACV (2027).
   [[paper](https://arxiv.org/abs/2610.24783)] [[code](https://hamidreza-136.github.io/atlas/)]
 
+- **DA-CoT:** Chanseul Cho, Jaesung Jun, Dongheon Lee, Youngmin Ro.
+   "Attention Maps Know When to Think: Training-Free Difficulty-Aware Chain-of-Thought for Reasoning Segmentation." WACV (2027).
+  [[paper](https://arxiv.org/abs/2610.41618)] [[code](https://github.com/chanseul01/DA-CoT)]
+
 - **TCoVP:** Junwei Wen, Deshui Miao, Guangming Lu, Ming-Hsuan Yang, Xin Li, Wenjie Pei.
    "Think Visually Across Space and Time: Grounded Reasoning for Video Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.25090)] [[code](https://victor-wjw.github.io/TCoVP/next/)]
@@ -315,6 +319,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
+
+- **ReVEAL:** Zhongyuan Bao, Cunjie He, Lejun Zhang, Zenglin Xu, Yanwei Fu.
+   "ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.41257)] [[code](https://github.com/Lexarymade/ReVEAL)]
 
 - **MoVISA:** Ruining Zhao, Ho Kei Cheng, Alexander G Schwing.
    "MoVISA: Multi-Token Reasoning for Video Object Segmentation." arXiv (2026).
