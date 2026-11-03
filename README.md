@@ -2075,6 +2075,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.20754)] [[code](https://github.com/Sakauma/SPARK-SAM)] 
 
+- **VQS-4K/VQ-SAM:** Bing Fan, Minghao Li, Hanzhi Zhang, Shaohua Dong, Naga Prudhvi Mareedu, Xiaoqiong Liu, Weishi Shi, Yunhe Feng, Yan Huang, Heng Fan.
+   "Towards Visual Query Segmentation in the Wild." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.08898)] [[code](https://github.com/VAIL-Fan/VQS)]
+
 - **CoRe-SAM3:** Shipeng Liu, Liang Zhao, Dengfeng Chen.
    "CoRe-SAM3: Conditional Semantic--Visual Reconciliation for SAM3 Crack Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.05816)] [[code](https://github.com/xauat-liushipeng/CoRe-SAM3)]
