@@ -244,6 +244,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
 
+- **EVOG:** Jun Huang, Junyang Zhang, Zijie Yue, Bingkun Wang, Yong Luo, Miaojing Shi.
+   "Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.04472)] [[code](https://github.com/viscom-tongji/EVOG)]
+
 - **ARGenSeg:** Xiaolong Wang, Lixiang Ru, Ziyuan Huang, Kaixiang Ji, Dandan Zheng, Jingdong Chen, Jun Zhou.
    "ARGenSeg: Image Segmentation with Autoregressive Image Generation Model." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2510.20803)] [[code](https://github.com/inclusionAI/ARGenSeg)]
