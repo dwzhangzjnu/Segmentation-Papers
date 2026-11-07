@@ -316,6 +316,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SegRAG: Retrieval Augmented Spatial Prompting for Open Vocabulary Semantic Segmentation." IPM (2026).
   [[paper](https://arxiv.org/abs/2605.17630)] [[code](https://github.com/boudiafA/SegRAG)]
 
+- **DSRS:** Sicen Guo, Zhengfei Song, Kuanhsun Chen, Xu Huang, Ping Zhong, Wei Ye, Shaoyi Du, Rui Fan.
+   "DSRS: Teaching MLLMs to Perceive, Reason, and Segment in Complex Driving Scenes." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.06160)] [[code]( )]
+
 - **DTFormer:** Ziang Wei, Yinlong Liu, Yan Xia, Alois Knoll, Hu Cao.
    "DTFormer: Text-Guided Semantic Alignment for RGB-D Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.07014)] [[code]( )]
@@ -934,6 +938,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **GAPNet:** Yu-Huan Wu, Wei Liu, Zi-Xuan Zhu, Zizhou Wang, Yong Liu, Liangli Zhen.
    "GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-aware Paradigm." MIR (2026).
   [[paper](https://link.springer.com/article/10.1007/s11633-025-1593-x)] [[code](https://github.com/yuhuan-wu/GAPNet)]
+
+- **CENet:** Deguo Yang, Xinyi Zhang, Jie Yan.
+   "CENet: cross-modal bidirectional fusion and edge-aware refinement for RGB-D salient object detection." TVCJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00371-026-04791-6)] [[code](https://github.com/Shaonian235/CENet)]
 
 - **CAGE-Net:** Haomin Liu, Lu Zhang, Yunzhi Zhuge, Huchuan Lu.
    "CAGE-Net: Cross-modal Alignment and Gated Enhancement Network for RGB-D Video Salient Object Detection." PRL (2026).
