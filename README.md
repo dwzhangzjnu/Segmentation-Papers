@@ -12,6 +12,8 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 \- [General Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#General-Segmentation)
 
+\- [Video Object Segmentation](https://github.com/dwzhangzjnu/Segmentation-Papers#Video-Object-Segmentation)
+
 \- [Salient Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Salient-Object-Detection)
 
 \- [Camouflaged Object Detection](https://github.com/dwzhangzjnu/Segmentation-Papers#Camouflaged-Object-Detection)
@@ -51,6 +53,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "DepthART: Scaling Foundation Monocular Depth to Tiny Models." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.17099)] [[project](https://xuefeng-cvr.github.io/DepthART/)] [[code](https://github.com/xuefeng-cvr/DepthART)]
 
+- **MESAM:** Tianyu Zou, Shengwu Xiong, Rui Wu, Ruilin Yao, Yi Rong.
+   "MESAM: Enhancing SAM2 for Few-Shot Segmentation through Semantic-Visual Memory Generation and Refinement." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835979)] [[code](https://github.com/tianyu-zou/MESAM)]
+
+- **SAM3-Adapter:** Runlong Cao, Yuming Zhang, Tianrun Chen, Xinda Yu, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu.
+   "SAM3-Adapter: Hierarchically Learning Task-Adaptive Prompts for Fine-Grained Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835622)] [[code]( )]
+
 - **SAM 3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, et, al.
    "SAM 3: Segment Anything with Promptable Concept Segmentation." ICLR (2026).
   [[paper](https://openreview.net/forum?id=r35clVtGzw)] [[code](https://github.com/facebookresearch/sam3)]
@@ -66,10 +76,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **INSID3:** Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Stefan Roth.
    "INSID3: Training-Free In-Context Segmentation with DINOv3." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.28480)] [[code](https://github.com/visinf/INSID3)]
-
-- **RobustPVOS:** Sohyun Lee, Yeho Gwon, Lukas Hoyer, Konrad Schindler, Christos Sakaridis, Suha Kwak.
-   "Robust Promptable Video Object Segmentation." CVPR (2026).
-  [[paper](https://arxiv.org/abs/2605.12006)] [[code](https://sohyun-l.github.io/RobustPVOS_project_page/)]
 
 - **DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.
    "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." TPAMI (2026).
@@ -240,10 +246,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2609.34528)] [[code](https://github.com/blue-531/pref-ovss)]
 
-- **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
-   "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
-  [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
-
 - **EVOG:** Jun Huang, Junyang Zhang, Zijie Yue, Bingkun Wang, Yong Luo, Miaojing Shi.
    "Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2611.04472)] [[code](https://github.com/viscom-tongji/EVOG)]
@@ -264,13 +266,21 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2605.20110)] [[code](https://github.com/rookiexiong7/SetCon)]
 
-- **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
-   "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
-  [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
-
 - **AGCL:** Tianrui Hui, Shaofei Huang, Qisong Han, Yaxiong Wang, Lechao Cheng, Zhedong Zheng, Zhun Zhong, Richang Hong, Meng Wang.
    "Acoustically Grounded Cost Learning for Open-Vocabulary Audio-Visual Semantic Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.29121)] [[code](https://github.com/spyflying/AGCL)]
+
+- **SCOPE:** Kuan Wang, Yanjun Qin, Haitao Fan, Mengge Lu, Xiaoming Tao.
+   "From Decoupled Heads to Self-Correcting Inference: SCOPE for Training-Free Open-Vocabulary Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835983)] [[code](https://github.com/akuan1234/SCOPE)]
+
+- **GUMix-RS:** Kuan Wang, Yanjun Qin, Zihao Zhu, Haitao Fan, Liejun Wang, Xiaoming Tao.
+   "GUMix-RS: Training-Free, Zero-Shot Open-Vocabulary Segmentation for Remote Sensing Images." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836168)] [[code](https://github.com/akuan1234/gumix_rs)]
+
+- **VFSeg:** Tao Wang, Guiping Cao, Yipeng Zhang, Xiangyuan Lan, Qingfang Zheng, Dongmei Jiang, Feng Gao, Fan Yang, Jianguo Zhang.
+   "Vocabulary-Free Segmentation via Multi-mask Category Generation with MLLMs." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3834920)] [[code]( )]
 
 - **DINOde:** Sung-Hoon Yoon, Hoyong Kwon, Changgyoon Oh, Kuk-Jin Yoon.
    "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation." ECCV (2026).
@@ -300,10 +310,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "DiffRES: Unleashing Text-to-Image Diffusion Models for Generative Referring Expression Segmentation Without Information Leakage." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11594029)] [[code](https://github.com/charon517-517/DiffRES)]
 
-- **M2-SAM2:** Le Liang; Fu Rong; Fengyuan Liu; Lefei Zhang.
-   "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
-  [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
-
 - **SegCoI:** Jing Yang; Penglei Wang; Yuan Gao; Jieming Yang; Laurence T. Yang; M. Jamal Deen.
    "SegCoI: Optimizing Training-Free Open-Vocabulary Segmentation for Categories of Interest." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11740658)] [[code](https://github.com/wedsadddq/Seg-COI)]
@@ -327,14 +333,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.
    "Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.07141)] [[code]( )]
-
-- **ReVEAL:** Zhongyuan Bao, Cunjie He, Lejun Zhang, Zenglin Xu, Yanwei Fu.
-   "ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2610.41257)] [[code](https://github.com/Lexarymade/ReVEAL)]
-
-- **MoVISA:** Ruining Zhao, Ho Kei Cheng, Alexander G Schwing.
-   "MoVISA: Multi-Token Reasoning for Video Object Segmentation." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2609.28956)] [[code]( )]
 
 - **MK-FSS:** Yijun Hu, Heng Fan, Libo Zhang.
    "Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation." arXiv (2026).
@@ -380,10 +378,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "ContourVLA: A Closed-Loop Perception-Action Contour Policy for Generalized Referring Expression Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.12107)] [[code]( )]
 
-- **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
-   "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
-
   
 ### 2025
 
@@ -402,10 +396,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **WeakMCN:** Silin Cheng, Yang Liu, Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo.
    "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation." CVPR (2025).
   [[paper](https://arxiv.org/abs/2505.18686)] [[code](https://github.com/MRUIL/WeakMCN)]
-
-- **ReferDINO:** Tianming Liang, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu.
-   "ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations." ICCV (2025).
-  [[paper](https://arxiv.org/abs/2501.14607)] [[code](https://github.com/iSEE-Laboratory/ReferDINO)]
   
 - **SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.
    "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCV (2025).
@@ -433,17 +423,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." arXiv (2024).
   [[paper](https://arxiv.org/abs/2401.14159)] [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
 
-### 2023 and Before
 
-- **ReferFormer:** Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo.
-   "Language as Queries for Referring Video Object Segmentation." CVPR (2022).
-  [[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)]
-  
   
 ## General Segmentation
 
-
-[[Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation)]
 
 ### 2026
 
@@ -466,7 +449,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **URNet:** Guoan Xu, Zhengxue Wang, Yang Xiao, Ligeng Chen, Guangwei Gao, Dongchen Zhu.
    "URNet: A Unified Reparameterized Network for Efficient RGB-D Semantic Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.05671)] [[code](https://github.com/Wild-Stephen/URNet)]
-  
+
+- **UniDAS:** Yan Zhou.
+   "Unified Depth-Aware Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835026)] [[code]( )]
+
 - **H2Net:** Jinyu Han, Changguang Wu, Fuming Sun, Mengyin Wang, Jinhui Tang.
    "HÂ²Net: Homo- and Heterogeneous Networks for Unified Segmentation." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/5959.pdf)]  [[project](https://h2net-ijcai26.github.io/)]  [[code](https://github.com/hjy0518/H2Net)]
@@ -650,6 +637,74 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Joint Salient Object Detection and Camouflaged Object Detection via Uncertainty-aware Learning." arXiv (2023).
   [[paper](https://arxiv.org/abs/2307.04651)] [[cvpr21](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Uncertainty-Aware_Joint_Salient_Object_and_Camouflaged_Object_Detection_CVPR_2021_paper.pdf)] [[project](https://npucvr.github.io/UJSCOD/)] [[code](https://github.com/baneitixiaomai/joint_sod_cod)]
   
+
+  
+## Video Object Segmentation
+
+
+[[Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation)]
+
+
+### 2026
+
+- **RobustPVOS:** Sohyun Lee, Yeho Gwon, Lukas Hoyer, Konrad Schindler, Christos Sakaridis, Suha Kwak.
+   "Robust Promptable Video Object Segmentation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.12006)] [[code](https://sohyun-l.github.io/RobustPVOS_project_page/)]
+
+- **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
+   "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
+
+- **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
+   "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.16332)] [[code](https://github.com/Jeven7/EMC)]
+
+- **PARSE-VOS:** Bingrui Zhao, Lin Yuanbo Wu, Xiangtian Fan, Ruyi He, Ximing Li.
+   "Unleashing Hierarchical Reasoning: An LLM-Driven Framework for Training-Free Referring Video Object Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835939)] [[code]( )]
+
+- **ProtoSAM2:** Yadang Chen, ZhengTao Yin, Dichao Li, Chuanyan Hao.
+   "Beyond Visual Similarity: ProtoSAM2 for Long-Term VOS via Adaptive Motion and Prototype Refinement." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836193)] [[code]( )]
+
+- **POLAR:** Zhixuan Liu, Jiaqing Fan, Zhengtong Zhu, Fanzhang Li.
+   "POLAR: Polarized Text Differentials for Referring Video Object Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3834973)] [[code](https://github.com/Louis-zxLiu/POLAR)]
+
+- **M2-SAM2:** Le Liang; Fu Rong; Fengyuan Liu; Lefei Zhang.
+   "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
+
+- **ReVEAL:** Zhongyuan Bao, Cunjie He, Lejun Zhang, Zenglin Xu, Yanwei Fu.
+   "ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.41257)] [[code](https://github.com/Lexarymade/ReVEAL)]
+
+- **MoVISA:** Ruining Zhao, Ho Kei Cheng, Alexander G Schwing.
+   "MoVISA: Multi-Token Reasoning for Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28956)] [[code]( )]
+  
+- **ReflexTrack:** Yuanjia Li, Tianyang Xu, Tao Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.
+   "ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.24098)] [[code]( )]
+
+
+### 2025
+
+- **ReferDINO:** Tianming Liang, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu.
+   "ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2501.14607)] [[code](https://github.com/iSEE-Laboratory/ReferDINO)]
+
+- **Tenet:** Ci-Siang Lin, Min-Hung Chen, I-Jieh Liu, Chien-Yi Wang, Sifei Liu, Yu-Chiang Frank Wang.
+   "Temporal Prompting Matters: Rethinking Referring Video Object Segmentation." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2510.07319)] [[code]( )]
+
+  
+### 2024 and Before
+
+- **ReferFormer:** Jiannan Wu, Yi Jiang, Peize Sun, Zehuan Yuan, Ping Luo.
+   "Language as Queries for Referring Video Object Segmentation." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2201.00487)] [[code](https://github.com/wjn922/ReferFormer)]
+
   
 
 ## Salient Object Detection
@@ -713,6 +768,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.
    "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.25392)] [[code](https://github.com/ltynick/RDVSv2)]
+
+- **S3OD:** Yanfeng Liu, Xingyu Chen, Lefei Zhang.
+   "S3OD: Bridging Segment Anything Model and Semi-Supervised Learning for Salient Object Detection in Aerial Imagery." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836228)] [[code](https://github.com/lyf0801/S3OD)]
 
 - **RA-SOD:** Hongbo Gao, Zhengyu Li, Xueru Nie, Dihao Zhu, Lijun Zhao, Yunke Wang, Chang Xu.
    "RA-SOD: Reliability-Aware RGB-T Salient Object Detection under Modality Degradation." ECCV (2026).
@@ -1159,6 +1218,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection." TMM (2023).
   [[paper](https://ieeexplore.ieee.org/document/10179145)] [[code]( )]
 
+- **SDNet:** Yanfeng Liu; Zhitong Xiong; Yuan Yuan; Qi Wang. 
+   "Transcending Pixels: Boosting Saliency Detection via Scene Understanding From Aerial Imagery." TGRS (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10193847)] [[code](https://github.com/lyf0801/SDNet)]
+
 - **SCDL:** Chenglizhao Chen; Mengke Song; Wenfeng Song; Li Guo; Muwei Jian. 
    "A Comprehensive Survey on Video Saliency Detection With Auditory Information: The Audio-Visual Consistency Perceptual is the Key!." TCSVT (2023).
   [[paper](https://ieeexplore.ieee.org/document/9874810)] [[code](https://github.com/MengkeSong/SCDL)]
@@ -1203,7 +1266,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 - **GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.
    "GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ACM MM (2026).
-  [[paper](https://arxiv.org/abs/2607.11732)] [[code]( )]
+  [[paper](https://arxiv.org/abs/2607.11732)] [[code](https://github.com/ynulonger/GFR-SAM)]
+
+- **CT-CLIP:** Guohui Zhang, Fuming Sun, Xingrui Zhou, Yang Cao, Jing Sun, Fasheng Wang.
+   "CT-CLIP: Calibrating Semantic Occupancy Tokens for Class-Guided Camouflaged Object Detection." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835386)] [[code]( )]
 
 - **SAM3-UCOD** Huafeng Chen, Yueming Lyu, Caifeng Shan.
    "From Language to Segmentation: Collaborative Category-Guided Unsupervised Camouflaged Object Detection with SAM3." IJCAI (2026).
@@ -1810,6 +1877,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "When Fusion Fails: Corruption-Aware Rebalanced Fusion for Multi-Modal Medical Image Segmentation." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2609.10261)] [[code](https://github.com/lrever/CoReFuse)]
 
+- **MoME-SAM:** Yuan Wang, Juan Liu.
+   "MoME-SAM: A Mixture-of-Modality-Experts SAM for Multi-Modal Medical Image Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835203)] [[code]( )]
+
+- **TIED-MedSAM2:** Liyuqiu Huang, Gaole Dai.
+   "TIED-MedSAM2: Test-time Inference Enhancement and Distillation for Prompt-Efficient 3D Medical Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835515)] [[code]( )]
+
 - **DSA:** Fan Zhang, Zhiwei Gu, Hua Wang.
    "Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2512.05494)] [[code]( )]
@@ -2050,6 +2125,18 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.
    "Segment and Matte Anything in a Unified Model." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.12147)] [[code]( )]
+
+- **UniCrack:** Jiaxin Cai, Ziliang Zhang, Weihao Lin, Qi Li, Huanqi Wu, Huangbiao Xu, Haoran Xie, Fu Lee Wang, Wenxi Liu.
+   "UniCrack: An All-in-One Framework for Single- and Multi-Modal Crack Segmentation." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835930)] [[code]( )]
+
+- **UniCrack:** Hui Liu, Chen Jia, Fan Shi, Xu Cheng, Mianzhao Wang, Shengyong Chen.
+   "Compass: Degradation-Simulated Reciprocal Learning with Lightweight Needle RWKV for Multimodal Crack Segmentation under Missing Modalities." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835195)] [[code](https://github.com/Karl1109/Compass)]
+
+- **SFPSeg:** Shan Wu, Jun Hu, Chen Sun, Di Wang.
+   "Scratch Defect Segmentation via Spatial-Frequency Prompt." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836143)] [[code](https://github.com/ShanWuJ/SFPSeg)]
 
 - **FocusSeg:** Yuqing Wang; Hao Tang; Yi Shi; Kaihui Yang; Junwei Han; Dingwen Zhang.
    "Focus on the Hard: SAM-Based Prompt-Guided Refinement for RGB-T Semantic Segmentation." TIP (2026).
