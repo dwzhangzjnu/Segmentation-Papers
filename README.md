@@ -865,10 +865,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Mamba-Driven Diffusion Model for Salient Object Detection in Optical Remote Sensing Images." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11333347)] [[code]( )]
   
+- **PRNet:**  Yunping Zheng; Ke Xu; Mudar Sarem. 
+   "PRNet: Prior-Guided Rectification Network for RGB-D Salient Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11770373)] [[code](https://github.com/permitor/PRNet)]
+
 - **NESS-Net:**  Yunping Zheng; Hao Li; Shiqiang Shu; Ke Xu; Mudar Sarem. 
    "NESS-Net: An NAMLab Edge-Guided and Scribble-Supervised Swin-Transformer Net for RGB-D Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11430602)] [[code](https://github.com/EricLie-c/NESS-Net)]
-  
+
 - **RSONet:**  Bin Wan; Runmin Cong; Xiaofei Zhou; Hao Fang; Chengtao Lv; Sam Kwong. 
    "RSONet: Region-Guided Selective Optimization Network for RGB-T Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11428245)] [[code]( )]
@@ -993,6 +997,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **TAWNet:** Jiazheng Wu, Zhenxue Chen, Qingqiang Guo, Chengyun Liu, Zhenyan Wang, Qinggang Meng.
    "TAWNet: Three-dimensional Adaptive Weighted Network for RGB-D Salient Object Detection." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126005800)] [[code](https://github.com/Karry-Wu/TAWNet)]
+
+- **PGFNet:** Tong Zhu, Yingle Fan.
+   "PGFNet: A Precision-Guided Fusion Network Based on Conditional Precision Modeling for Multimodal Salient Object Detection." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126020332)] [[code]( )]
 
 - **GAPNet:** Yu-Huan Wu, Wei Liu, Zi-Xuan Zhu, Zizhou Wang, Yong Liu, Liangli Zhen.
    "GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-aware Paradigm." MIR (2026).
