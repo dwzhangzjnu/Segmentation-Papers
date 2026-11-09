@@ -55,7 +55,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 
 - **MESAM:** Tianyu Zou, Shengwu Xiong, Rui Wu, Ruilin Yao, Yi Rong.
    "MESAM: Enhancing SAM2 for Few-Shot Segmentation through Semantic-Visual Memory Generation and Refinement." ACM MM (2026).
-  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835979)] [[code](https://github.com/tianyu-zou/MESAM)]
+  [[paper](https://arxiv.org/abs/2611.08943)] [[code](https://github.com/tianyu-zou/MESAM)]
 
 - **SAM3-Adapter:** Runlong Cao, Yuming Zhang, Tianrun Chen, Xinda Yu, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu.
    "SAM3-Adapter: Hierarchically Learning Task-Adaptive Prompts for Fine-Grained Segmentation." ACM MM (2026).
@@ -654,6 +654,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
    "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
+
+- **FaVOS:** Jihwan Hong, Woohyeon Park, Jaeik Kim, Jaeyoung Do.
+   "When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation." NeurIPS E&D (2026).
+  [[paper](https://arxiv.org/abs/2610.02946)] [[code](https://aidaslab.github.io/FaVOS/)]
 
 - **EMC:** Yiwen Jiang, Zhengtong Zhu, Ruixin Zhang, Jiaqing Fan.
    "Unlocking Motion in Expressions: Temporal Calibration for Referring Video Object Segmentation." ACM MM (2026).
