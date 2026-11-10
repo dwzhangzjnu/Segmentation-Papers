@@ -994,6 +994,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "DCNet: Adapting segment anything model to RGB-D salient object detection via texture-semantic fusion guidance." ASOC (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1568494626019824)] [[code]( )]
 
+- **MVF:** Fangfang Liang, Lijuan Duan, Wei Ma, Bo Liu, Guanghui Zhang.
+   "MVF: Multimodal Variational Fusion for RGB-D Salient Object Detection." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426038716)] [[code](https://github.com/LCVISLAB/MVF)]
+
 - **DEGFNet:** Hegui Zhu, Hongrui Tian, Ziyang Zhang.
    "Dual-stage enhancement and coarse-fine gating fusion for RGB-D salient object detection." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004343)] [[code]( )]
@@ -2153,6 +2157,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **FocusSeg:** Yuqing Wang; Hao Tang; Yi Shi; Kaihui Yang; Junwei Han; Dingwen Zhang.
    "Focus on the Hard: SAM-Based Prompt-Guided Refinement for RGB-T Semantic Segmentation." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11715949)] [[code](https://github.com/Wanda36/FocusSeg)]
+
+- **Lighted-SAM:** Yuhan Jia; Lixin Duan; Wen Li; Fengmao Lv.
+   "Lighted-SAM: Lightening Open-World SAM for Low-Light Segmentation." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11568962)] [[code](https://github.com/Jaaaahan/LightedSAM)]
 
 - **H2GNet:** Zhiwei Zhang; Yixin Hu; Yisha Liu; Yan Zhuang.
    "Beyond Pairwise Relational Modeling: Hierarchical Hypergraph Fusion Network for RGB-T Semantic Segmentation." TMM (2026).
