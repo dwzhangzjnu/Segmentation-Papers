@@ -466,6 +466,14 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Universal Concept Disruption for SAM3 Image Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05983)] [[code]( )]
 
+- **BiRefNet-V2:** Peng Zheng, Deng-Ping Fan, Binglu Wang, Nicu Sebe.
+   "BiRefNet-V2: Rethinking Bilateral Reference for High-Resolution Dichotomous Image Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.11272)] [[code](https://github.com/ZhengPeng7/BiRefNet-V2)]
+
+- **SegDis:** Dingning Luo, Shuo Dou, Tong Jiang, Xianfeng Li.
+   "SegDis: Foreground Segmentation Followed by Type Discrimination for Salient and Camouflaged Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.11378)] [[code]( )]
+
 - **BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.
    "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPRW (2026).
   [[paper](https://arxiv.org/abs/2605.24893)] [[code](https://github.com/TylerRust-1/BED-SAM2)]
@@ -505,6 +513,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DFormer++:** Bo-Wen Yin; Jiao-Long Cao; Dan Xu; Ming-Ming Cheng; Qibin Hou.
    "DFormer++: Improving RGBD Representation Learning for Semantic Segmentation." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11365989)] [[code](https://github.com/VCIP-RGBD/DFormer)] [[DFormer-SOD](https://github.com/VCIP-RGBD/DFormer-SOD)]
+
+- **LFX:** Fei Teng, Lingxin Huang, Buyin Deng, Kai Luo, Boyuan Zheng, Zheng Fang, Hong Zheng, Kunyu Peng, Jiaming Zhang, Yaonan Wang, Kailun Yang.
+   "LFX: Fusion-Form-Flexible Light Field Modeling for Dense Semantic Segmentation and Salient Object Detection." TCSVT (2026).
+  [[paper](https://arxiv.org/abs/2503.00747)] [[code](https://github.com/FeiT-FeiTeng/LFX)]
 
 - **RGB-X Fusion:** Chen Yu, Lu Jialiang, Li Xuewei, Li Xi.
    "General Intelligence-Driven RGB-X Fusionï¼š A Survey." JIG (2026).
@@ -621,6 +633,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM-Not-Perfect:** Wei Ji, Jingjing Li, Qi Bi, Tingwei Liu, Wenbo Li, Li Cheng.
    "Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications." MIR (2024).
   [[paper](https://link.springer.com/article/10.1007/s11633-023-1385-0)] [[code](https://github.com/LiuTingWed/SAM-Not-Perfect)]
+
+- **BiRefNet:** Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe.
+   "Bilateral Reference for High-Resolution Dichotomous Image Segmentation." CAAI AIR (2024).
+  [[paper](https://arxiv.org/abs/2401.03407)] [[code](https://github.com/ZhengPeng7/BiRefNet)]
 
 - **MVGNet:** Xiaogang Song; Pengfei Zhang; Xiaofeng Lu; Xinhong Hei; Rongrong Liu.
    "A Universal Multi-View Guided Network for Salient Object and Camouflaged Object Detection." TCSVT (2024).
