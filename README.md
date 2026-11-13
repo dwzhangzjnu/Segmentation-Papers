@@ -667,6 +667,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Robust Promptable Video Object Segmentation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.12006)] [[code](https://sohyun-l.github.io/RobustPVOS_project_page/)]
 
+- **VidEoMT:** Narges Norouzi, Idil Esen Zulfikar, NiccolÃ² Cavagnero, Tommie Kerssies, Bastian Leibe, Gijs Dubbelman, Daan de Geus.
+   "VidEoMT: Your ViT is Secretly Also a Video Segmentation Model." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.17807)] [[code](https://github.com/tue-mps/videomt)]
+
 - **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
    "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
