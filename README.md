@@ -893,6 +893,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "NESS-Net: An NAMLab Edge-Guided and Scribble-Supervised Swin-Transformer Net for RGB-D Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11430602)] [[code](https://github.com/EricLie-c/NESS-Net)]
 
+- **TriFuse:**  Huan Yu; Jingru Yang; Jin Wang; Kaixiang Huang; Fengtao Deng; Guodong Lu. 
+   "TriFuse: Revisiting Visible-Thermal-Depth Salient Object Detection through an Unbiased Quality Lens." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11775817)] [[code](https://github.com/FisherYuuri/TriFuse)]
+
 - **RSONet:**  Bin Wan; Runmin Cong; Xiaofei Zhou; Hao Fang; Chengtao Lv; Sam Kwong. 
    "RSONet: Region-Guided Selective Optimization Network for RGB-T Salient Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11428245)] [[code]( )]
@@ -1407,7 +1411,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **UCAMNet:** Xuedong Guo; Lei Deng; Maoyong Li; Yingying Gao; Mingli Dong; Lianqing Zhu.
    "Universal Context-Modulated Asymmetric Multiscale Network for Camouflaged Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11631723)] [[code](https://github.com/change68/UCAMNet)]
-  
+
+- **TACO:** Yuzhen Niu; Rongshen Wang; Ri Cheng; Yangqing Wang.
+   "Text-Point Collaborative Pseudo-Labeling with Boundary-Semantic Guidance for Weakly Supervised Camouflaged Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11743939)] [[code]( )]
+
 - **MINet:** Xiandong Wang; Tianqi Guo; Fengqin Yao; Qi Guo; Shengke Wang; Qing Cai.
    "Beyond Semantics: Multiscale Interaction Network for Referring Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11419160)] [[code]( )]
