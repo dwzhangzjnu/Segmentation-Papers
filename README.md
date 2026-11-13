@@ -1392,14 +1392,30 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Catch Me If You Can Describe Me: Open-Vocabulary Camouflaged Instance Segmentation with Diffusion." IJCV (2026).
   [[paper](https://arxiv.org/abs/2312.17505)] [[code]( )]
 
+- **FEPAS:** Hongyu Chen; Yuqing Huang; Shaoguang Huang; Hongyan Zhang.
+   "Camouflaged Object Detection with Frequency-Aware Adaptation and Automatic Prompting for SAM." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11744493)] [[code]( )]
+
+- **CODIB:** Guanyi Li; Junjie Zhang; Rui Gao; Wubang Yuan; Gloria Jin; Dan Zeng.
+   "Learning Compact Representations With an Information Bottleneck for Camouflaged Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11207512)] [[code](https://github.com/ShuCvlab/CODIB)]
+
+- **Fast-CamoDiff:** Tianyu Wang; Xinghua Xu; Changchong Sheng; Shaohua Qiu; Li Liu; Denghua Guo.
+   "Fast Diffusion-Based Camouflaged Object Detection via Asynchronous Denoising and Linear Attention." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417251)] [[code]( )]
+
 - **F2HI:** Peng Ren; Cheng Jiang; Fuming Sun; Tian Bai.
    "Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417437)] [[code](https://github.com/ROC-Star/F2HI)]
-  
+
 - **BEI-Net:** Ruiheng Zhang; Kaizheng Chen; Lu Li; Daming Zhou; Yunqiu Xu; Zheng Lin.
    "Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11563663)] [[code](https://github.com/RuihengZhang/BEI_Net)]
-  
+
+- **EVIAC/HCRNet:** Cheng Liu; Zheng Wang; Yahong Han; Meijun Sun; Qinghua Hu.
+   "Hierarchical Cross-Modal Reasoning for Visible-Infrared Camouflaged Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11573989)] [[code]( )]
+
 - **VIAC/CGFINet:** Cheng Liu, Zheng Wang, Xinyu Yan, Meijun Sun, Qinghua Hu.
    "Visible-Infrared Camouflaged Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11159525)] [[code](https://github.com/tjuliucheng/Multimodal-Visual-Reasoning-Dataset)]
@@ -1944,6 +1960,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Lingshu:** Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang, Chenghao Xiao, Guizhen Chen, Chaoqun Liu, Zhaodonghui Li, Yu Sun, Junao Shen, Chaojun Wang, Jie Tan, Deli Zhao, Tingyang Xu, Hao Zhang, Yu Rong.
    "Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2506.07044)] [[code](https://alibaba-damo-academy.github.io/lingshu/)]
+
+- **UniUltra:** Yue Li; Qing Xu; Yixuan Zhang; Xiangjian He; Qian Zhang; Yuan Yao.
+   "UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11493746)] [[code](https://github.com/xq141839/UniUltra)]
 
 - **MedSegAgent:** Ziyan Huang; Haoyu Wang; Jin Ye; Yuanfeng Ji; Xiaowei Hu; Lihao Liu.
    "MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation." JBHI (2026).
