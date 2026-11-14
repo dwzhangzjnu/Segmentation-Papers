@@ -699,6 +699,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "M2-SAM2: Rethinking SAM2 with Mamba-MoE for Referring Video Object Segmentation." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595846)] [[code]( )]
 
+- **SMART:** Fang Gao; Lei Shi; Yan Jin; Hanbo Zheng; Qingbao Huang; Jun Yu.
+   "Say, Move, and Remember: Enhancing SAM2 for Referring Video Segmentation via Motion Modeling and Key Action-Aware Memory." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11672817)] [[code](https://github.com/GXU-LIPE/SMART)]
+
 - **ReVEAL:** Zhongyuan Bao, Cunjie He, Lejun Zhang, Zenglin Xu, Yanwei Fu.
    "ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.41257)] [[code](https://github.com/Lexarymade/ReVEAL)]
@@ -921,6 +925,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **WeakS2Diff_SOD:** Wenqi Si, Gongyang Li, Shixiang Shi, Weisi Lin. 
    "Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion." TMM (2026).
   [[paper](https://arxiv.org/abs/2607.15041)] [[code](https://github.com/Switch457/WeakS2Diff_SOD)]
+
+- **PADNet:** Yuting Yang; Licheng Jiao; LingLing Li; Xu Liu; Fang Liu; Wenping Ma. 
+   "Physics-inspired Anisotropic Diffusion Learning for Scribble-supervised RGB-D Salient Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11793831)]  [[code](https://github.com/yutinyang/PADNet)]
 
 - **STENet:** Jianlin Chen, Gongyang Li, Zhijiang Zhang, Liang Chang, Dan Zeng. 
    "STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection." TMM (2026).
@@ -1403,6 +1411,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Fast-CamoDiff:** Tianyu Wang; Xinghua Xu; Changchong Sheng; Shaohua Qiu; Li Liu; Denghua Guo.
    "Fast Diffusion-Based Camouflaged Object Detection via Asynchronous Denoising and Linear Attention." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417251)] [[code]( )]
+
+- **ZoomingCOD:** Feng Xiao; Jianhua Zhang; Guang Yang; Ruyu Liu; Xu Cheng; Shengyong Chen.
+   "ZoomingCOD: Zooming-like behavior for Camouflage Object Detection based on Cross-axis Perception and Adaptive Receptive Field." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11415376)] [[code]( )]
 
 - **F2HI:** Peng Ren; Cheng Jiang; Fuming Sun; Tian Bai.
    "Depth-assisted Camouflaged Object Segmentation via Frequency-domain Fusion and High-order Interaction." TMM (2026).
