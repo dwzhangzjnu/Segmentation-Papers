@@ -401,6 +401,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCV (2025).
   [[paper](https://arxiv.org/abs/2509.16972)] [[full report](https://arxiv.org/abs/2510.11063?)] [[code](https://github.com/bytedance/Sa2VA/blob/main/projects/sasasa2va/README.md)]
 
+- **SSP-SAM:** Wei Tang, Xuejing Liu, Yanpeng Sun, Zechao Li.
+   "SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation." TCSVT (2025).
+  [[paper](https://arxiv.org/abs/2603.18086)] [[code](https://github.com/WayneTomas/SSP-SAM)]
+
 - **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Yueyi Sun, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.
    "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." arXiv (2025).
   [[paper](https://arxiv.org/abs/2501.04001)] [[code](https://github.com/bytedance/Sa2VA)]
