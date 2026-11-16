@@ -665,6 +665,13 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 [[Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation)]
 
 
+### 2027
+
+- **MemCAM:** Andrea Marelli, Alessandro Ardenghi, Giacomo Boracchi, Luca Magri.
+   "Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.18324)] [[code](https://github.com/andreamarelli99/MemCAM)]
+
+
 ### 2026
 
 - **RobustPVOS:** Sohyun Lee, Yeho Gwon, Lukas Hoyer, Konrad Schindler, Christos Sakaridis, Suha Kwak.
@@ -994,6 +1001,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Weakly Supervised Salient Object Detection with Text Supervision." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02728-5)] [[code]( )]
   
+- **LiSalNet:** Habib Khan, Muhammad Talha Usman, JaKeoung Koo.
+   "Efficient RGB-D saliency detection via hierarchical heterogeneous alignment with parallel focus units." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326022557)] [[code](https://github.com/habib1402/LiSalNet)]
+
 - **DENet:** Xiaogang Song, Xiaolong Zhang, Qin Zhao, Bingxing Wei, Xinwei Guo, Xinhong Hei.
    "Depth correction and edge guidance network for RGB-D salient object detection." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002438)] [[code]( )]
