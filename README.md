@@ -322,6 +322,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "SegRAG: Retrieval Augmented Spatial Prompting for Open Vocabulary Semantic Segmentation." IPM (2026).
   [[paper](https://arxiv.org/abs/2605.17630)] [[code](https://github.com/boudiafA/SegRAG)]
 
+- **EmergeFuse:** Zehao Gao, Jie Feng, Wenda Zhao, Junpeng Zhang, Ronghua Shang, Weisheng Dong.
+   "Fuse to Recognize the Unseen: Class-Relative Infrared-Visible Fusion for Open-Vocabulary Semantic Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.24316)] [[code]( )]
+
 - **DSRS:** Sicen Guo, Zhengfei Song, Kuanhsun Chen, Xu Huang, Ping Zhong, Wei Ye, Shaoyi Du, Rui Fan.
    "DSRS: Teaching MLLMs to Perceive, Reason, and Segment in Complex Driving Scenes." arXiv (2026).
   [[paper](https://arxiv.org/abs/2611.06160)] [[code]( )]
