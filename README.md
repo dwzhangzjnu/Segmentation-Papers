@@ -470,6 +470,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.24807)] [[code]( )]
 
+- **UNVEIL:** Yu-Huan Wu, Yun Liu, Liangli Zhen.
+   "SAM 3 Sees More Than It Detects: Promptable Concept Maps Beyond Categories." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.25747)] [[code](https://github.com/yuhuan-wu/UNVEIL)]
+
 - **UCD-SAM3:** Hao Wang, Yuxuan Zhang, Wei Yang.
    "Universal Concept Disruption for SAM3 Image Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05983)] [[code]( )]
@@ -1502,6 +1506,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **LAD-COD:** Shangye Song, Tianzhi Zhu, Syed Ariff Syed Hesham, Xin He, Yun Liu.
    "LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07941)] [[code]( )]
+
+- **FUN:** Rihan Zhang, Fengyang Xiao, Yuhan Chen, Sina Farsiu.
+   "Beyond Restoration: Content-Degradation Factor Unfolding for Real-World Concealed Object Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.25239)] [[code]( )]
 
 - **FreeCam:** Haodong Yang, Zhongling Huang, Gong Cheng.
    "Rethinking Camouflage Image Generation towards a Training-Free Paradigm." ArXiv (2026).
