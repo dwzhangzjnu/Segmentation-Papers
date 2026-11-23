@@ -97,6 +97,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.04655)] [[code](https://github.com/wanghao9610/X-SAM)]
 
+- **Depth Pro 2:** Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, AmaÃ«l Delaunoy, Stephan R. Richter, Vladlen Koltun.
+   "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.26603)] [[code](https://apple-aiml-research.github.io/ml-depth-pro-2/)]
+
 - **FoRIS:** Ming Hu, Jianfu Yin, Mingyu Dou, Miaomiao Zhang, Yao Wang, Cong Hu, Bingliang Hu, Quan Wang.
    "FoRIS: Progressive Foreground Refinement for Training-Free In-Context Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03384)] [[code](https://github.com/Xi-Mu-Yu/FoRIS)]
