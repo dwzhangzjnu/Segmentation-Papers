@@ -1033,7 +1033,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Mitigating Fusion Bias for RGB-D Salient Object Detection." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007952)] [[code]( )]
 
-- **SMFNet:** YJiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
+- **SMFNet:** Jiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
    "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." KBS (2026).
   [[arXiv](https://arxiv.org/abs/2507.21857)] [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126012359)] [[code](https://github.com/Jia-hao999/SMFNet)]
 
