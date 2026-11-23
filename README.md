@@ -68,7 +68,7 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **SAM3-LoRA:** AI Research Group, KMUTT.
    "SAM3-LoRA: Efficient Fine-Tuning with Low-Rank Adaptation." Github (2026).
   [[paper](https://arxiv.org/abs/2609.00469)] [[code](https://github.com/Sompote/SAM3_LoRA)]
-  
+
 - **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.
    "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.12297)] [[code]( )]
@@ -100,6 +100,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **FoRIS:** Ming Hu, Jianfu Yin, Mingyu Dou, Miaomiao Zhang, Yao Wang, Cong Hu, Bingliang Hu, Quan Wang.
    "FoRIS: Progressive Foreground Refinement for Training-Free In-Context Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03384)] [[code](https://github.com/Xi-Mu-Yu/FoRIS)]
+
+- **ReSA:** Dezhao Su, Bingxu Hou, Jingdi Lei, Lin Qian, Likai Wang, Yunyun Wan.
+   "ReSA: Preserving Reference-Specified Foreground in In-Context Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.27341)] [[code]( )]
 
 - **Diffuse2Seg:** Christoph HÃ¼mmer, Joachim Sicking, Fabian HÃ¼ger, Hanno Gottschalk.
    "Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision." arXiv (2026).
@@ -1028,7 +1032,11 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **BCNet:** Yang Yang, Nianchang Huang, Qiang Zhang, Jungong Han. 
    "Mitigating Fusion Bias for RGB-D Salient Object Detection." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007952)] [[code]( )]
-    
+
+- **SMFNet:** YJiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
+   "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." KBS (2026).
+  [[arXiv](https://arxiv.org/abs/2507.21857)] [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126012359)] [[code](https://github.com/Jia-hao999/SMFNet)]
+
 - **S2ANet:** Yaoqi Sun, Bin Wan, Wu Jian, Wenyao Zhu, Liaoliang Tao.
    "S2ANet: Semantic-Spatial Driven Alignment Salient Object Detection Network in UAV-based Unregistered RGB-T Image." NN (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026008683)] [[code]( )]
@@ -1150,10 +1158,6 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DPPNet:** Junbin Yuan, Yiqi Wang, Zhoutao Wang, Qingzhen Xu, Bharadwaj Veeravalli, Xulei Yang.
    "DPPNet: A Depth Pixel-Wise Potential-Aware Network for RGB-D Salient Object Detection." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10882929)] [[code](https://github.com/danielfaster/DPPNet)]
-  
-- **SMFNet:** YJiahao He, Daerji Suolang, Keren Fu, Qijun Zhao.
-   "Unleashing the Power of Motion and Depth: A Selective Fusion Strategy for RGB-D Video Salient Object Detection." arXiv (2025).
-  [[paper](https://arxiv.org/abs/2507.21857)] [[code](https://github.com/Jia-hao999/SMFNet)]
 
 - **ORSIDiff:** Jinyu Han; Jing Sun; Fasheng Wang; Fuming Sun; Haojie Li.
    "ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images." TGRS (2025).
@@ -2031,6 +2035,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DistMedVL:** Jiaxuan Li, Qing Xu, Xiangjian He, Yue Li, Daokun Zhang, Fiseha B. Tesema, Rong Qu.
    "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.05683)] [[code]( )]
+
+- **GEG-SAM:** Ao Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang, Xiangbao Gong, Zhiyi Zhang, Shunyao Wang, Xianglei Yuan, Zizhou Wang.
+   "GEG-SAM: Gaze Exploration-Guided Segment Anything Model for Weakly Supervised Polyp Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.27183)] [[code]( )]
 
 - **InstEditSeg:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.
    "InstEditSeg: Instruction-Driven Image Editing for Polyp and Skin Lesion Segmentation." ArXiv (2026).
