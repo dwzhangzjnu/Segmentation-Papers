@@ -378,6 +378,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.16996)] [[code](https://github.com/VILA-Lab/ActiveSAM)]
 
+- **ROSE-SAM3:** Yanghui Song, Chengfu Yang, Yongpeng Wen, Zhanxuan Hu, Wei Lu, Qi Ming, Nanqing Liu, Heng-Chao Li.
+   "ROSE-SAM3: Response-Oriented Prompt Selection for Open-Vocabulary Remote Sensing Segmentation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.28112)] [[code](https://github.com/YanghuiSong/ROSE-SAM3)]
+
 - **VPRef:** Quanwei Liu, Tao Huang, Jiaqi Yang, Wei Xiang.
    "VPRef: A Cross-Domain Benchmark for Referring Remote Sensing Image Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.16486)] [[code](https://github.com/quanweiliu/VPRef)]
@@ -686,6 +690,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MemCAM:** Andrea Marelli, Alessandro Ardenghi, Giacomo Boracchi, Luca Magri.
    "Unlocking Cross-Attention in Label-Scarce Regimes: A Weakly Supervised Approach for Video Semantic Segmentation." WACV (2027).
   [[paper](https://arxiv.org/abs/2611.18324)] [[code](https://github.com/andreamarelli99/MemCAM)]
+
+- **MSI:** Hai-Anh Le, Le-Trung Nguyen, Enzo Tartaglione.
+   "Efficient Memory-Constrained Video Object Segmentation via Subspace Optimization." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.28087)] [[code](https://github.com/Hai-Anh-LE/MSI_WACV2027)]
 
 
 ### 2026
@@ -2031,6 +2039,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.
    "MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.09879)] [[code](https://github.com/astlian9/MedVL-SAM2)]
+
+- **OB-SAM:** Guilin Guan.
+   "One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.29278)] [[code]( )]
 
 - **SegBanana:** Xiaoye Liang, Ye Yan, Mingze Yin, Shikun Feng, Mai Xu, Haiguang Liu, Lai Jiang, Yiheng Zhu.
    "SegBanana: Steering Unified Multimodal Models into Medical Segmenters." ArXiv (2026).
