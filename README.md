@@ -105,6 +105,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "FoRIS: Progressive Foreground Refinement for Training-Free In-Context Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03384)] [[code](https://github.com/Xi-Mu-Yu/FoRIS)]
 
+- **SegPFN:** Jiajian Ma, Yihao Qiao, Ke Chen, Kaiyue Feng, Wushuang Rui, Abhishek Jha, Aarti Darji, Yiqiu Shen.
+   "SegPFN: Training-Free In-Context Segmentation with Tabular Prior-Data Fitted Networks." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.32045)] [[code](https://github.com/nyu-shenlab/SegPFN)]
+
 - **ReSA:** Dezhao Su, Bingxu Hou, Jingdi Lei, Lin Qian, Likai Wang, Yunyun Wan.
    "ReSA: Preserving Reference-Specified Foreground in In-Context Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2611.27341)] [[code]( )]
@@ -695,6 +699,15 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Efficient Memory-Constrained Video Object Segmentation via Subspace Optimization." WACV (2027).
   [[paper](https://arxiv.org/abs/2611.28087)] [[code](https://github.com/Hai-Anh-LE/MSI_WACV2027)]
 
+- **E-MAPS:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer, Hasan AlMarzouqi, Sajid Javed, Naoufel Werghi.
+   "E-MAPS: Event-Based Promptable Video Segmentation with Memory-as-Prompt." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.33017)] [[code](https://github.com/adonaydem/emaps-wacv)]
+
+- **SAM2-DA-CDS:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.
+   "Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.32011)] [[code](https://adonaydem.github.io/sam2-da-page/)]
+
+
 
 ### 2026
 
@@ -709,6 +722,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P.A. Lensch.
    "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.15929)] [[code](https://valaybundele.github.io/Dual-Agent/)]
+
+- **AUV:** Ruiqi Shen, Chang Liu, Henghui Ding.
+   "Attack-Inference Aligned Universal Adversarial Attacks on Video Object Segmentation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.32658)] [[code](https://github.com/FudanCVL/AUV)]
 
 - **FaVOS:** Jihwan Hong, Woohyeon Park, Jaeik Kim, Jaeyoung Do.
    "When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation." NeurIPS E&D (2026).
@@ -1402,6 +1419,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
 - **DepthSAM:** Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang.
    "Beyond Appearance: Camouflaged Object Detection via Geometric Structure." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)] [[code](https://github.com/hjy0518/DepthSAM)]
+
+- **CamoBreak:** Dingming Zhang, Fengyang Xiao, Jingjia Feng, Chunming He, Sina Farsiu.
+   "Look Where Camouflage Breaks: Concealment-Guided Observation for Camouflaged Object Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2611.31392)] [[code]( )]
 
 - **SDDF:** Jiaming Liang, Yifeng Zhan, Chunlin Liu, Weihua Zheng, Bingye Peng, Qiwei Liang, Boyang Cai, Xiaochun Mai, Qiang Nie.
    "SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection." CVPR (2026).
