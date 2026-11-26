@@ -338,6 +338,10 @@ If you have any suggestions,  please feel free to contact me. Keep updating....ð
    "Fuse to Recognize the Unseen: Class-Relative Infrared-Visible Fusion for Open-Vocabulary Semantic Segmentation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2611.24316)] [[code]( )]
 
+- **SPiXSeg:** Piyush Tiwary, Sohini Dutta, Prathosh A.P.
+   "SPiXSeg: Rethinking MLLM-based Image Segmentation as Superpixel Classification." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.33842)] [[code]( )]
+
 - **DSRS:** Sicen Guo, Zhengfei Song, Kuanhsun Chen, Xu Huang, Ping Zhong, Wei Ye, Shaoyi Du, Rui Fan.
    "DSRS: Teaching MLLMs to Perceive, Reason, and Segment in Complex Driving Scenes." arXiv (2026).
   [[paper](https://arxiv.org/abs/2611.06160)] [[code]( )]
